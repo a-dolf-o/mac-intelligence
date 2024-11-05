@@ -1,5 +1,35 @@
 #  Mac Intelligence
 
+---
+
+## Artificial Intelligence
+
+> [character.ai | Personalized AI for every moment of your day](https://character.ai)
+
+Meet AIs that feel alive. Chat with anyone, anywhere, anytime. Experience the power of super-intelligent chat bots that hear you, understand you, ...
+
+> [Claude](https://www.anthropic.com)
+
+Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work.
+
+> [‎Gemini - chat to supercharge your ideas](https://gemini.google.com)
+
+Bard is now Gemini. Get help with writing, planning, learning, and more from Google AI.
+
+> [Microsoft Copilot: Your AI companion](https://copilot.microsoft.com)
+
+Microsoft Copilot is your companion to inform, entertain, and inspire. Get advice, feedback, and straightforward answers. Try Copilot now.
+
+> [OpenAI](https://openai.com)
+
+ChatGPT on your desktop. Chat about email, screenshots, files, and anything on your screen. Chat about email, screenshots, files ...
+
+> [Perplexity AI](https://www.perplexity.ai)
+
+Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
+
+---
+
 ## Web Browser
 
 >  [Arc from The Browser Company](https://arc.net)
@@ -45,3 +75,6 @@ It's a web browser. But fun. It comes with a bunch of clever features built-in. 
 >  [Zen Browser](https://zen-browser.app)
 
 Zen is based on Firefox, ensuring that your browsing experience prioritizes security and privacy. With advanced tracking protection and minimal data collection, ...
+
+---
+
