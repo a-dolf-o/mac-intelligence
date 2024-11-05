@@ -2,6 +2,18 @@
 
 ---
 
+<details open>
+  
+  <summary>Table of Contents</summary>
+  <br>
+  
+  - [Artificial Intelligence](#artificial-intelligence)
+  - [Web Browsers](#web-browsers)
+  
+</details>
+
+---
+
 ## Artificial Intelligence
 
 > [character.ai | Personalized AI for every moment of your day](https://character.ai)
@@ -30,7 +42,7 @@ Perplexity is a free AI-powered answer engine that provides accurate, trusted, a
 
 ---
 
-## Web Browser
+## Web Browsers
 
 >  [Arc from The Browser Company](https://arc.net)
 
