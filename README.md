@@ -8,8 +8,9 @@
   <br>
   
   - [Artificial Intelligence](#artificial-intelligence)
-  - [Web Browsers](#web-browsers)
   - [Cloud Storage](#cloud-storage)
+  - [Virtual Private Network](#virtual-private-network)
+  - [Web Browsers](#web-browsers)
   
 </details>
 
@@ -72,6 +73,18 @@ Save your files and photos to OneDrive and access them from any device, anywhere
 > [pCloud - The Most Secure Cloud Storage](https://www.pcloud.com)
 
 pCloud is the most secure encrypted cloud storage, where you can store your personal files or backup your PC or share your business documents with your ...
+
+---
+
+## Virtual Private Network
+
+> [Proton VPN: Secure, fast VPN service in 110+ countries](https://protonvpn.com)
+
+Stream from anywhere. Proton VPN unblocks a wide selection of popular online media services, allowing you to access your favorite streaming content from ...
+
+> [Windscribe - Free VPN and Ad Block](https://windscribe.com)
+
+Windscribe is a desktop application and browser extension that work together to block ads and trackers, restore access to blocked content and help you ...
 
 ---
 
