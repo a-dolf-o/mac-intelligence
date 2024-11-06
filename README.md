@@ -11,6 +11,7 @@
   - [Cloud Storage](#cloud-storage)
   - [Data Analysis](#data-analysis)
   - [File Transfer](#file-transfer)
+  - [Online Learning](#online-learning)
   - [Project Management](#project-management)
   - [Video Editing](#video-editing)
   - [Virtual Private Network](#virtual-private-network)
@@ -101,6 +102,34 @@ Open PairDrop on other devices to send files. Pair devices or enter a public roo
 > [ShareDrop](https://www.sharedrop.io)
 
 ShareDrop is a free, open-source web app that allows you to easily and securely share files directly between devices without uploading them to any server first.
+
+---
+
+## Online Learning
+
+> [Coursera | Degrees, Certificates, & Free Online Courses](https://www.coursera.org)
+
+100% Free. Start learning with free courses. Explore free online courses from the world's top universities and companies.
+
+> [edX: Build new skills. Advance your career.](https://www.edx.org)
+
+Discover thousands of offerings — from free courses to full degrees — delivered by world-class partners like Harvard, Google, Amazon and more.
+
+> [freeCodeCamp](https://www.freecodecamp.org)
+
+freeCodeCamp is a community of people from all around the world who are learning to code together. We're a 501(c)(3) public charity.
+
+> [Khan Academy | Free Online Courses, Lessons & Practice](https://www.khanacademy.org)
+
+Created by experts, Khan Academy's library of trusted, standards-aligned practice and lessons covers math K-12 through early college, grammar, science, history, ...
+
+> [Udemy: Online Courses - Learn Anything, On Your Schedule](https://www.udemy.com)
+
+Udemy is an online learning and teaching marketplace with over 250000 courses and 73 million students. Learn programming, marketing, data science and more.
+
+> [W3Schools Online Web Tutorials](https://www.w3schools.com)
+
+Full Access Best Value! ... Data Analytics ... What is a Certificate? ×. All Our Services ... W3Schools offers a wide range of services and products for beginners and ...
 
 ---
 
