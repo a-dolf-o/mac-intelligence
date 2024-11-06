@@ -9,6 +9,7 @@
   
   - [Artificial Intelligence](#artificial-intelligence)
   - [Web Browsers](#web-browsers)
+  - [Cloud Storage](#cloud-storage)
   
 </details>
 
@@ -23,6 +24,10 @@ Meet AIs that feel alive. Chat with anyone, anywhere, anytime. Experience the po
 > [Claude](https://www.anthropic.com)
 
 Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work.
+
+> [Felo - Your Free AI Search Engine](https://felo.ai)
+
+The multilingual AI search engine optimized for discovering and understanding world knowledge. Leverage the power of ChatGPT and AI Agent to break language ...
 
 > [‎Gemini - chat to supercharge your ideas](https://gemini.google.com)
 
@@ -39,6 +44,34 @@ ChatGPT on your desktop. Chat about email, screenshots, files, and anything on y
 > [Perplexity AI](https://www.perplexity.ai)
 
 Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
+
+---
+
+## Cloud Storage
+
+> [Dropbox.com](https://www.dropbox.com)
+
+Dropbox helps you simplify your workflow. So you can spend more time in your flow.
+
+> [Google One: Get More Storage, More AI capabilities, and More Features](https://one.google.com)
+
+Google Drive is a way to organize your files. Google One is a subscription that gives you more storage across Google Drive, Gmail, and Google Photos.
+
+> [iCloud](https://www.icloud.com)
+
+Log in to iCloud to access your photos, mail, notes, documents and more. Sign in with your Apple Account or create a new account to start using Apple ...
+
+> [MEGA: Protect your Online Privacy](https://mega.io)
+
+Store files, chat, and meet – all in one place. MEGA brings cloud storage, file and folder sharing, chat, meetings, and more — together into one place.
+
+> [Microsoft OneDrive - Personal Cloud Storage](https://www.microsoft.com/onedrive)
+
+Save your files and photos to OneDrive and access them from any device, anywhere. Learn more and get 5 GB of free personal cloud storage today.
+
+> [pCloud - The Most Secure Cloud Storage](https://www.pcloud.com)
+
+pCloud is the most secure encrypted cloud storage, where you can store your personal files or backup your PC or share your business documents with your ...
 
 ---
 
