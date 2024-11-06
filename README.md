@@ -9,7 +9,9 @@
   
   - [Artificial Intelligence](#artificial-intelligence)
   - [Cloud Storage](#cloud-storage)
+  - [Data Analysis](#data-analysis)
   - [File Transfer](#file-transfer)
+  - [Project Management](#project-management)
   - [Virtual Private Network](#virtual-private-network)
   - [Web Browsers](#web-browsers)
   
@@ -77,6 +79,14 @@ pCloud is the most secure encrypted cloud storage, where you can store your pers
 
 ---
 
+## Data Analysis
+
+> [Tableau: Business Intelligence and Analytics Software](https://www.tableau.com)
+
+Tableau can help anyone see and understand their data. Connect to almost any database, drag and drop to create visualizations, and share with a click.
+
+---
+
 ## File Transfer
 
 > [AirDrop](https://support.apple.com)
@@ -90,6 +100,30 @@ Open PairDrop on other devices to send files. Pair devices or enter a public roo
 > [ShareDrop](https://www.sharedrop.io)
 
 ShareDrop is a free, open-source web app that allows you to easily and securely share files directly between devices without uploading them to any server first.
+
+---
+
+## Project Management
+
+> [Asana • Manage your team's work, projects, & tasks online](https://asana.com)
+
+Work anytime, anywhere with Asana. Keep remote and distributed teams, and your entire organization, focused on their goals, projects, and tasks with Asana.
+
+> [ClickUp™ | One app to replace them all](https://clickup.com)
+
+Our mission is to make the world more productive. To do this, we built one app to replace them all - Tasks, Docs, Goals, and Chat.
+
+> [Jira | Issue & Project Tracking Software | Atlassian](https://www.atlassian.com/software/jira)
+
+Make the impossible, possible in Jira. Plan, track, and release world-class software with the number one project management tool for agile teams.
+
+> [Slack: AI Work Management & Productivity Tools](https://slack.com)
+
+Slack is a new way to communicate with your team. It's faster, better organized, and more secure than email.
+
+> [Trello: Manage Your Team's Projects From Anywhere](https://trello.com)
+
+Make the impossible, possible with Trello. The ultimate teamwork project management tool. Start up a board in seconds, automate tedious tasks, ...
 
 ---
 
