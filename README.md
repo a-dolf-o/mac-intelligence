@@ -12,6 +12,7 @@
   - [Data Analysis](#data-analysis)
   - [File Transfer](#file-transfer)
   - [Project Management](#project-management)
+  - [Video Editing](#video-editing)
   - [Virtual Private Network](#virtual-private-network)
   - [Web Browsers](#web-browsers)
   
@@ -124,6 +125,26 @@ Slack is a new way to communicate with your team. It's faster, better organized,
 > [Trello: Manage Your Team's Projects From Anywhere](https://trello.com)
 
 Make the impossible, possible with Trello. The ultimate teamwork project management tool. Start up a board in seconds, automate tedious tasks, ...
+
+---
+
+## Video Editing
+
+> [CapCut | All-in-one video editor & graphic design tool driven by AI](https://www.capcut.com)
+
+CapCut is an all-in-one creative platform powered by AI that enables video editing and image design on browsers, Windows, Mac, Android, and iOS.
+
+> [DaVinci Resolve 19 | Blackmagic Design](https://www.blackmagicdesign.com/products/davinciresolve)
+
+DaVinci Resolve is the world's only all in one solution for editing, color, VFX, motion graphics and audio! The free version works with virtually all 8‑bit ...
+
+> [Final Cut Pro for Mac](https://www.apple.com/final-cut-pro)
+
+Final Cut Pro revolutionizes post-production with 360° video editing and motion graphics, 4K HDR support, and advanced tools for color correction.
+
+> [iMovie - Official Apple Support](https://support.apple.com/imovie)
+
+iMovie for iOS and iMovie for macOS make it easy to turn your photos and video clips into stunning movies or trailers and share them with the world.
 
 ---
 
