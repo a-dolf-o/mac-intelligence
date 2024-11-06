@@ -9,6 +9,7 @@
   
   - [Artificial Intelligence](#artificial-intelligence)
   - [Cloud Storage](#cloud-storage)
+  - [File Transfer](#file-transfer)
   - [Virtual Private Network](#virtual-private-network)
   - [Web Browsers](#web-browsers)
   
@@ -73,6 +74,22 @@ Save your files and photos to OneDrive and access them from any device, anywhere
 > [pCloud - The Most Secure Cloud Storage](https://www.pcloud.com)
 
 pCloud is the most secure encrypted cloud storage, where you can store your personal files or backup your PC or share your business documents with your ...
+
+---
+
+## File Transfer
+
+> [AirDrop](https://support.apple.com)
+
+With AirDrop, you can wirelessly send documents, photos, videos, websites, map locations, and more to a nearby Mac, iPhone, iPad, or Apple Vision Pro.
+
+> [PairDrop | Transfer Files Cross-Platform. No Setup, No Signup.](https://pairdrop.net)
+
+Open PairDrop on other devices to send files. Pair devices or enter a public room to be discoverable on other networks.
+
+> [ShareDrop](https://www.sharedrop.io)
+
+ShareDrop is a free, open-source web app that allows you to easily and securely share files directly between devices without uploading them to any server first.
 
 ---
 
