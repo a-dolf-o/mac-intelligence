@@ -17,6 +17,7 @@
   - [Online Learning](#online-learning)
   - [Project Management](#project-management)
   - [Remote Desktop](#remote-desktop)
+  - [System Settings](#system-settings)
   - [Writing Assistance](#writing-assistance)
   - [Video Editing](#video-editing)
   - [Virtual Private Network](#virtual-private-network)
@@ -210,6 +211,16 @@ Discover AnyDesk, the secure & intuitive remote desktop software, and take advan
 > [DeskIn-Professional and Efficient Remote Desktop Software for Individual and Enterprise](https://www.deskin.io)
 
 Discover Deskin high performance features, enjoy all-in-one remote desktop solutions from any devices at anytime.
+
+[_back_](#table-of-contents)
+
+---
+
+## System Settings
+
+> [Raycast - Your shortcut to everything](https://www.raycast.com)
+
+A collection of powerful productivity tools all within an extendable launcher. Fast, ergonomic and reliable.
 
 [_back_](#table-of-contents)
 
