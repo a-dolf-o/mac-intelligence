@@ -5,6 +5,7 @@
 <details open>
 
   <a name="table-of-contents"></a>
+  
   <summary>Table of Contents</summary>
   
   - [Artificial Intelligence](#artificial-intelligence)
