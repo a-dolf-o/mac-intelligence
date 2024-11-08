@@ -3,7 +3,8 @@
 ---
 
 <details open>
-  
+
+  <a name="table-of-contents"></a>
   <summary>Table of Contents</summary>
   <br>
   
@@ -13,6 +14,7 @@
   - [File Transfer](#file-transfer)
   - [Online Learning](#online-learning)
   - [Project Management](#project-management)
+  - [Remote Desktop](#remote-desktop)
   - [Video Editing](#video-editing)
   - [Virtual Private Network](#virtual-private-network)
   - [Web Browsers](#web-browsers)
@@ -50,6 +52,8 @@ ChatGPT on your desktop. Chat about email, screenshots, files, and anything on y
 > [Perplexity AI](https://www.perplexity.ai)
 
 Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
+
+[_back_](#table-of-contents)
 
 ---
 
@@ -154,6 +158,18 @@ Slack is a new way to communicate with your team. It's faster, better organized,
 > [Trello: Manage Your Team's Projects From Anywhere](https://trello.com)
 
 Make the impossible, possible with Trello. The ultimate teamwork project management tool. Start up a board in seconds, automate tedious tasks, ...
+
+---
+
+## Remote Desktop
+
+> [AnyDesk: The Fast Remote Desktop Application](https://anydesk.com)
+
+Discover AnyDesk, the secure & intuitive remote desktop software, and take advantage of the application's innovative features!
+
+> [DeskIn-Professional and Efficient Remote Desktop Software for Individual and Enterprise](https://www.deskin.io)
+
+Discover Deskin high performance features, enjoy all-in-one remote desktop solutions from any devices at anytime.
 
 ---
 
