@@ -1,4 +1,4 @@
-# ♠️ Mac Intelligence
+# ⌘ Mac Intelligence
 
 ---
 
