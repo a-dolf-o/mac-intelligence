@@ -15,6 +15,7 @@
   - [Online Learning](#online-learning)
   - [Project Management](#project-management)
   - [Remote Desktop](#remote-desktop)
+  - [Writing Assistance](#writing-assistance)
   - [Video Editing](#video-editing)
   - [Virtual Private Network](#virtual-private-network)
   - [Web Browsers](#web-browsers)
@@ -83,6 +84,9 @@ Save your files and photos to OneDrive and access them from any device, anywhere
 
 pCloud is the most secure encrypted cloud storage, where you can store your personal files or backup your PC or share your business documents with your ...
 
+[_back_](#table-of-contents)
+
+
 ---
 
 ## Data Analysis
@@ -90,6 +94,8 @@ pCloud is the most secure encrypted cloud storage, where you can store your pers
 > [Tableau: Business Intelligence and Analytics Software](https://www.tableau.com)
 
 Tableau can help anyone see and understand their data. Connect to almost any database, drag and drop to create visualizations, and share with a click.
+
+[_back_](#table-of-contents)
 
 ---
 
@@ -106,6 +112,8 @@ Open PairDrop on other devices to send files. Pair devices or enter a public roo
 > [ShareDrop](https://www.sharedrop.io)
 
 ShareDrop is a free, open-source web app that allows you to easily and securely share files directly between devices without uploading them to any server first.
+
+[_back_](#table-of-contents)
 
 ---
 
@@ -135,6 +143,8 @@ Udemy is an online learning and teaching marketplace with over 250000 courses an
 
 Full Access Best Value! ... Data Analytics ... What is a Certificate? ×. All Our Services ... W3Schools offers a wide range of services and products for beginners and ...
 
+[_back_](#table-of-contents)
+
 ---
 
 ## Project Management
@@ -159,6 +169,8 @@ Slack is a new way to communicate with your team. It's faster, better organized,
 
 Make the impossible, possible with Trello. The ultimate teamwork project management tool. Start up a board in seconds, automate tedious tasks, ...
 
+[_back_](#table-of-contents)
+
 ---
 
 ## Remote Desktop
@@ -170,6 +182,26 @@ Discover AnyDesk, the secure & intuitive remote desktop software, and take advan
 > [DeskIn-Professional and Efficient Remote Desktop Software for Individual and Enterprise](https://www.deskin.io)
 
 Discover Deskin high performance features, enjoy all-in-one remote desktop solutions from any devices at anytime.
+
+[_back_](#table-of-contents)
+
+---
+
+## Writing Assistance
+
+> [DeepL Translate: The world's most accurate translator](https://www.deepl.com)
+
+Translate texts & full document files instantly. Accurate translations for individuals and Teams. Millions translate with DeepL every day.
+
+> [Grammarly: Free AI Writing Assistance](https://www.grammarly.com)
+
+Grammarly makes AI writing convenient. Work smarter with personalized AI guidance and text generation on any app or website.
+
+> [QuillBot: Your complete writing solution](https://quillbot.com)
+
+Write effortlessly and efficiently with QuillBot's suite of AI tools. Paraphrase, check grammar, analyze tone, improve fluency, and more.
+
+[_back_](#table-of-contents)
 
 ---
 
@@ -191,6 +223,8 @@ Final Cut Pro revolutionizes post-production with 360° video editing and motion
 
 iMovie for iOS and iMovie for macOS make it easy to turn your photos and video clips into stunning movies or trailers and share them with the world.
 
+[_back_](#table-of-contents)
+
 ---
 
 ## Virtual Private Network
@@ -202,6 +236,8 @@ Stream from anywhere. Proton VPN unblocks a wide selection of popular online med
 > [Windscribe - Free VPN and Ad Block](https://windscribe.com)
 
 Windscribe is a desktop application and browser extension that work together to block ads and trackers, restore access to blocked content and help you ...
+
+[_back_](#table-of-contents)
 
 ---
 
@@ -250,6 +286,8 @@ It's a web browser. But fun. It comes with a bunch of clever features built-in. 
 >  [Zen Browser](https://zen-browser.app)
 
 Zen is based on Firefox, ensuring that your browsing experience prioritizes security and privacy. With advanced tracking protection and minimal data collection, ...
+
+[_back_](#table-of-contents)
 
 ---
 
