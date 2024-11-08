@@ -2,12 +2,13 @@
 
 ---
 
+<a name="table-of-contents"></a>
+
 <details open>
 
-  <a name="table-of-contents"></a>
-  
   <summary>Table of Contents</summary>
-  
+  <br>
+
   - [Artificial Intelligence](#artificial-intelligence)
   - [Cloud Storage](#cloud-storage)
   - [Data Analysis](#data-analysis)
