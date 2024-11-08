@@ -11,6 +11,7 @@
 
   - [Artificial Intelligence](#artificial-intelligence)
   - [Cloud Storage](#cloud-storage)
+  - [Computer Programming](#computer-programming)
   - [Data Analysis](#data-analysis)
   - [File Transfer](#file-transfer)
   - [Image Editing](#image-editing)
@@ -87,6 +88,48 @@ Save your files and photos to OneDrive and access them from any device, anywhere
 > [pCloud - The Most Secure Cloud Storage](https://www.pcloud.com)
 
 pCloud is the most secure encrypted cloud storage, where you can store your personal files or backup your PC or share your business documents with your ...
+
+[_back_](#table-of-contents)
+
+---
+
+## Computer Programming
+
+> [Angular • Home](https://angular.dev)
+
+The web development framework for building modern apps.
+
+> [Cursor](https://www.cursor.com)
+
+The AI Code Editor. Built to make you extraordinarily productive, Cursor is the best way to code with AI.
+
+> [Git](https://git-scm.com)
+
+Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with ...
+
+> [GitHub · Build and ship software on a single, collaborative platform](https://github.com)
+
+Millions of developers and businesses call GitHub home. Whether you're scaling your development process or just learning how to code, GitHub is where you belong ...
+
+> [MongoDB: The Developer Data Platform](https://www.mongodb.com)
+
+MongoDB Atlas integrates operational and vector data in a single, unified platform. Use vector representations of your data to perform semantic search, build ...
+
+> [Node.js — Run JavaScript Everywhere](https://nodejs.org)
+
+Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+
+> [React](https://react.dev)
+
+React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript.
+
+> [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com)
+
+Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free and ...
+
+> [Vue.js - The Progressive JavaScript Framework](https://vuejs.org)
+
+The Progressive JavaScript Framework · Approachable. Builds on top of standard HTML, CSS and JavaScript with intuitive API and world-class documentation.
 
 [_back_](#table-of-contents)
 
