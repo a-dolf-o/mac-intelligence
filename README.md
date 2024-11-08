@@ -15,6 +15,7 @@
   - [Data Analysis](#data-analysis)
   - [File Transfer](#file-transfer)
   - [Image Editing](#image-editing)
+  - [Note-taking](#note-taking)
   - [Online Learning](#online-learning)
   - [Project Management](#project-management)
   - [Remote Desktop](#remote-desktop)
@@ -184,6 +185,56 @@ Photopea Online Photo Editor lets you edit photos, apply effects, filters, add t
 > [Upscayl - AI Image Upscaler](https://upscayl.org)
 
 An AI image upscaler that turns fuzzy photos into clear works of art! Easy to use and fun to say, it's the magic wand your images have been waiting for.
+
+[_back_](#table-of-contents)
+
+---
+
+## Note-taking
+
+> [Anytype](https://anytype.io)
+
+The everything app for those who celebrate trust & autonomy. Local-first, crazy-fast loading times, peer-to-peer, secure & decentralized sync.
+
+> [CollaNote: Notes & PDF Markup](https://apps.apple.com/app/collanote-notes-pdf-markup/id1540956268)
+
+Powerful note-taking app packed with a wide range of tools. Note-taking, PDF markup, digital planning, and flashcards - all in one place!
+
+> [draw.io](https://app.diagrams.net)
+
+draw.io is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
+
+> [Freeform on the App Store](https://apps.apple.com/app/freeform/id6443742539)
+
+Freeform brings people together into a shared space for creativity, whether you're at your desk or on the go. Easily invite others via email, link or Messages.
+
+> [Goodnotes | Notes Reimagined | Note-Taking App](https://www.goodnotes.com)
+
+Discover Goodnotes 6, the AI note-taking app loved by millions around the world.
+
+> [Milanote - the tool for organizing creative projects](https://milanote.com)
+
+Milanote is an easy-to-use tool to organize your ideas and projects into visual boards. Add notes, images, links and files, organize them visually and share ...
+
+> [Miro | The Innovation Workspace](https://miro.com)
+
+Miro is the innovation workspace where teams manage projects, design products, and build the future together. Join 80M+ users from around the world.
+
+> [Notability](https://notability.com)
+
+...by our all new note-sharing platform, Notability Gallery, where you can publish your work, spark new ideas, save your favorites, and discover endless ...
+
+> [Notes - Apple iCloud](https://www.icloud.com/notes)
+
+View, edit, create and share your notes with Notes on the web. Changes will sync across your devices with iCloud.
+
+> [Notion: Your connected workspace for wiki, docs & projects](https://www.notion.so)
+
+A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
+
+> [Obsidian - Sharpen your thinking](https://obsidian.md)
+
+Obsidian is the private and flexible note‑taking app that adapts to the way you think.
 
 [_back_](#table-of-contents)
 
