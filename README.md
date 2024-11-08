@@ -20,6 +20,7 @@
   - [System Settings](#system-settings)
   - [Writing Assistance](#writing-assistance)
   - [Video Editing](#video-editing)
+  - [Virtual Machine](#virtual-machine)
   - [Virtual Private Network](#virtual-private-network)
   - [Web Browsers](#web-browsers)
   
@@ -88,7 +89,6 @@ Save your files and photos to OneDrive and access them from any device, anywhere
 pCloud is the most secure encrypted cloud storage, where you can store your personal files or backup your PC or share your business documents with your ...
 
 [_back_](#table-of-contents)
-
 
 ---
 
@@ -261,6 +261,20 @@ Final Cut Pro revolutionizes post-production with 360° video editing and motion
 > [iMovie - Official Apple Support](https://support.apple.com/imovie)
 
 iMovie for iOS and iMovie for macOS make it easy to turn your photos and video clips into stunning movies or trailers and share them with the world.
+
+[_back_](#table-of-contents)
+
+---
+
+## Virtual Machine
+
+> [Oracle VirtualBox](https://www.virtualbox.org)
+
+VirtualBox is a community effort backed by Oracle. Everyone is encouraged to contribute. Oracle helps ensure the product meets professional quality criteria and ...
+
+> [VMware | Desktop Hypervisor Solutions](https://www.vmware.com/products/desktop-hypervisor)
+
+VMware desktop hypervisors allow you to develop and test for any platform and virtually run nearly any operating system without rebooting. They can also connect ...
 
 [_back_](#table-of-contents)
 
