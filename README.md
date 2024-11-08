@@ -12,6 +12,7 @@
   - [Cloud Storage](#cloud-storage)
   - [Data Analysis](#data-analysis)
   - [File Transfer](#file-transfer)
+  - [Image Editing](#image-editing)
   - [Online Learning](#online-learning)
   - [Project Management](#project-management)
   - [Remote Desktop](#remote-desktop)
@@ -112,6 +113,32 @@ Open PairDrop on other devices to send files. Pair devices or enter a public roo
 > [ShareDrop](https://www.sharedrop.io)
 
 ShareDrop is a free, open-source web app that allows you to easily and securely share files directly between devices without uploading them to any server first.
+
+[_back_](#table-of-contents)
+
+---
+
+## Image Editing
+
+> [darktable](https://www.darktable.org)
+
+by photographers. darktable is created for photographers, by photographers. Having developers that are also avid photographers as part of the target audience is ...
+
+> [Fotor | Photo Editor: Free Online Photo Editing & Image Editor](https://www.fotor.com)
+
+Enhance and edit photos with Fotor's free online photo editor. Crop, add text & effects, retouch images, and more using powerful photo editing tools.
+
+> [GIMP - GNU Image Manipulation Program](https://www.gimp.org)
+
+GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software, you can change its source code ...
+
+> [Photopea | Online Photo Editor](https://www.photopea.com)
+
+Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures. Do Online Photo Editing in your browser for ...
+
+> [Upscayl - AI Image Upscaler](https://upscayl.org)
+
+An AI image upscaler that turns fuzzy photos into clear works of art! Easy to use and fun to say, it's the magic wand your images have been waiting for.
 
 [_back_](#table-of-contents)
 
