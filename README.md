@@ -196,6 +196,38 @@ ShareDrop is a free, open-source web app that allows you to easily and securely 
 
 Canva is a free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more.
 
+> [Coolors - The super fast color palettes generator!](https://coolors.co)
+
+Create the perfect palette or get inspired by thousands of beautiful color schemes. Start the generator! Explore trending palettes · Coolors - Super fast color ...
+
+> [Figma: The Collaborative Interface Design Tool](https://www.figma.com)
+
+Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single ...
+
+> [Flaticon | Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS](https://www.flaticon.com)
+
+Download Free Icons and Stickers for your projects. Resources made by and for designers. PNG, SVG, EPS, PSD and CSS formats.
+
+> [Freepik | Create great designs, faster](https://www.freepik.com)
+
+Freepik's AI tools give you the power to create, enhance, and fine-tune your visuals. Image generation, upscaling, retouching... Watch as your words hit just ...
+
+> [Iconify Design: All popular icon sets, one framework.](https://iconify.design)
+
+License. Iconify is an open source project. Almost all parts of the project use MIT license. Some older packages use Apache 2.0 and/or GPL 2.0 licenses. This ...
+
+> [Material Design](https://m3.material.io)
+
+Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital ...
+
+> [NIPPON COLORS - 日本の伝統色](https://nipponcolors.com)
+
+The Traditional Colors of Nippon (Japan). This site is optimized to Webkit.
+
+> [Unsplash: Beautiful Free Images & Pictures](https://unsplash.com)
+
+Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
+
 [_back_](#table-of-contents)
 
 ---
