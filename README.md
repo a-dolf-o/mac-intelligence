@@ -14,12 +14,14 @@
   - [Computer Programming](#computer-programming)
   - [Data Analysis](#data-analysis)
   - [Digital Art](#digital-art)
+  - [Document Editing](#document-editing)
   - [File Transfer](#file-transfer)
   - [Graphic Design](#graphic-design)
   - [Image Editing](#image-editing)
   - [Image Generator](#image-generator)
   - [Note-taking](#note-taking)
   - [Online Learning](#online-learning)
+  - [Presentation](#presentation)
   - [Project Management](#project-management)
   - [Remote Desktop](#remote-desktop)
   - [System Settings](#system-settings)
@@ -167,6 +169,20 @@ Amplify your creativity with our powerful and intuitive apps, made for creative 
 > [Sketchbook - For everyone who loves to draw](https://www.sketchbook.com)
 
 SketchBook is sketching, painting, and illustration software for all platforms and devices. With professional-grade drawing tools in a beautiful interface, ...
+
+[_back_](#table-of-contents)
+
+---
+
+## Document Editing
+
+> [Overleaf, Online LaTeX Editor](https://www.overleaf.com)
+
+An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more.
+
+> [PDF online | Adobe Acrobat](https://www.adobe.com/acrobat/online.html)
+
+Convert, edit, organize, and compress PDF files with Adobe Acrobat Pro. Fill, sign, and share documents too. Start free trial.
 
 [_back_](#table-of-contents)
 
@@ -359,6 +375,20 @@ Udemy is an online learning and teaching marketplace with over 250000 courses an
 > [W3Schools Online Web Tutorials](https://www.w3schools.com)
 
 Full Access Best Value! ... Data Analytics ... What is a Certificate? ×. All Our Services ... W3Schools offers a wide range of services and products for beginners and ...
+
+[_back_](#table-of-contents)
+
+---
+
+## Presentation
+
+> [Gamma: Presentations and Slide Decks with AI](https://gamma.app)
+
+Made with Gamma. A new medium for presenting ideas, powered by AI.
+
+> [Prezi | Presentations and videos with engaging visuals for hybrid teams](https://prezi.com)
+
+Welcome to Prezi, the presentation software that uses motion, zoom, and spatial relationships to bring your ideas to life and make you a great presenter.
 
 [_back_](#table-of-contents)
 
