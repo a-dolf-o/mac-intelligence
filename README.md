@@ -15,17 +15,18 @@
   - [Data Analysis](#data-analysis)
   - [Digital Art](#digital-art)
   - [File Transfer](#file-transfer)
+  - [Graphic Design](#graphic-design)
   - [Image Editing](#image-editing)
   - [Note-taking](#note-taking)
   - [Online Learning](#online-learning)
   - [Project Management](#project-management)
   - [Remote Desktop](#remote-desktop)
   - [System Settings](#system-settings)
-  - [Writing Assistance](#writing-assistance)
   - [Video Editing](#video-editing)
   - [Virtual Machine](#virtual-machine)
   - [Virtual Private Network](#virtual-private-network)
   - [Web Browsers](#web-browsers)
+  - [Writing Assistance](#writing-assistance)
   - [3D Design](#3d-design)
   
 </details>
@@ -188,6 +189,16 @@ ShareDrop is a free, open-source web app that allows you to easily and securely 
 
 ---
 
+## Graphic Design
+
+> [Canva: Visual Suite for Everyone](https://www.canva.com)
+
+Canva is a free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more.
+
+[_back_](#table-of-contents)
+
+---
+
 ## Image Editing
 
 > [darktable](https://www.darktable.org)
@@ -205,6 +216,10 @@ GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows an
 > [Photopea | Online Photo Editor](https://www.photopea.com)
 
 Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures. Do Online Photo Editing in your browser for ...
+
+> [Pixelmator Pro](https://www.pixelmator.com)
+
+Pixelmator Pro is an image editor designed to make the most powerful professional image editing tools accessible to everyone.
 
 > [Upscayl - AI Image Upscaler](https://upscayl.org)
 
@@ -344,24 +359,6 @@ A collection of powerful productivity tools all within an extendable launcher. F
 
 ---
 
-## Writing Assistance
-
-> [DeepL Translate: The world's most accurate translator](https://www.deepl.com)
-
-Translate texts & full document files instantly. Accurate translations for individuals and Teams. Millions translate with DeepL every day.
-
-> [Grammarly: Free AI Writing Assistance](https://www.grammarly.com)
-
-Grammarly makes AI writing convenient. Work smarter with personalized AI guidance and text generation on any app or website.
-
-> [QuillBot: Your complete writing solution](https://quillbot.com)
-
-Write effortlessly and efficiently with QuillBot's suite of AI tools. Paraphrase, check grammar, analyze tone, improve fluency, and more.
-
-[_back_](#table-of-contents)
-
----
-
 ## Video Editing
 
 > [CapCut | All-in-one video editor & graphic design tool driven by AI](https://www.capcut.com)
@@ -457,6 +454,24 @@ It's a web browser. But fun. It comes with a bunch of clever features built-in. 
 >  [Zen Browser](https://zen-browser.app)
 
 Zen is based on Firefox, ensuring that your browsing experience prioritizes security and privacy. With advanced tracking protection and minimal data collection, ...
+
+[_back_](#table-of-contents)
+
+---
+
+## Writing Assistance
+
+> [DeepL Translate: The world's most accurate translator](https://www.deepl.com)
+
+Translate texts & full document files instantly. Accurate translations for individuals and Teams. Millions translate with DeepL every day.
+
+> [Grammarly: Free AI Writing Assistance](https://www.grammarly.com)
+
+Grammarly makes AI writing convenient. Work smarter with personalized AI guidance and text generation on any app or website.
+
+> [QuillBot: Your complete writing solution](https://quillbot.com)
+
+Write effortlessly and efficiently with QuillBot's suite of AI tools. Paraphrase, check grammar, analyze tone, improve fluency, and more.
 
 [_back_](#table-of-contents)
 
