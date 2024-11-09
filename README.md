@@ -13,6 +13,7 @@
   - [Cloud Storage](#cloud-storage)
   - [Computer Programming](#computer-programming)
   - [Data Analysis](#data-analysis)
+  - [Digital Art](#digital-art)
   - [File Transfer](#file-transfer)
   - [Image Editing](#image-editing)
   - [Note-taking](#note-taking)
@@ -141,6 +142,28 @@ The Progressive JavaScript Framework · Approachable. Builds on top of standard 
 > [Tableau: Business Intelligence and Analytics Software](https://www.tableau.com)
 
 Tableau can help anyone see and understand their data. Connect to almost any database, drag and drop to create visualizations, and share with a click.
+
+[_back_](#table-of-contents)
+
+---
+
+## Digital Art
+
+> [Inkscape - Draw Freely.](https://inkscape.org)
+
+Whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery, Inkscape is for you!
+
+> [Krita | Digital Painting. Creative Freedom.](https://krita.org)
+
+Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
+
+> [Procreate® - Made for Artists](https://procreate.com)
+
+Amplify your creativity with our powerful and intuitive apps, made for creative professionals and aspiring artists.
+
+> [Sketchbook - For everyone who loves to draw](https://www.sketchbook.com)
+
+SketchBook is sketching, painting, and illustration software for all platforms and devices. With professional-grade drawing tools in a beautiful interface, ...
 
 [_back_](#table-of-contents)
 
