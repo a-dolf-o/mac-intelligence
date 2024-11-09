@@ -38,7 +38,7 @@
 
 Meet AIs that feel alive. Chat with anyone, anywhere, anytime. Experience the power of super-intelligent chat bots that hear you, understand you, ...
 
-> [Claude](https://www.anthropic.com)
+> [Claude | Home \ Anthropic](https://www.anthropic.com)
 
 Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work.
 
@@ -54,7 +54,7 @@ Bard is now Gemini. Get help with writing, planning, learning, and more from Goo
 
 Microsoft Copilot is your companion to inform, entertain, and inspire. Get advice, feedback, and straightforward answers. Try Copilot now.
 
-> [OpenAI](https://openai.com)
+> [ChatGPT | OpenAI](https://openai.com)
 
 ChatGPT on your desktop. Chat about email, screenshots, files, and anything on your screen. Chat about email, screenshots, files ...
 
@@ -172,7 +172,7 @@ SketchBook is sketching, painting, and illustration software for all platforms a
 
 ## File Transfer
 
-> [AirDrop](https://support.apple.com)
+> [AirDrop - Official Apple Support](https://support.apple.com)
 
 With AirDrop, you can wirelessly send documents, photos, videos, websites, map locations, and more to a nearby Mac, iPhone, iPad, or Apple Vision Pro.
 
@@ -180,7 +180,7 @@ With AirDrop, you can wirelessly send documents, photos, videos, websites, map l
 
 Open PairDrop on other devices to send files. Pair devices or enter a public room to be discoverable on other networks.
 
-> [ShareDrop](https://www.sharedrop.io)
+> [ShareDrop | P2P file transfer](https://www.sharedrop.io)
 
 ShareDrop is a free, open-source web app that allows you to easily and securely share files directly between devices without uploading them to any server first.
 
@@ -216,7 +216,7 @@ An AI image upscaler that turns fuzzy photos into clear works of art! Easy to us
 
 ## Note-taking
 
-> [Anytype](https://anytype.io)
+> [Anytype | The Everything App](https://anytype.io)
 
 The everything app for those who celebrate trust & autonomy. Local-first, crazy-fast loading times, peer-to-peer, secure & decentralized sync.
 
@@ -274,7 +274,7 @@ Obsidian is the private and flexible note‑taking app that adapts to the way yo
 
 Discover thousands of offerings — from free courses to full degrees — delivered by world-class partners like Harvard, Google, Amazon and more.
 
-> [freeCodeCamp](https://www.freecodecamp.org)
+> [freeCodeCamp | Learn to Code — For Free — Coding Courses for Busy People](https://www.freecodecamp.org)
 
 freeCodeCamp is a community of people from all around the world who are learning to code together. We're a 501(c)(3) public charity.
 
