@@ -17,6 +17,7 @@
   - [File Transfer](#file-transfer)
   - [Graphic Design](#graphic-design)
   - [Image Editing](#image-editing)
+  - [Image Generator](#image-generator)
   - [Note-taking](#note-taking)
   - [Online Learning](#online-learning)
   - [Project Management](#project-management)
@@ -224,6 +225,28 @@ Pixelmator Pro is an image editor designed to make the most powerful professiona
 > [Upscayl - AI Image Upscaler](https://upscayl.org)
 
 An AI image upscaler that turns fuzzy photos into clear works of art! Easy to use and fun to say, it's the magic wand your images have been waiting for.
+
+[_back_](#table-of-contents)
+
+---
+
+## Image Generator
+
+> [Dzine (formerly Stylar.ai) - The Most Controllable AI Image & Design Tool](https://www.dzine.ai)
+
+With Dzine (formerly Stylar AI)'s diverse art styles and AI-assisted tools, designers can quickly create and customize characters for animations and games, ...
+
+> [Leonardo AI: AI Image Generator - Create Art, Images & Video](https://leonardo.ai)
+
+Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency.
+
+> [Midjourney](https://www.midjourney.com)
+
+An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
+
+> [PicLumen: Free AI Image Generator for AI Art Creation](https://www.piclumen.com)
+
+FREE AI Image Generator Create stunning images with PicLumen. Easy-to-use AI tools to visualize your imagination. Create your stunning AI images now with ...
 
 [_back_](#table-of-contents)
 
