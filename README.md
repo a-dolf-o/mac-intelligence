@@ -26,6 +26,7 @@
   - [Virtual Machine](#virtual-machine)
   - [Virtual Private Network](#virtual-private-network)
   - [Web Browsers](#web-browsers)
+  - [3D Design](#3d-design)
   
 </details>
 
@@ -456,6 +457,24 @@ It's a web browser. But fun. It comes with a bunch of clever features built-in. 
 >  [Zen Browser](https://zen-browser.app)
 
 Zen is based on Firefox, ensuring that your browsing experience prioritizes security and privacy. With advanced tracking protection and minimal data collection, ...
+
+[_back_](#table-of-contents)
+
+---
+
+## 3D Design
+
+> [blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://www.blender.org)
+
+Blender's comprehensive array of modeling tools make creating, transforming and editing your models a breeze.
+
+> [SketchUp | 3D Design Software | 3D Modeling & Drawing](https://www.sketchup.com)
+
+SketchUp is a premier 3D design software that makes 3D modeling & drawing accessible and empowers you with a robust toolset where you can create whatever ...
+
+> [Spline - 3D Design tool in the browser with real-time collaboration](https://spline.design)
+
+Spline is a free 3D design software with real-time collaboration to create web interactive experiences in the browser. Easy 3d modeling, animation, ...
 
 [_back_](#table-of-contents)
 
