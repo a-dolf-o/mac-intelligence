@@ -24,6 +24,7 @@
   - [Music Editing](#music-editing)
   - [Music Generation](#music-generation)
   - [Note-taking](#note-taking)
+  - [Online Booking](#online-booking)
   - [Online Learning](#online-learning)
   - [Online Meeting](#online-meeting)
   - [Presentation](#presentation)
@@ -209,6 +210,10 @@ An online LaTeX editor that's easy to use. No installation, real-time collaborat
 > [PDF online | Adobe Acrobat](https://www.adobe.com/acrobat/online.html)
 
 Convert, edit, organize, and compress PDF files with Adobe Acrobat Pro. Fill, sign, and share documents too. Start free trial.
+
+> [Stirling PDF: Home](https://www.stirlingpdf.com)
+
+A locally hosted one-stop shop for all your PDF needs · Powerful PDF tools. Stirling PDF provides you with powerful, easy to use tools to manage your PDF files.
 
 [_back_](#table-of-contents)
 
@@ -418,6 +423,64 @@ Obsidian is the private and flexible note‑taking app that adapts to the way yo
 
 ---
 
+## Online Booking
+
+> [Agoda Official Site | Free Cancellation & Booking Deals | Over 2 Million Hotels](https://www.agoda.com)
+
+Book your perfect holiday with Agoda and enjoy our great discounts on hotels, homes, flights and activities. Get the Agoda app!
+
+> [Booking.com | Official site | The best hotels, flights, car rentals & accommodations](https://www.booking.com)
+
+Explore the world with Booking.com. Big savings on homes, hotels, flights, car rentals, taxis, and attractions – build your perfect trip on any budget.
+
+> [Expedia Travel: Vacation Homes, Hotels, Car Rentals, Flights & More](https://www.expedia.com)
+
+Expedia Travel: Search Hotels, Cheap Flights, Car Rentals & Vacations · Save 10% or more on over 100,000 hotels with Member Prices. · Discover your new favorite ...
+
+> [Hotels.com - Deals & Discounts for Hotel Reservations from Luxury Hotels to Budget Accommodations](https://www.hoteles.com)
+
+Hotels.com | Find cheap hotels and discounts when you book on Hotels.com. Compare hotel deals, offers and read unbiased reviews on hotels.
+
+> [HotelsCombined | Find Deals on Travel Accommodations](https://www.hotelscombined.com)
+
+Find the best deals on travel accommodations with HotelsCombined. Compare prices from the top travel sites with just one search, and find your ideal place ...
+
+> [KKday TOUR．EXPERIENCE．DISCOVER](https://www.kkday.com)
+
+KKday provides all kinds of unique experiences. Scuba diving, rock climbing, cooking classes, secret sights, full day tour, tickets, charter service and ...
+
+>[Klook Travel - Activities, tours, attractions and things to do](https://www.klook.com)
+
+Find discounted attraction tickets, tours with unique experiences, and more! Join local day tours to visit spectacular sights and go on delicious food trips ...
+
+> [Rakuten Travel: Book quality hotels and ryokans in Japan](https://travel.rakuten.com)
+
+One of Japan's leading hotel booking platforms. Find and book quality accommodations for your next trip to Japan. Rakuten Travel makes it easy to find a ...
+
+> [SeatGuru - Airline Seat Maps, Flights shopping and Flight information - Best Airplane Seats](https://www.seatguru.com)
+
+The ultimate source for airplane seating, in-flight amenities, flights shopping and airline information.
+
+> [Travel with Google - Planning a Trip Is Simple with Google](https://travel.google)
+
+Planning a trip takes fewer steps with Google. Explore cheap flights, compare hotels, & discover can't-miss sights & attractions with a simple search.
+
+> [Trip.com Official Site‎‎ | Travel Deals and Promotions](https://www.trip.com)
+
+Choose from over 1.2 million hotels in more than 200 countries, 30 million real guest reviews. Book flights to over 5000 destinations worldwide.
+
+> [Tripadvisor: Over a billion reviews & contributions for Hotels, Attractions, Restaurants, and more](https://www.tripadvisor.com)
+
+Plan your next trip, read reviews and get travel advice from our community on where to stay and what to do. Find savings on hotels, book the perfect tour or ...
+
+> [trivago.com - Compare hotel prices worldwide](https://www.trivago.com)
+
+Search through 5 million hotels in just a few seconds. Compare confidently. Compare hotel prices from 100s of sites at once.
+
+[_back_](#table-of-contents)
+
+---
+
 ## Online Learning
 
 > [Coursera | Degrees, Certificates, & Free Online Courses](https://www.coursera.org)
@@ -508,7 +571,7 @@ Make the impossible, possible with Trello. The ultimate teamwork project managem
 
 Discover AnyDesk, the secure & intuitive remote desktop software, and take advantage of the application's innovative features!
 
-> [DeskIn-Professional and Efficient Remote Desktop Software for Individual and Enterprise](https://www.deskin.io)
+> [DeskIn - Professional and Efficient Remote Desktop Software for Individual and Enterprise](https://www.deskin.io)
 
 Discover Deskin high performance features, enjoy all-in-one remote desktop solutions from any devices at anytime.
 
