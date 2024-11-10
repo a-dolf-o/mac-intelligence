@@ -10,6 +10,7 @@
   <br>
 
   - [Artificial Intelligence](#artificial-intelligence)
+  - [Automation](#automation)
   - [Cloud Storage](#cloud-storage)
   - [Computer Programming](#computer-programming)
   - [Data Analysis](#data-analysis)
@@ -18,19 +19,26 @@
   - [File Transfer](#file-transfer)
   - [Graphic Design](#graphic-design)
   - [Image Editing](#image-editing)
-  - [Image Generator](#image-generator)
+  - [Image Generation](#image-generation)
+  - [Media Player](#media-player)
+  - [Music Editing](#music-editing)
+  - [Music Generation](#music-generation)
   - [Note-taking](#note-taking)
   - [Online Learning](#online-learning)
+  - [Online Meeting](#online-meeting)
   - [Presentation](#presentation)
   - [Project Management](#project-management)
   - [Remote Desktop](#remote-desktop)
+  - [Screen Recording](#screen-recording)
   - [System Settings](#system-settings)
   - [Video Editing](#video-editing)
   - [Virtual Machine](#virtual-machine)
   - [Virtual Private Network](#virtual-private-network)
   - [Web Browsers](#web-browsers)
+  - [Website Building](#website-building)
   - [Writing Assistance](#writing-assistance)
   - [3D Design](#3d-design)
+  - [Reference](#reference)
   
 </details>
 
@@ -41,6 +49,10 @@
 > [character.ai | Personalized AI for every moment of your day](https://character.ai)
 
 Meet AIs that feel alive. Chat with anyone, anywhere, anytime. Experience the power of super-intelligent chat bots that hear you, understand you, ...
+
+> [ChatGPT | OpenAI](https://openai.com)
+
+ChatGPT on your desktop. Chat about email, screenshots, files, and anything on your screen. Chat about email, screenshots, files ...
 
 > [Claude | Home \ Anthropic](https://www.anthropic.com)
 
@@ -58,13 +70,27 @@ Bard is now Gemini. Get help with writing, planning, learning, and more from Goo
 
 Microsoft Copilot is your companion to inform, entertain, and inspire. Get advice, feedback, and straightforward answers. Try Copilot now.
 
-> [ChatGPT | OpenAI](https://openai.com)
+> [Ollama](https://ollama.com)
 
-ChatGPT on your desktop. Chat about email, screenshots, files, and anything on your screen. Chat about email, screenshots, files ...
+Get up and running with large language models.
 
 > [Perplexity AI](https://www.perplexity.ai)
 
 Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
+
+[_back_](#table-of-contents)
+
+---
+
+## Automation
+
+> [Feedly: Track the topics and trends that matter to you](https://feedly.com)
+
+Feedly is the fastest way to research the topics and trends that matter to you. Solutions for cybersecurity teams, market intel teams, ...
+
+> [Zapier: Automate without limits](https://zapier.com)
+
+Workflow automation software for everyone. Automate your work across 7000+ app integrations—no developers, no IT tickets, no delays.
 
 [_back_](#table-of-contents)
 
@@ -212,6 +238,10 @@ ShareDrop is a free, open-source web app that allows you to easily and securely 
 
 Canva is a free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more.
 
+> [Colorion](https://colorion.co)
+
+Curated Color Palettes with Search and Tags Support.
+
 > [Coolors - The super fast color palettes generator!](https://coolors.co)
 
 Create the perfect palette or get inspired by thousands of beautiful color schemes. Start the generator! Explore trending palettes · Coolors - Super fast color ...
@@ -278,7 +308,7 @@ An AI image upscaler that turns fuzzy photos into clear works of art! Easy to us
 
 ---
 
-## Image Generator
+## Image Generation
 
 > [Dzine (formerly Stylar.ai) - The Most Controllable AI Image & Design Tool](https://www.dzine.ai)
 
@@ -295,6 +325,44 @@ An independent research lab exploring new mediums of thought and expanding the i
 > [PicLumen: Free AI Image Generator for AI Art Creation](https://www.piclumen.com)
 
 FREE AI Image Generator Create stunning images with PicLumen. Easy-to-use AI tools to visualize your imagination. Create your stunning AI images now with ...
+
+[_back_](#table-of-contents)
+
+---
+
+## Media Player
+
+> [VideoLAN - Official download of VLC media player, the best Open Source player](https://www.videolan.org)
+
+VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files, and various streaming protocols. Download ...
+
+[_back_](#table-of-contents)
+
+---
+
+## Music Editing
+
+> [Audacity ® | Free Audio editor, recorder, music making and more!](https://www.audacityteam.org)
+
+Audacity is the world's most popular audio editing and recording app. Edit, mix, and enhance your audio tracks with the power of Audacity. Download now!
+
+> [GarageBand for Mac - Apple](https://www.apple.com/mac/garageband)
+
+GarageBand for Mac has everything you need to learn, play, record, mix, and share incredible music, even if you've never played a note.
+
+> [Logic Pro for Mac - Apple](https://www.apple.com/logic-pro)
+
+Logic Pro is a complete professional recording studio on the Mac. And it has everything musicians need to go from first note to final master.
+
+[_back_](#table-of-contents)
+
+---
+
+## Music Generation
+
+> [Suno AI](https://suno.com)
+
+We are a team of musicians and artificial intelligence experts based in Cambridge, MA. We are proud alumni of pioneering tech companies like Meta, TikTok and ...
 
 [_back_](#table-of-contents)
 
@@ -380,6 +448,20 @@ Full Access Best Value! ... Data Analytics ... What is a Certificate? ×. All Ou
 
 ---
 
+## Online Meeting
+
+> [tl;dv.io | AI Notetaker for Zoom, MS Teams & Google Meet](https://tldv.io)
+
+Record, and transcribe meetings from Zoom, Google Meet, and Microsoft Teams. Turn that recording into a rich and detailed summary with AI.
+
+> [Zoom: One platform to connect](https://www.zoom.com)
+
+Zoom helps consolidate communications, connect people, and collaborate better together in the boardroom, classroom, operating room, and everywhere in between.
+
+[_back_](#table-of-contents)
+
+---
+
 ## Presentation
 
 > [Gamma: Presentations and Slide Decks with AI](https://gamma.app)
@@ -434,7 +516,21 @@ Discover Deskin high performance features, enjoy all-in-one remote desktop solut
 
 ---
 
+## Screen Recording
+
+> [OBS | Open Broadcaster Software](https://obsproject.com)
+
+OBS (Open Broadcaster Software) is free and open source software for video recording and live streaming. Stream to Twitch, YouTube and many ...
+
+[_back_](#table-of-contents)
+
+---
+
 ## System Settings
+
+> [Pearcleaner](https://github.com/alienator88/Pearcleaner)
+
+A free, source-available and fair-code licensed Mac app cleaner inspired by Freemacsoft's AppCleaner and Sun Knudsen's Privacy Guides post on his app-cleaner ...
 
 > [Raycast - Your shortcut to everything](https://www.raycast.com)
 
@@ -544,6 +640,28 @@ Zen is based on Firefox, ensuring that your browsing experience prioritizes secu
 
 ---
 
+## Website Building
+
+> [Shopify](https://www.shopify.com)
+
+Try Shopify free and start a business or grow an existing one. Get more than ecommerce software with tools to manage every part of your business.
+
+> [Wix.com: Website Builder - Create a Free Website Today](https://www.wix.com)
+
+Create your website and grow with confidence. From an intuitive website builder to advanced business solutions & powerful SEO tools—Try Wix for free.
+
+> [WooCommerce](https://woocommerce.com)
+
+WooCommerce is the open-source ecommerce platform that helps merchants and developers build successful businesses for the long term.
+
+> [WordPress.com: Build a Site, Sell Your Stuff, Start a Blog & More](https://wordpress.com)
+
+Host with the best. When you create a site with WordPress.com, you get all of the power of lightning-fast, secure managed WordPress hosting.
+
+[_back_](#table-of-contents)
+
+---
+
 ## Writing Assistance
 
 > [DeepL Translate: The world's most accurate translator](https://www.deepl.com)
@@ -575,6 +693,28 @@ SketchUp is a premier 3D design software that makes 3D modeling & drawing access
 > [Spline - 3D Design tool in the browser with real-time collaboration](https://spline.design)
 
 Spline is a free 3D design software with real-time collaboration to create web interactive experiences in the browser. Easy 3d modeling, animation, ...
+
+[_back_](#table-of-contents)
+
+---
+
+## Reference
+
+> [AlternativeTo - Crowdsourced software recommendations](https://alternativeto.net)
+
+AlternativeTo lets you find apps and software for Windows, Mac, Linux, iPhone, iPad, Android, Android Tablets, Web Apps, Online, Windows Tablets and more by ...
+
+> [Buy Once Software](https://buyoncesoftware.com)
+
+Say goodbye to subscription fatigue! Discover software you can buy once and own forever--no recurring charges, just tools that work for you, for life.
+
+> [once.tools: Your guide to software you only have to pay for once](https://once.tools)
+
+A friendly little native macOS app for large file sharing. Logo of Workspaces Workspaces Project-based launcher that opens your tools & files with one click.
+
+> [Opensource.builders: Find open-source alternatives for your favorite apps](https://opensource.builders)
+
+Find open-source alternatives to popular software.
 
 [_back_](#table-of-contents)
 
