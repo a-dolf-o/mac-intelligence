@@ -37,7 +37,7 @@ Welcome to Mac Intelligence!
   - [Video Editing](#video-editing)
   - [Virtual Machine](#virtual-machine)
   - [Virtual Private Network](#virtual-private-network)
-  - [Web Browsers](#web-browsers)
+  - [Web Browser](#web-browser)
   - [Website Building](#website-building)
   - [Writing Assistance](#writing-assistance)
   - [3D Design](#3d-design)
@@ -655,7 +655,7 @@ Windscribe is a desktop application and browser extension that work together to 
 
 ---
 
-## Web Browsers
+## Web Browser
 
 >  [Arc from The Browser Company](https://arc.net)
 
