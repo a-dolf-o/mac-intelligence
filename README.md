@@ -577,6 +577,10 @@ Discover AnyDesk, the secure & intuitive remote desktop software, and take advan
 
 Discover Deskin high performance features, enjoy all-in-one remote desktop solutions from any devices at anytime.
 
+> [RustDesk: Open-Source Remote Desktop with Self-Hosted Server Solutions](https://rustdesk.com)
+
+RustDesk offers an open-source remote desktop solution with self-hosted server options. Perfect TeamViewer alternative for secure, private, and customizable ...
+
 [_back_](#table-of-contents)
 
 ---
@@ -776,6 +780,10 @@ Say goodbye to subscription fatigue! Discover software you can buy once and own 
 > [once.tools: Your guide to software you only have to pay for once](https://once.tools)
 
 A friendly little native macOS app for large file sharing. Logo of Workspaces Workspaces Project-based launcher that opens your tools & files with one click.
+
+> [OpenAlternative: Open Source Alternatives to Popular Software](https://openalternative.co)
+
+A curated collection of the best open source alternatives to everyday SaaS products. Save money with reliable tools hand-picked for you.
 
 > [Opensource.builders: Find open-source alternatives for your favorite apps](https://opensource.builders)
 
