@@ -91,6 +91,10 @@ Perplexity is a free AI-powered answer engine that provides accurate, trusted, a
 
 Feedly is the fastest way to research the topics and trends that matter to you. Solutions for cybersecurity teams, market intel teams, ...
 
+> [Taskade: Autonomous AI Agents & Workflow Automation](https://www.taskade.com)
+
+Meet your AI workforce with Taskade! Build, train, and deploy AI agents that think, learn, and act—ready to plan, research, and complete tasks alongside ...
+
 > [Zapier: Automate without limits](https://zapier.com)
 
 Workflow automation software for everyone. Automate your work across 7000+ app integrations—no developers, no IT tickets, no delays.
@@ -131,9 +135,21 @@ pCloud is the most secure encrypted cloud storage, where you can store your pers
 
 ## Computer Programming
 
+> [Anaconda | The Operating System for AI](https://www.anaconda.com)
+
+Democratize AI innovation with the world's most trusted open ecosystem for data science and AI development.
+
+> [Android Studio & App Tools](https://developer.android.com/studio)
+
+Android Studio provides app builders with an integrated development environment (IDE) optimized for Android apps. Download Android Studio today.
+
 > [Angular • Home](https://angular.dev)
 
 The web development framework for building modern apps.
+
+> [Atom](https://atom-editor.cc)
+
+Atom is a desktop application built with HTML, JavaScript, CSS, and Node.js integration. It runs on Electron, a framework for building cross platform apps using ...
 
 > [Cursor](https://www.cursor.com)
 
@@ -147,6 +163,14 @@ Git is easy to learn and has a tiny footprint with lightning fast performance. I
 
 Millions of developers and businesses call GitHub home. Whether you're scaling your development process or just learning how to code, GitHub is where you belong ...
 
+> [JetBrains: Essential tools for software developers and teams](https://www.jetbrains.com)
+
+JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools, including IntelliJ IDEA – the leading Java IDE, ...
+
+> [Jupyter | Project Jupyter | Home](https://jupyter.org)
+
+The Jupyter Notebook is a web-based interactive computing platform. The notebook combines live code, equations, narrative text, visualizations, ...
+
 > [MongoDB: The Developer Data Platform](https://www.mongodb.com)
 
 MongoDB Atlas integrates operational and vector data in a single, unified platform. Use vector representations of your data to perform semantic search, build ...
@@ -159,6 +183,18 @@ Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript.
 
+> [Replit – Build software faster](https://replit.com)
+
+Replit is an AI-powered software development & deployment platform for building, sharing, and shipping software fast. Sign up for freeGet a business ...
+
+> [Sublime Text - Text Editing, Done Right](https://www.sublimetext.com)
+
+Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing ...
+
+> [TestFlight - Apple Developer](https://developer.apple.com/testflight)
+
+TestFlight makes it easy for testers to give feedback on your apps, games, and App Clips across Apple platforms before you publish. Share your beta with just ...
+
 > [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com)
 
 Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free and ...
@@ -166,6 +202,10 @@ Visual Studio Code is a code editor redefined and optimized for building and deb
 > [Vue.js - The Progressive JavaScript Framework](https://vuejs.org)
 
 The Progressive JavaScript Framework · Approachable. Builds on top of standard HTML, CSS and JavaScript with intuitive API and world-class documentation.
+
+> [Xcode - Apple Developer](https://developer.apple.com/xcode)
+
+Xcode is available on the Mac App Store, with downloadable simulator runtimes for all platforms. Predictive code completion helps you write safer code faster, ...
 
 [_back_](#table-of-contents)
 
@@ -227,6 +267,10 @@ A locally hosted one-stop shop for all your PDF needs · Powerful PDF tools. Sti
 
 With AirDrop, you can wirelessly send documents, photos, videos, websites, map locations, and more to a nearby Mac, iPhone, iPad, or Apple Vision Pro.
 
+> [LocalSend: Share files to nearby devices](https://localsend.org)
+
+LocalSend is a free, open-source, cross-platform file sharing tool that ... English, Español, فارسی, Filipino, Français, עברית, हिन्दी, Bahasa Indonesia ...
+
 > [PairDrop | Transfer Files Cross-Platform. No Setup, No Signup.](https://pairdrop.net)
 
 Open PairDrop on other devices to send files. Pair devices or enter a public room to be discoverable on other networks.
@@ -269,6 +313,10 @@ Freepik's AI tools give you the power to create, enhance, and fine-tune your vis
 
 License. Iconify is an open source project. Almost all parts of the project use MIT license. Some older packages use Apache 2.0 and/or GPL 2.0 licenses. This ...
 
+> [Linearity: Ideate. Design. Animate.](https://www.linearity.io)
+
+Easily create professional-quality animations in-house. Accelerate your design process with AI-powered tools. Reduce animation per minute costs by up to 90%.
+
 > [Material Design](https://m3.material.io)
 
 Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital ...
@@ -276,6 +324,10 @@ Build beautiful, usable products faster. Material Design is an adaptable system�
 > [NIPPON COLORS - 日本の伝統色](https://nipponcolors.com)
 
 The Traditional Colors of Nippon (Japan). This site is optimized to Webkit.
+
+> [Sketch · Design, prototype, collaborate and handoff](https://www.sketch.com)
+
+Sketch is a toolkit made by designers, for designers, that puts the focus on you and your work. Get started for free.
 
 > [Unsplash: Beautiful Free Images & Pictures](https://unsplash.com)
 
@@ -310,6 +362,10 @@ Pixelmator Pro is an image editor designed to make the most powerful professiona
 > [Upscayl - AI Image Upscaler](https://upscayl.org)
 
 An AI image upscaler that turns fuzzy photos into clear works of art! Easy to use and fun to say, it's the magic wand your images have been waiting for.
+
+> [Vectr - AI-Powered Background Remover & Photo, Logo, and SVG Generators](https://vectr.com)
+
+With Vectr, you can create & edit vector images online. You can also create logos, icons, presentations, remove backgrounds, use ai photo generator, and ...
 
 [_back_](#table-of-contents)
 
@@ -389,6 +445,10 @@ Powerful note-taking app packed with a wide range of tools. Note-taking, PDF mar
 
 draw.io is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
 
+> [Evernote | Best Note Taking App - Organize Your Notes with Evernote](https://evernote.com)
+
+Evernote is a powerful tool that can help executives, entrepreneurs and creative people capture and arrange their ideas. All you have to do is use it.
+
 > [Freeform on the App Store](https://apps.apple.com/app/freeform/id6443742539)
 
 Freeform brings people together into a shared space for creativity, whether you're at your desk or on the go. Easily invite others via email, link or Messages.
@@ -409,6 +469,10 @@ Miro is the innovation workspace where teams manage projects, design products, a
 
 ...by our all new note-sharing platform, Notability Gallery, where you can publish your work, spark new ideas, save your favorites, and discover endless ...
 
+> [Notable - The Markdown-based note-taking app that doesn't suck](https://notable.app)
+
+Notable provides a very powerful Markdown editor, it's the same one VS Code uses in fact, so features like multi-cursors, a minimap and best-in-class syntax ...
+
 > [Notes - Apple iCloud](https://www.icloud.com/notes)
 
 View, edit, create and share your notes with Notes on the web. Changes will sync across your devices with iCloud.
@@ -420,6 +484,18 @@ A new tool that blends your everyday work apps into one. It's the all-in-one wor
 > [Obsidian - Sharpen your thinking](https://obsidian.md)
 
 Obsidian is the private and flexible note‑taking app that adapts to the way you think.
+
+> [Standard Notes | End-To-End Encrypted Notes App](https://standardnotes.com)
+
+Standard Notes helps you gain control in a world that often feels out of control. Protect your life's work with end-to-end encryption, advanced security ...
+
+> [Todoist | A To-Do List to Organize Your Work & Life](https://todoist.com)
+
+Trusted by 30 million people and teams. Todoist is the world's favorite task manager and to-do list app. Finally become focused, organized and calm.
+
+> [Xmind - Mind Mapping App](https://xmind.app)
+
+Xmind is the most professional and popular mind mapping tool. Millions of people use Xmind to clarify thinking, manage complex information, brainstorming, ...
 
 [_back_](#table-of-contents)
 
@@ -577,6 +653,10 @@ Discover AnyDesk, the secure & intuitive remote desktop software, and take advan
 
 Discover Deskin high performance features, enjoy all-in-one remote desktop solutions from any devices at anytime.
 
+> [Parallels: Mac & Windows Virtualization, Remote Application Server, Mac Management Solutions](https://www.parallels.com)
+
+Download Parallels to run Windows on Mac, Chrome, gain access to virtual desktop infrastructure (VDI) with DaaS, & Toolbox to secure private files, & more.
+
 > [RustDesk: Open-Source Remote Desktop with Self-Hosted Server Solutions](https://rustdesk.com)
 
 RustDesk offers an open-source remote desktop solution with self-hosted server options. Perfect TeamViewer alternative for secure, private, and customizable ...
@@ -597,6 +677,14 @@ OBS (Open Broadcaster Software) is free and open source software for video recor
 
 ## System Settings
 
+> [1.1.1.1 — The free app that makes your Internet faster.](https://one.one.one.one)
+
+1.1.1.1 with WARP replaces the connection between your device and the Internet with a modern, optimized, protocol. Learn more Fast. Free. Private.
+
+> [CleanMyMac: The first MacBook cleaner that does it all](https://cleanmymac.com)
+
+CleanMyMac is an all-in-one Mac cleaner that cleans, protects, and speeds up your Mac. Download CleanMyMac for an instant optimization - for free.
+
 > [Pearcleaner](https://github.com/alienator88/Pearcleaner)
 
 A free, source-available and fair-code licensed Mac app cleaner inspired by Freemacsoft's AppCleaner and Sun Knudsen's Privacy Guides post on his app-cleaner ...
@@ -604,6 +692,10 @@ A free, source-available and fair-code licensed Mac app cleaner inspired by Free
 > [Raycast - Your shortcut to everything](https://www.raycast.com)
 
 A collection of powerful productivity tools all within an extendable launcher. Fast, ergonomic and reliable.
+
+> [Rectangle Mac](https://rectangleapp.com)
+
+A worthy successor to the Spectacle Mac app. Rectangle is nearly a complete drop-in replacement for Spectacle. The Spectacle default shortcuts can be selected ...
 
 [_back_](#table-of-contents)
 
@@ -651,6 +743,10 @@ VMware desktop hypervisors allow you to develop and test for any platform and vi
 
 Stream from anywhere. Proton VPN unblocks a wide selection of popular online media services, allowing you to access your favorite streaming content from ...
 
+> [TunnelBear: Secure VPN Service](https://www.tunnelbear.com)
+
+A more secure way to browse the web. TunnelBear encrypts your internet connection to keep your online activity private on any network.
+
 > [Windscribe - Free VPN and Ad Block](https://windscribe.com)
 
 Windscribe is a desktop application and browser extension that work together to block ads and trackers, restore access to blocked content and help you ...
@@ -693,6 +789,10 @@ The latest version of Opera Browser includes browser AI, Tab Islands, smooth ani
 
 Safari is the world's fastest browser. Enjoy more third-party extensions, powerful privacy protections, and industry-leading battery life.
 
+> [Stack | Your Mindful Browser](https://stackbrowser.com)
+
+Stack is a spatial browser for mindful online living. Its sleek, uncluttered, and harmonious design helps you to be focused and aware of the information ...
+
 >  [Tor Project | Anonymity Online](https://www.torproject.org)
 
 We are the Tor Project, a 501(c)(3) US nonprofit. We advance human rights and defend your privacy online through free software and open networks.
@@ -714,6 +814,10 @@ Zen is based on Firefox, ensuring that your browsing experience prioritizes secu
 > [Shopify](https://www.shopify.com)
 
 Try Shopify free and start a business or grow an existing one. Get more than ecommerce software with tools to manage every part of your business.
+
+> [Sparkle: The best Mac website builder](https://sparkleapp.com)
+
+With Sparkle, building a stunning website has never been easier. Say goodbye to complicated software and questionable web-apps and hello to a user friendly ...
 
 > [Wix.com: Website Builder - Create a Free Website Today](https://www.wix.com)
 
