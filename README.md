@@ -245,17 +245,37 @@ SketchBook is sketching, painting, and illustration software for all platforms a
 
 ## Document Editing
 
+> [Highlights - The PDF Reader for Research on Mac, iPad & iPhone](https://highlightsapp.net)
+
+Highlights is the best way to read and annotate PDFs on your Mac, iPad and iPhone for free. Use the app to extract annotations, images, tables and citations ...
+
 > [Overleaf, Online LaTeX Editor](https://www.overleaf.com)
 
 An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more.
+
+> [PDF Expert: PDF Editor and Reader for Mac | Free Trial](https://pdfexpert.com)
+
+The go-to PDF editor for iPhone, iPad and Mac. We make it easy to edit, annotate, sign and organize PDFs. Free download.
 
 > [PDF online | Adobe Acrobat](https://www.adobe.com/acrobat/online.html)
 
 Convert, edit, organize, and compress PDF files with Adobe Acrobat Pro. Fill, sign, and share documents too. Start free trial.
 
+> [PDFgear - Bring Accessible PDF Software to the Masses](https://www.pdfgear.com)
+
+PDFgear is a piece of full-featured PDF management software for Windows, Mac, and mobile, and it's completely free to use. Help share it to spread the love!
+
 > [Stirling PDF: Home](https://www.stirlingpdf.com)
 
 A locally hosted one-stop shop for all your PDF needs · Powerful PDF tools. Stirling PDF provides you with powerful, easy to use tools to manage your PDF files.
+
+> [Texifier · Smoothest way to write LaTeX](https://www.texifier.com)
+
+LaTeX editor for macOS, iOS and Windows with syntax highlighting, multi-file support and integrated PDF (formerly called Texpad)
+
+> [UPDF - An AI-integrated PDF Editor, Converter, Annotator, and Reader](https://updf.com)
+
+With UPDF, you can edit, annotate, convert, OCR, organize, protect, share, print, summarize, translate, and explain PDF files. Try this all-in-one PDF ...
 
 [_back_](#table-of-contents)
 
@@ -284,6 +304,10 @@ ShareDrop is a free, open-source web app that allows you to easily and securely 
 ---
 
 ## Graphic Design
+
+> [Affinity Designer | Graphic Design & Illustration Software](https://affinity.serif.com/designer)
+
+The best app for creatives and other professionals looking to create high-quality designs, concept art, illustrations, mock-ups and more. Get a free trial!
 
 > [Canva: Visual Suite for Everyone](https://www.canva.com)
 
@@ -338,6 +362,10 @@ Beautiful, free images and photos that you can download and use for any project.
 ---
 
 ## Image Editing
+
+>[Best Photo Editing Software - Affinity](https://affinity.serif.com/photo)
+
+The award-winning image editing software has everything you need to edit and retouch photos, create multi-layered compositions, beautiful raster paintings and ...
 
 > [darktable](https://www.darktable.org)
 
@@ -718,6 +746,10 @@ Final Cut Pro revolutionizes post-production with 360° video editing and motion
 > [iMovie - Official Apple Support](https://support.apple.com/imovie)
 
 iMovie for iOS and iMovie for macOS make it easy to turn your photos and video clips into stunning movies or trailers and share them with the world.
+
+> [Vimeo AI-Powered Video Platform](https://vimeo.com)
+
+The video platform trusted by 287 million creatives, entrepreneurs, and businesses. Everything you need to create, manage, and share stunning videos.
 
 [_back_](#table-of-contents)
 
