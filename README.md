@@ -26,6 +26,7 @@ Welcome to Mac Intelligence!
   - [Music Editing](#music-editing)
   - [Music Generation](#music-generation)
   - [Note-taking](#note-taking)
+  - [Office Suite](#office-suite)
   - [Online Booking](#online-booking)
   - [Online Learning](#online-learning)
   - [Online Meeting](#online-meeting)
@@ -524,6 +525,24 @@ Trusted by 30 million people and teams. Todoist is the world's favorite task man
 > [Xmind - Mind Mapping App](https://xmind.app)
 
 Xmind is the most professional and popular mind mapping tool. Millions of people use Xmind to clarify thinking, manage complex information, brainstorming, ...
+
+[_back_](#table-of-contents)
+
+---
+
+## Office Suite
+
+> [FreeOffice: The best free alternative to Microsoft Office](https://www.freeoffice.com)
+
+FreeOffice, the best free alternative to Microsoft Office (Word, Excel, PowerPoint) for Windows, Mac and Linux.
+
+> [LibreOffice - Free and private office suite - Based on OpenOffice - Compatible with Microsoft](https://www.libreoffice.org)
+
+LibreOffice is a private, free and open source office suite – the successor project to OpenOffice. It's compatible with Microsoft Office/365 files (.doc, .docx, ...
+
+> [ONLYOFFICE - Secure Online Office](https://www.onlyoffice.com)
+
+ONLYOFFICE offers a secure online office suite highly compatible with MS Office formats. Connect it to your web platform for document editing and ...
 
 [_back_](#table-of-contents)
 
