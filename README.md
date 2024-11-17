@@ -30,6 +30,7 @@ Welcome to Mac Intelligence!
   - [Online Booking](#online-booking)
   - [Online Learning](#online-learning)
   - [Online Meeting](#online-meeting)
+  - [Password Manager](#password-manager)
   - [Presentation](#presentation)
   - [Project Management](#project-management)
   - [Remote Desktop](#remote-desktop)
@@ -650,6 +651,24 @@ Zoom helps consolidate communications, connect people, and collaborate better to
 
 ---
 
+## Password Manager
+
+> [Bitwarden | Best Password Manager for Business, Enterprise & Personal](https://bitwarden.com)
+
+Bitwarden is the most trusted password manager for passwords and passkeys at home or at work, on any browser or device. Start with a free trial.
+
+> [Dashlane: Password Manager for Home, Mobile and Business](https://www.dashlane.com)
+
+Dashlane is the secure way for businesses and individuals to protect passwords, manage credentials, prevent breaches, and safeguard sensitive information in ...
+
+> [1Password | Top-Rated Password Manager for Personal & Business Use](https://1password.com)
+
+1Password is so much more than a password manager. View plans Talk to sales Security and productivity wrapped into one Secure every sign-in.
+
+[_back_](#table-of-contents)
+
+---
+
 ## Presentation
 
 > [Gamma: Presentations and Slide Decks with AI](https://gamma.app)
@@ -789,6 +808,10 @@ VMware desktop hypervisors allow you to develop and test for any platform and vi
 ---
 
 ## Virtual Private Network
+
+> [ExpressVPN: High-Speed, Secure & Anonymous VPN Service](https://www.expressvpn.com)
+
+A VPN, or virtual private network, is a secure tunnel between your device and the internet. VPNs protect you from snooping, interference, and censorship.
 
 > [Proton VPN: Secure, fast VPN service in 110+ countries](https://protonvpn.com)
 
