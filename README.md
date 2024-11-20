@@ -665,6 +665,10 @@ Dashlane is the secure way for businesses and individuals to protect passwords, 
 
 1Password is so much more than a password manager. View plans Talk to sales Security and productivity wrapped into one Secure every sign-in.
 
+> [2FAS - the Internet's favorite open-source authenticator](https://2fas.com)
+
+Meet your favorite 2FA app. We are an open-source, community-driven, private and simple solution for Internet's biggest threat - security breaches.
+
 [_back_](#table-of-contents)
 
 ---
@@ -763,6 +767,10 @@ A collection of powerful productivity tools all within an extendable launcher. F
 
 A worthy successor to the Spectacle Mac app. Rectangle is nearly a complete drop-in replacement for Spectacle. The Spectacle default shortcuts can be selected ...
 
+> [uBlock Origin - Free, open-source ad content blocker.](https://ublockorigin.com)
+
+uBlock Origin is not just an “ad blocker“, it's a wide-spectrum content blocker with CPU and memory efficiency as a primary feature.
+
 [_back_](#table-of-contents)
 
 ---
@@ -812,6 +820,10 @@ VMware desktop hypervisors allow you to develop and test for any platform and vi
 > [ExpressVPN: High-Speed, Secure & Anonymous VPN Service](https://www.expressvpn.com)
 
 A VPN, or virtual private network, is a secure tunnel between your device and the internet. VPNs protect you from snooping, interference, and censorship.
+
+> [NordVPN: The best VPN service for speed and security in 2024](https://nordvpn.com)
+
+A fast VPN service that encrypts your traffic and shields your IP and virtual location. Improve your security and enjoy some of the best VPN speeds!
 
 > [Proton VPN: Secure, fast VPN service in 110+ countries](https://protonvpn.com)
 
