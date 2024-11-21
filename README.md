@@ -2,9 +2,9 @@
 
 Welcome to Mac Intelligence!
 
----
-
 <a name="table-of-contents"></a>
+
+---
 
 <details open>
 
