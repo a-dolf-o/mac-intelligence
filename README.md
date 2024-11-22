@@ -93,6 +93,10 @@ Perplexity is a free AI-powered answer engine that provides accurate, trusted, a
 
 Feedly is the fastest way to research the topics and trends that matter to you. Solutions for cybersecurity teams, market intel teams, ...
 
+> [Make | Automation Software | Connect Apps & Design Workflows](https://www.make.com)
+
+Automate your work. Make allows you to visually create, build and automate workflows. User friendly no-code integration tool. Try it now for free!
+
 > [Taskade: Autonomous AI Agents & Workflow Automation](https://www.taskade.com)
 
 Meet your AI workforce with Taskade! Build, train, and deploy AI agents that think, learn, and act—ready to plan, research, and complete tasks alongside ...
