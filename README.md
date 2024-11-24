@@ -983,6 +983,10 @@ A curated collection of the best open source alternatives to everyday SaaS produ
 
 Find open-source alternatives to popular software.
 
+> [PAPAYA 電腦教室 - YouTube](https://www.youtube.com/@papayaclass)
+
+PAPAYA 希望以最淺白易懂的方式，讓大家能夠輕鬆上手常用的電腦軟體。
+
 [_back_](#table-of-contents)
 
 ---
