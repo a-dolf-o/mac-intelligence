@@ -351,7 +351,7 @@ Easily create professional-quality animations in-house. Accelerate your design p
 
 Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital ...
 
-> [Microsoft Designer - Stunning designs in a flash](https://www.microsoft.com/microsoft-365/microsoft-designer)
+> [Microsoft Designer - Stunning designs in a flash](https://designer.microsoft.com)
 
 A graphic design app that helps you create professional quality social media posts, invitations, digital postcards, graphics, and more.
 
@@ -797,9 +797,9 @@ uBlock Origin is not just an “ad blocker“, it's a wide-spectrum content bloc
 
 CapCut is an all-in-one creative platform powered by AI that enables video editing and image design on browsers, Windows, Mac, Android, and iOS.
 
-> [Clipchamp Video Editor | Microsoft 365](https://www.microsoft.com/microsoft-365/clipchamp)
+> [Clipchamp: Quick and easy video editor](https://clipchamp.com)
 
-Clipchamp, the new video editor from Microsoft 365, simplifies the task of editing video clips so you can easily create high quality videos at home.
+Free video editing tool everyone can use. Get started in your browser, download the Windows app or create on the go with your mobile. Clipchamp's smart ...
 
 > [DaVinci Resolve 19 | Blackmagic Design](https://www.blackmagicdesign.com/products/davinciresolve)
 
