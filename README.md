@@ -351,6 +351,10 @@ Easily create professional-quality animations in-house. Accelerate your design p
 
 Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital ...
 
+> [Microsoft Designer - Stunning designs in a flash](https://www.microsoft.com/microsoft-365/microsoft-designer)
+
+A graphic design app that helps you create professional quality social media posts, invitations, digital postcards, graphics, and more.
+
 > [NIPPON COLORS - 日本の伝統色](https://nipponcolors.com)
 
 The Traditional Colors of Nippon (Japan). This site is optimized to Webkit.
@@ -541,9 +545,17 @@ Xmind is the most professional and popular mind mapping tool. Millions of people
 
 FreeOffice, the best free alternative to Microsoft Office (Word, Excel, PowerPoint) for Windows, Mac and Linux.
 
+> [iWork - Apple](https://www.apple.com/iwork)
+
+Pages, Numbers, and Keynote let you collaborate on documents, spreadsheets, and presentations from Mac, iPad, or iPhone – even on a PC.
+
 > [LibreOffice - Free and private office suite - Based on OpenOffice - Compatible with Microsoft](https://www.libreoffice.org)
 
 LibreOffice is a private, free and open source office suite – the successor project to OpenOffice. It's compatible with Microsoft Office/365 files (.doc, .docx, ...
+
+> [Microsoft 365: Login](https://www.office.com)
+
+Collaborate for free with online versions of Microsoft Word, PowerPoint, Excel, and OneNote. Save documents, workbooks, and presentations online, ...
 
 > [ONLYOFFICE - Secure Online Office](https://www.onlyoffice.com)
 
@@ -785,6 +797,10 @@ uBlock Origin is not just an “ad blocker“, it's a wide-spectrum content bloc
 
 CapCut is an all-in-one creative platform powered by AI that enables video editing and image design on browsers, Windows, Mac, Android, and iOS.
 
+> [Clipchamp Video Editor | Microsoft 365](https://www.microsoft.com/microsoft-365/clipchamp)
+
+Clipchamp, the new video editor from Microsoft 365, simplifies the task of editing video clips so you can easily create high quality videos at home.
+
 > [DaVinci Resolve 19 | Blackmagic Design](https://www.blackmagicdesign.com/products/davinciresolve)
 
 DaVinci Resolve is the world's only all in one solution for editing, color, VFX, motion graphics and audio! The free version works with virtually all 8‑bit ...
@@ -934,6 +950,10 @@ Translate texts & full document files instantly. Accurate translations for indiv
 > [Grammarly: Free AI Writing Assistance](https://www.grammarly.com)
 
 Grammarly makes AI writing convenient. Work smarter with personalized AI guidance and text generation on any app or website.
+
+> [Microsoft Editor | Free Online Text Editor Software](https://www.microsoft.com/microsoft-365/microsoft-editor)
+
+Write with confidence across documents, email, and the web with Microsoft Editor, your intelligent writing assistant.
 
 > [QuillBot: Your complete writing solution](https://quillbot.com)
 
