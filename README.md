@@ -97,6 +97,10 @@ Feedly is the fastest way to research the topics and trends that matter to you. 
 
 Automate your work. Make allows you to visually create, build and automate workflows. User friendly no-code integration tool. Try it now for free!
 
+> [Microsoft Power Automate – Process Automation Platform](https://www.microsoft.com/power-platform/products/power-automate)
+
+Use Power Automate tools to automate processes across nearly unlimited systems, desktop apps, and websites using AI, digital, and robotic process ...
+
 > [Taskade: Autonomous AI Agents & Workflow Automation](https://www.taskade.com)
 
 Meet your AI workforce with Taskade! Build, train, and deploy AI agents that think, learn, and act—ready to plan, research, and complete tasks alongside ...
@@ -218,6 +222,14 @@ Xcode is available on the Mac App Store, with downloadable simulator runtimes fo
 ---
 
 ## Data Analysis
+
+> [Microsoft Access - Database Software and Applications](https://www.microsoft.com/microsoft-365/access)
+
+Build business apps from templates or from scratch. With rich and intuitive design tools, Access helps you create appealing and highly functional apps.
+
+> [Power BI - Data Visualization | Microsoft Power Platform](https://www.microsoft.com/power-platform/products/power-bi)
+
+Power BI is a unified, scalable platform for self-service and enterprise business intelligence (BI). Connect to and visualize any data.
 
 > [Tableau: Business Intelligence and Analytics Software](https://www.tableau.com)
 
@@ -495,6 +507,22 @@ Freeform brings people together into a shared space for creativity, whether you'
 
 Discover Goodnotes 6, the AI note-taking app loved by millions around the world.
 
+> [Microsoft OneNote | The digital note-taking app for your devices](https://www.onenote.com)
+
+OneNote lets you combine the power of digital ink with the natural feel of a pen to help you sketch out your inspirations. Sketch, ...
+
+> [Microsoft To Do | To Do List and Task Management App](https://www.microsoft.com/microsoft-365/microsoft-to-do-list-app)
+
+Access from anywhere. Use Microsoft To Do for free and sync your lists across the web and iOS, Android, and Windows devices.
+
+> [Microsoft Visio | Flowchart Maker and Diagramming Software](https://www.microsoft.com/microsoft-365/visio/flowchart-software)
+
+Visio in Microsoft 365 is available to Microsoft 365 commercial subscribers, so you can create professional diagrams anytime, anywhere, with anyone. Learn more.
+
+> [Microsoft Whiteboard | Digital Online Whiteboard App](https://www.microsoft.com/microsoft-365/microsoft-whiteboard/digital-whiteboard-app)
+
+Explore the intelligent whiteboard and infinite canvas built for creative collaboration—and included with Microsoft 365.
+
 > [Milanote - the tool for organizing creative projects](https://milanote.com)
 
 Milanote is an easy-to-use tool to organize your ideas and projects into visual boards. Add notes, images, links and files, organize them visually and share ...
@@ -654,6 +682,10 @@ Full Access Best Value! ... Data Analytics ... What is a Certificate? ×. All Ou
 ---
 
 ## Online Meeting
+
+> [Microsoft Teams - Video Conferencing, Meetings, Calling](https://www.microsoft.com/microsoft-teams/group-chat-software)
+
+Working together is easier with Microsoft Teams. Tools and files are always available in one place that's designed to help you connect naturally, ...
 
 > [tl;dv.io | AI Notetaker for Zoom, MS Teams & Google Meet](https://tldv.io)
 
