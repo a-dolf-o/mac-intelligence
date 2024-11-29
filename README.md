@@ -915,6 +915,10 @@ Firefox Browsers · Get the browser that puts your privacy first — and always 
 
 Chrome is the official web browser from Google, built to be fast, secure, and customizable. Download now and make it yours.
 
+> [LibreWolf](https://librewolf.net)
+
+What is LibreWolf?#. This project is a custom and independent version of Firefox, with the primary goals of privacy, security and user freedom. LibreWolf is ...
+
 >  [Microsoft Edge](https://www.microsoft.com/edge)
 
 Get the most out of your browsing experience with Microsoft Edge, a fast and secure browser with world class performance, built-in privacy, and more.
@@ -1023,6 +1027,10 @@ AlternativeTo lets you find apps and software for Windows, Mac, Linux, iPhone, i
 
 Say goodbye to subscription fatigue! Discover software you can buy once and own forever--no recurring charges, just tools that work for you, for life.
 
+> [Microsoft 365 Products, Apps, and Services | Microsoft 365](https://www.microsoft.com/microsoft-365/products-apps-services)
+
+Create your best work on all your devices—from desktop to web—using the tools you need for home and business.
+
 > [once.tools: Your guide to software you only have to pay for once](https://once.tools)
 
 A friendly little native macOS app for large file sharing. Logo of Workspaces Workspaces Project-based launcher that opens your tools & files with one click.
@@ -1038,6 +1046,10 @@ Find open-source alternatives to popular software.
 > [PAPAYA 電腦教室 - YouTube](https://www.youtube.com/@papayaclass)
 
 PAPAYA 希望以最淺白易懂的方式，讓大家能夠輕鬆上手常用的電腦軟體。
+
+> [免費資源網路社群](https://free.com.tw)
+
+免費資源網路社群是一個以免費為主題的台灣網站、部落格，內容包含科技新知、免費軟體、線上工具、圖庫素材、WordPress 架站及應用程式介紹教學。
 
 [_back_](#table-of-contents)
 
