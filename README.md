@@ -227,6 +227,10 @@ Xcode is available on the Mac App Store, with downloadable simulator runtimes fo
 
 Build business apps from templates or from scratch. With rich and intuitive design tools, Access helps you create appealing and highly functional apps.
 
+> [Microsoft Forms | Surveys, Polls, and Quizzes](https://www.microsoft.com/microsoft-365/online-surveys-polls-quizzes)
+
+Easily create custom surveys, polls, and quizzes. Let built-in intelligence work for you. Collect the right feedback for your goals, no matter your skill level.
+
 > [Power BI - Data Visualization | Microsoft Power Platform](https://www.microsoft.com/power-platform/products/power-bi)
 
 Power BI is a unified, scalable platform for self-service and enterprise business intelligence (BI). Connect to and visualize any data.
@@ -367,6 +371,10 @@ Build beautiful, usable products faster. Material Design is an adaptable system�
 
 A graphic design app that helps you create professional quality social media posts, invitations, digital postcards, graphics, and more.
 
+> [Microsoft Publisher | Desktop Publishing Software](https://www.microsoft.com/microsoft-365/publisher)
+
+Get started with Publisher and use our simple tools to help you create professional, personalized newsletters, brochures, post cards, and more.
+
 > [NIPPON COLORS - 日本の伝統色](https://nipponcolors.com)
 
 The Traditional Colors of Nippon (Japan). This site is optimized to Webkit.
@@ -506,6 +514,10 @@ Freeform brings people together into a shared space for creativity, whether you'
 > [Goodnotes | Notes Reimagined | Note-Taking App](https://www.goodnotes.com)
 
 Discover Goodnotes 6, the AI note-taking app loved by millions around the world.
+
+> [Microsoft Loop: Collaborative App | Microsoft 365](https://www.microsoft.com/microsoft-loop)
+
+Microsoft Loop is the next-generation cocreation experience that brings together teams, content, and tasks across your apps and devices.
 
 > [Microsoft OneNote | The digital note-taking app for your devices](https://www.onenote.com)
 
@@ -683,6 +695,10 @@ Full Access Best Value! ... Data Analytics ... What is a Certificate? ×. All Ou
 
 ## Online Meeting
 
+> [Microsoft Stream — Enterprise Video Platform | Microsoft 365](https://www.microsoft.com/microsoft-365/microsoft-stream)
+
+Microsoft Stream brings video into your everyday work apps to help you communicate authentically, explain, learn, and collaborate across hybrid teams.
+
 > [Microsoft Teams - Video Conferencing, Meetings, Calling](https://www.microsoft.com/microsoft-teams/group-chat-software)
 
 Working together is easier with Microsoft Teams. Tools and files are always available in one place that's designed to help you connect naturally, ...
@@ -727,6 +743,10 @@ Meet your favorite 2FA app. We are an open-source, community-driven, private and
 
 Made with Gamma. A new medium for presenting ideas, powered by AI.
 
+> [Microsoft Sway | Create visually striking newsletters, presentations, and documentation in minutes](https://sway.cloud.microsoft)
+
+Create and share interactive reports, presentations, personal stories, and more. Sway is an easy-to-use digital storytelling app for creating interactive ...
+
 > [Prezi | Presentations and videos with engaging visuals for hybrid teams](https://prezi.com)
 
 Welcome to Prezi, the presentation software that uses motion, zoom, and spatial relationships to bring your ideas to life and make you a great presenter.
@@ -748,6 +768,30 @@ Our mission is to make the world more productive. To do this, we built one app t
 > [Jira | Issue & Project Tracking Software | Atlassian](https://www.atlassian.com/software/jira)
 
 Make the impossible, possible in Jira. Plan, track, and release world-class software with the number one project management tool for agile teams.
+
+> [Microsoft Lists App | Microsoft 365](https://www.microsoft.com/microsoft-365/microsoft-lists)
+
+Your smart information-tracking app in Microsoft 365. Work with anyone, anywhere. Configure your lists to better organize events, issues, and assets.
+
+> [Microsoft Outlook (formerly Hotmail): Free email and calendar | Microsoft 365](https://www.microsoft.com/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook)
+
+Stay on top of multiple accounts with email, calendars, and contacts in one place. Available on desktop, mobile, and web. Sign in. Create free account.
+
+> [Microsoft Places | Smart Solutions for Your Work Environment](https://www.microsoft.com/microsoft-teams/microsoft-places)
+
+Explore Microsoft Places, an AI-powered solution to optimize your workspace. Enhance collaboration and efficiency with innovative tools for hybrid teams.
+
+> [Microsoft Planner | Daily Task and Work Management](https://www.microsoft.com/microsoft-365/planner/microsoft-planner)
+
+Microsoft Planner can help you stay on track and manage all of your tasks, to-do lists, plans, and projects in one place.
+
+> [Microsoft Project | Project Management Software](https://www.microsoft.com/microsoft-365/project/project-management-software)
+
+Easily plan projects and collaborate from virtually anywhere with the right tools for project managers, project teams, and decision makers.
+
+> [Microsoft SharePoint Online - Collaboration Software | Microsoft 365](https://www.microsoft.com/microsoft-365/sharepoint/collaboration)
+
+Share, organize, and discover information with Microsoft SharePoint. Learn about SharePoint Online, OneDrive for Business, and Apps for SharePoint.
 
 > [Slack: AI Work Management & Productivity Tools](https://slack.com)
 
