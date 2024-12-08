@@ -53,6 +53,8 @@ Welcome to Mac Intelligence!
 
 > [character.ai | Personalized AI for every moment of your day](https://character.ai)
 
+`Free` `Web` `iOS` `visionOS` `Android`
+
 Meet AIs that feel alive. Chat with anyone, anywhere, anytime. Experience the power of super-intelligent chat bots that hear you, understand you, ...
 
 > [ChatGPT | OpenAI](https://openai.com)
