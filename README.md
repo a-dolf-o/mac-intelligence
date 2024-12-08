@@ -59,29 +59,43 @@ Meet AIs that feel alive. Chat with anyone, anywhere, anytime. Experience the po
 
 > [ChatGPT | OpenAI](https://openai.com)
 
+`Free` `Paid` `Web` `macOS` `iOS` `iPadOS` `visionOS` `Windows` `Android`
+
 ChatGPT on your desktop. Chat about email, screenshots, files, and anything on your screen. Chat about email, screenshots, files ...
 
 > [Claude | Home \ Anthropic](https://www.anthropic.com)
+
+`Free` `Paid` `Web` `iOS` `iPadOS` `Android`
 
 Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work.
 
 > [Felo - Your Free AI Search Engine](https://felo.ai)
 
+`Free` `Paid` `Web` `Extension` `macOS` `iOS` `iPadOS` `visionOS` `Android`
+
 The multilingual AI search engine optimized for discovering and understanding world knowledge. Leverage the power of ChatGPT and AI Agent to break language ...
 
 > [‎Gemini - chat to supercharge your ideas](https://gemini.google.com)
+
+`Free` `Paid` `Web` `iOS` `Android`
 
 Bard is now Gemini. Get help with writing, planning, learning, and more from Google AI.
 
 > [Microsoft Copilot: Your AI companion](https://copilot.microsoft.com)
 
+`Free` `Paid` `Web` `iOS` `iPadOS` `visionOS` `Windows` `Android`
+
 Microsoft Copilot is your companion to inform, entertain, and inspire. Get advice, feedback, and straightforward answers. Try Copilot now.
 
 > [Ollama](https://ollama.com)
 
+`Open` `Free` `macOS` `Windows` `Linux`
+
 Get up and running with large language models.
 
 > [Perplexity AI](https://www.perplexity.ai)
+
+`Free` `Paid` `Web` `Extension` `macOS` `iOS` `iPadOS` `Android`
 
 Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
 
