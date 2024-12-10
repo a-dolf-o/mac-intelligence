@@ -2,6 +2,8 @@
 
 Welcome to Mac Intelligence!
 
+`Open` `Free` `Paid` `Web` `iOS` `iPadOS` `macOS` `visionOS` `watchOS` `Android` `Windows` `Linux` `Chrome` `Edge` `Firefox`
+
 <a name="table-of-contents"></a>
 
 ---
@@ -59,7 +61,7 @@ Meet AIs that feel alive. Chat with anyone, anywhere, anytime. Experience the po
 
 > [ChatGPT | OpenAI](https://openai.com)
 
-`Free` `Paid` `Web` `macOS` `iOS` `iPadOS` `visionOS` `Windows` `Android`
+`Free` `Paid` `Web` `iOS` `iPadOS` `macOS` `visionOS` `Android` `Windows`
 
 ChatGPT on your desktop. Chat about email, screenshots, files, and anything on your screen. Chat about email, screenshots, files ...
 
@@ -71,7 +73,7 @@ Claude is a next generation AI assistant built by Anthropic and trained to be sa
 
 > [Felo - Your Free AI Search Engine](https://felo.ai)
 
-`Free` `Paid` `Web` `Extension` `macOS` `iOS` `iPadOS` `visionOS` `Android`
+`Free` `Paid` `Web` `Extension` `iOS` `iPadOS` `macOS` `visionOS` `Android`
 
 The multilingual AI search engine optimized for discovering and understanding world knowledge. Leverage the power of ChatGPT and AI Agent to break language ...
 
@@ -83,7 +85,7 @@ Bard is now Gemini. Get help with writing, planning, learning, and more from Goo
 
 > [Microsoft Copilot: Your AI companion](https://copilot.microsoft.com)
 
-`Free` `Paid` `Web` `iOS` `iPadOS` `visionOS` `Windows` `Android`
+`Free` `Paid` `Web` `iOS` `iPadOS` `visionOS` `Android` `Windows`
 
 Microsoft Copilot is your companion to inform, entertain, and inspire. Get advice, feedback, and straightforward answers. Try Copilot now.
 
@@ -95,7 +97,7 @@ Get up and running with large language models.
 
 > [Perplexity AI](https://www.perplexity.ai)
 
-`Free` `Paid` `Web` `Extension` `macOS` `iOS` `iPadOS` `Android`
+`Free` `Paid` `Web` `Extension` `iOS` `iPadOS` `macOS` `Android`
 
 Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
 
@@ -107,21 +109,31 @@ Perplexity is a free AI-powered answer engine that provides accurate, trusted, a
 
 > [Feedly: Track the topics and trends that matter to you](https://feedly.com)
 
+`Free` `Paid` `Web` `Extension` `iOS` `iPadOS` `visionOS` `Android`
+
 Feedly is the fastest way to research the topics and trends that matter to you. Solutions for cybersecurity teams, market intel teams, ...
 
 > [Make | Automation Software | Connect Apps & Design Workflows](https://www.make.com)
+
+`Free` `Paid` `Web` `iOS` `iPadOS` `macOS` `visionOS` `watchOS` `Android`
 
 Automate your work. Make allows you to visually create, build and automate workflows. User friendly no-code integration tool. Try it now for free!
 
 > [Microsoft Power Automate – Process Automation Platform](https://www.microsoft.com/power-platform/products/power-automate)
 
+`Free` `Paid` `Web` `Extension` `iOS` `Android` `Windows`
+
 Use Power Automate tools to automate processes across nearly unlimited systems, desktop apps, and websites using AI, digital, and robotic process ...
 
 > [Taskade: Autonomous AI Agents & Workflow Automation](https://www.taskade.com)
 
+`Free` `Paid` `Web` `iOS` `iPadOS` `macOS` `visionOS` `Android` `Windows` `Chrome` `Edge` `Firefox`
+
 Meet your AI workforce with Taskade! Build, train, and deploy AI agents that think, learn, and act—ready to plan, research, and complete tasks alongside ...
 
 > [Zapier: Automate without limits](https://zapier.com)
+
+`Free` `Paid` `Web` `Chrome`
 
 Workflow automation software for everyone. Automate your work across 7000+ app integrations—no developers, no IT tickets, no delays.
 
