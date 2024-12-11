@@ -1079,11 +1079,21 @@ Write effortlessly and efficiently with QuillBot's suite of AI tools. Paraphrase
 
 Blender's comprehensive array of modeling tools make creating, transforming and editing your models a breeze.
 
+> [FreeCAD: Your own 3D parametric modeler](https://www.freecad.org)
+
+`Open` `Free` `macOS` `Windows` `Linux`
+
+FreeCAD is an open-source parametric 3D modeler made primarily to design real-life objects of any size. Parametric modeling allows you to easily modify your ...
+
 > [SketchUp | 3D Design Software | 3D Modeling & Drawing](https://www.sketchup.com)
+
+`Free` `Paid` `Web` `iOS` `iPadOS` `macOS` `visionOS` `Windows`
 
 SketchUp is a premier 3D design software that makes 3D modeling & drawing accessible and empowers you with a robust toolset where you can create whatever ...
 
 > [Spline - 3D Design tool in the browser with real-time collaboration](https://spline.design)
+
+`Free` `Paid` `Web` `macOS` `visionOS` `Windows`
 
 Spline is a free 3D design software with real-time collaboration to create web interactive experiences in the browser. Easy 3d modeling, animation, ...
 
