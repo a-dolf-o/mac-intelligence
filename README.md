@@ -1075,6 +1075,8 @@ Write effortlessly and efficiently with QuillBot's suite of AI tools. Paraphrase
 
 > [blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://www.blender.org)
 
+`Open` `Free` `macOS` `Windows` `Linux`
+
 Blender's comprehensive array of modeling tools make creating, transforming and editing your models a breeze.
 
 > [SketchUp | 3D Design Software | 3D Modeling & Drawing](https://www.sketchup.com)
