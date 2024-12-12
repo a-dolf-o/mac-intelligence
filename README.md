@@ -891,6 +891,12 @@ A worthy successor to the Spectacle Mac app. Rectangle is nearly a complete drop
 
 uBlock Origin is not just an “ad blocker“, it's a wide-spectrum content blocker with CPU and memory efficiency as a primary feature.
 
+> [VirusTotal - Home](https://www.virustotal.com)
+
+`Free` `Web` `macOS` `Windows` `Linux` `Chrome` `Edge` `Firefox`
+
+Want to automate submissions? Check our API, or access your API key.
+
 [_back_](#table-of-contents)
 
 ---
