@@ -121,7 +121,7 @@ Automate your work. Make allows you to visually create, build and automate workf
 
 > [Microsoft Power Automate – Process Automation Platform](https://www.microsoft.com/power-platform/products/power-automate)
 
-`#Free`# `Paid` `#Web` `#iOS` `#Android` `#Windows` `#Chrome` `#Edge` `#Firefox`
+`#Free` `#Paid` `#Web` `#iOS` `#Android` `#Windows` `#Chrome` `#Edge` `#Firefox`
 
 Use Power Automate tools to automate processes across nearly unlimited systems, desktop apps, and websites using AI, digital, and robotic process ...
 
@@ -254,6 +254,12 @@ Xcode is available on the Mac App Store, with downloadable simulator runtimes fo
 > [Microsoft Access - Database Software and Applications](https://www.microsoft.com/microsoft-365/access)
 
 Build business apps from templates or from scratch. With rich and intuitive design tools, Access helps you create appealing and highly functional apps.
+
+> [Microsoft Clarity - Free Heatmaps & Session Recordings](https://clarity.microsoft.com)
+
+`#Free` `#Web` `#Chrome` `#Edge`
+
+Clarity is a free user behavior analytics tool that helps you understand how users are interacting with your website through session replays and heatmaps.
 
 > [Microsoft Forms | Surveys, Polls, and Quizzes](https://www.microsoft.com/microsoft-365/online-surveys-polls-quizzes)
 
@@ -390,6 +396,12 @@ License. Iconify is an open source project. Almost all parts of the project use 
 > [Linearity: Ideate. Design. Animate.](https://www.linearity.io)
 
 Easily create professional-quality animations in-house. Accelerate your design process with AI-powered tools. Reduce animation per minute costs by up to 90%.
+
+> [Lucide](https://lucide.dev)
+
+`#Open` `#Free` `#Web`
+
+Lucide has a lot of customization options to match the icons with your UI. Color.
 
 > [Material Design](https://m3.material.io)
 
@@ -936,6 +948,12 @@ The video platform trusted by 287 million creatives, entrepreneurs, and business
 > [Oracle VirtualBox](https://www.virtualbox.org)
 
 VirtualBox is a community effort backed by Oracle. Everyone is encouraged to contribute. Oracle helps ensure the product meets professional quality criteria and ...
+
+> [UTM | Virtual machines for Mac](https://mac.getutm.app)
+
+`#Open` `#Free` `#iOS` `#iPadOS` `#macOS` `#visionOS`
+
+Designed for macOS. Unlike other free virtualization software, UTM was created for macOS and only for Apple platforms. It is designed completely from the ground ...
 
 > [VMware | Desktop Hypervisor Solutions](https://www.vmware.com/products/desktop-hypervisor)
 
