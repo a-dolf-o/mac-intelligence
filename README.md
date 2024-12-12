@@ -2,7 +2,7 @@
 
 Welcome to Mac Intelligence!
 
-`Open` `Free` `Paid` `Web` `iOS` `iPadOS` `macOS` `visionOS` `watchOS` `Android` `Windows` `Linux` `Chrome` `Edge` `Firefox` `Telegram` `WhatsApp`
+`#Open` `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Telegram` `#WhatsApp`
 
 <a name="table-of-contents"></a>
 
@@ -55,49 +55,49 @@ Welcome to Mac Intelligence!
 
 > [character.ai | Personalized AI for every moment of your day](https://character.ai)
 
-`Free` `Web` `iOS` `visionOS` `Android`
+`#Free` `#Web` `#iOS` `#visionOS` `#Android`
 
 Meet AIs that feel alive. Chat with anyone, anywhere, anytime. Experience the power of super-intelligent chat bots that hear you, understand you, ...
 
 > [ChatGPT | OpenAI](https://openai.com)
 
-`Free` `Paid` `Web` `iOS` `iPadOS` `macOS` `visionOS` `Android` `Windows`
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
 
 ChatGPT on your desktop. Chat about email, screenshots, files, and anything on your screen. Chat about email, screenshots, files ...
 
 > [Claude | Home \ Anthropic](https://www.anthropic.com)
 
-`Free` `Paid` `Web` `iOS` `iPadOS` `Android`
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
 
 Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work.
 
 > [Felo - Your Free AI Search Engine](https://felo.ai)
 
-`Free` `Paid` `Web` `iOS` `iPadOS` `macOS` `visionOS` `Android` `Chrome`
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Chrome`
 
 The multilingual AI search engine optimized for discovering and understanding world knowledge. Leverage the power of ChatGPT and AI Agent to break language ...
 
 > [‎Gemini - chat to supercharge your ideas](https://gemini.google.com)
 
-`Free` `Paid` `Web` `iOS` `Android`
+`#Free` `#Paid` `#Web` `#iOS` `#Android`
 
 Bard is now Gemini. Get help with writing, planning, learning, and more from Google AI.
 
 > [Microsoft Copilot: Your AI companion](https://copilot.microsoft.com)
 
-`Free` `Paid` `Web` `iOS` `iPadOS` `visionOS` `Android` `Windows` `Telegram` `WhatsApp`
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android` `#Windows` `#Telegram` `#WhatsApp`
 
 Microsoft Copilot is your companion to inform, entertain, and inspire. Get advice, feedback, and straightforward answers. Try Copilot now.
 
 > [Ollama](https://ollama.com)
 
-`Open` `Free` `macOS` `Windows` `Linux`
+`#Open` `#Free` `#macOS` `#Windows` `#Linux`
 
 Get up and running with large language models.
 
 > [Perplexity AI](https://www.perplexity.ai)
 
-`Free` `Paid` `Web` `iOS` `iPadOS` `macOS` `Android` `Chrome`
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Chrome`
 
 Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
 
@@ -109,31 +109,31 @@ Perplexity is a free AI-powered answer engine that provides accurate, trusted, a
 
 > [Feedly: Track the topics and trends that matter to you](https://feedly.com)
 
-`Free` `Paid` `Web` `iOS` `iPadOS` `visionOS` `Android` `Chrome` `Firefox`
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android` `#Chrome` `#Firefox`
 
 Feedly is the fastest way to research the topics and trends that matter to you. Solutions for cybersecurity teams, market intel teams, ...
 
 > [Make | Automation Software | Connect Apps & Design Workflows](https://www.make.com)
 
-`Free` `Paid` `Web` `iOS` `iPadOS` `macOS` `visionOS` `watchOS` `Android`
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android`
 
 Automate your work. Make allows you to visually create, build and automate workflows. User friendly no-code integration tool. Try it now for free!
 
 > [Microsoft Power Automate – Process Automation Platform](https://www.microsoft.com/power-platform/products/power-automate)
 
-`Free` `Paid` `Web` `iOS` `Android` `Windows` `Chrome` `Edge` `Firefox`
+`#Free`# `Paid` `#Web` `#iOS` `#Android` `#Windows` `#Chrome` `#Edge` `#Firefox`
 
 Use Power Automate tools to automate processes across nearly unlimited systems, desktop apps, and websites using AI, digital, and robotic process ...
 
 > [Taskade: Autonomous AI Agents & Workflow Automation](https://www.taskade.com)
 
-`Free` `Paid` `Web` `iOS` `iPadOS` `macOS` `visionOS` `Android` `Windows` `Chrome` `Edge` `Firefox`
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Chrome` `#Edge` `#Firefox`
 
 Meet your AI workforce with Taskade! Build, train, and deploy AI agents that think, learn, and act—ready to plan, research, and complete tasks alongside ...
 
 > [Zapier: Automate without limits](https://zapier.com)
 
-`Free` `Paid` `Web` `Chrome`
+`#Free` `#Paid` `#Web` `#Chrome`
 
 Workflow automation software for everyone. Automate your work across 7000+ app integrations—no developers, no IT tickets, no delays.
 
@@ -893,7 +893,7 @@ uBlock Origin is not just an “ad blocker“, it's a wide-spectrum content bloc
 
 > [VirusTotal - Home](https://www.virustotal.com)
 
-`Free` `Web` `macOS` `Windows` `Linux` `Chrome` `Edge` `Firefox`
+`#Free` `#Web` `#macOS` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox`
 
 Want to automate submissions? Check our API, or access your API key.
 
@@ -1081,25 +1081,25 @@ Write effortlessly and efficiently with QuillBot's suite of AI tools. Paraphrase
 
 > [blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://www.blender.org)
 
-`Open` `Free` `macOS` `Windows` `Linux`
+`#Open` `#Free` `#macOS` `#Windows` `#Linux`
 
 Blender's comprehensive array of modeling tools make creating, transforming and editing your models a breeze.
 
 > [FreeCAD: Your own 3D parametric modeler](https://www.freecad.org)
 
-`Open` `Free` `macOS` `Windows` `Linux`
+`#Open` `#Free` `#macOS` `#Windows` `#Linux`
 
 FreeCAD is an open-source parametric 3D modeler made primarily to design real-life objects of any size. Parametric modeling allows you to easily modify your ...
 
 > [SketchUp | 3D Design Software | 3D Modeling & Drawing](https://www.sketchup.com)
 
-`Free` `Paid` `Web` `iOS` `iPadOS` `macOS` `visionOS` `Windows`
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Windows`
 
 SketchUp is a premier 3D design software that makes 3D modeling & drawing accessible and empowers you with a robust toolset where you can create whatever ...
 
 > [Spline - 3D Design tool in the browser with real-time collaboration](https://spline.design)
 
-`Free` `Paid` `Web` `macOS` `visionOS` `Windows`
+`#Free` `#Paid` `#Web` `#macOS` `#visionOS` `#Windows`
 
 Spline is a free 3D design software with real-time collaboration to create web interactive experiences in the browser. Easy 3d modeling, animation, ...
 
