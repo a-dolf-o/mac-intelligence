@@ -947,6 +947,8 @@ The video platform trusted by 287 million creatives, entrepreneurs, and business
 
 > [Oracle VirtualBox](https://www.virtualbox.org)
 
+`#Open` `#Free` `#macOS` `#Windows` `#Linux`
+
 VirtualBox is a community effort backed by Oracle. Everyone is encouraged to contribute. Oracle helps ensure the product meets professional quality criteria and ...
 
 > [UTM | Virtual machines for Mac](https://mac.getutm.app)
@@ -956,6 +958,8 @@ VirtualBox is a community effort backed by Oracle. Everyone is encouraged to con
 Designed for macOS. Unlike other free virtualization software, UTM was created for macOS and only for Apple platforms. It is designed completely from the ground ...
 
 > [VMware | Desktop Hypervisor Solutions](https://www.vmware.com/products/desktop-hypervisor)
+
+`#Free` `#macOS` `#Windows` `#Linux`
 
 VMware desktop hypervisors allow you to develop and test for any platform and virtually run nearly any operating system without rebooting. They can also connect ...
 
