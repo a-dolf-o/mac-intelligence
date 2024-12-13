@@ -341,17 +341,25 @@ With UPDF, you can edit, annotate, convert, OCR, organize, protect, share, print
 
 > [AirDrop - Official Apple Support](https://support.apple.com)
 
+`#Free` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS`
+
 With AirDrop, you can wirelessly send documents, photos, videos, websites, map locations, and more to a nearby Mac, iPhone, iPad, or Apple Vision Pro.
 
 > [LocalSend: Share files to nearby devices](https://localsend.org)
+
+`#Open` `#Free` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
 
 LocalSend is a free, open-source, cross-platform file sharing tool that ... English, Español, فارسی, Filipino, Français, עברית, हिन्दी, Bahasa Indonesia ...
 
 > [PairDrop | Transfer Files Cross-Platform. No Setup, No Signup.](https://pairdrop.net)
 
+`#Open` `#Free` `#Web`
+
 Open PairDrop on other devices to send files. Pair devices or enter a public room to be discoverable on other networks.
 
 > [ShareDrop | P2P file transfer](https://www.sharedrop.io)
+
+`#Open` `#Free` `#Web`
 
 ShareDrop is a free, open-source web app that allows you to easily and securely share files directly between devices without uploading them to any server first.
 
