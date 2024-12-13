@@ -2,7 +2,7 @@
 
 Welcome to Mac Intelligence!
 
-`#Open` `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Telegram` `#WhatsApp`
+`#Open` `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari` `#Excel` `#Outlook` `#PowerPoint` `#Teams` `#Word` `#Telegram` `#WhatsApp`
 
 <a name="table-of-contents"></a>
 
@@ -1089,17 +1089,25 @@ Host with the best. When you create a site with WordPress.com, you get all of th
 
 > [DeepL Translate: The world's most accurate translator](https://www.deepl.com)
 
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows` `#Chrome` `#Edge` `#Firefox` `#Excel` `#Outlook` `#PowerPoint` `#Teams` `#Word`
+
 Translate texts & full document files instantly. Accurate translations for individuals and Teams. Millions translate with DeepL every day.
 
 > [Grammarly: Free AI Writing Assistance](https://www.grammarly.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Chrome` `#Edge` `#Firefox` `#Safari` `#Excel` `#Outlook` `#PowerPoint` `#Teams` `#Word`
 
 Grammarly makes AI writing convenient. Work smarter with personalized AI guidance and text generation on any app or website.
 
 > [Microsoft Editor | Free Online Text Editor Software](https://www.microsoft.com/microsoft-365/microsoft-editor)
 
+`#Free` `#Paid` `#Web` `#macOS` `#Windows` `#Chrome` `#Edge` `#Outlook` `#Word`
+
 Write with confidence across documents, email, and the web with Microsoft Editor, your intelligent writing assistant.
 
 > [QuillBot: Your complete writing solution](https://quillbot.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#macOS` `#Android` `#Chrome` `#Edge` `#Word`
 
 Write effortlessly and efficiently with QuillBot's suite of AI tools. Paraphrase, check grammar, analyze tone, improve fluency, and more.
 
