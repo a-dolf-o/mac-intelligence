@@ -1061,19 +1061,27 @@ Zen is based on Firefox, ensuring that your browsing experience prioritizes secu
 
 ## Website Building
 
+> [Elementor: Website Builder — Create a Website Today](https://elementor.com)
+
+`#Open` `#Free` `#Paid` `#Web`
+
+Elementor is the leading website builder platform for professionals and business owners on WordPress. Whether you're a developer, designer, marketer, or ...
+
 > [Shopify](https://www.shopify.com)
+
+`#Paid` `#Web` `#iOS` `#iPadOS` `#watchOS` `#Android`
 
 Try Shopify free and start a business or grow an existing one. Get more than ecommerce software with tools to manage every part of your business.
 
-> [Sparkle: The best Mac website builder](https://sparkleapp.com)
-
-With Sparkle, building a stunning website has never been easier. Say goodbye to complicated software and questionable web-apps and hello to a user friendly ...
-
 > [Wix.com: Website Builder - Create a Free Website Today](https://www.wix.com)
+
+`#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
 
 Create your website and grow with confidence. From an intuitive website builder to advanced business solutions & powerful SEO tools—Try Wix for free.
 
 > [WooCommerce](https://woocommerce.com)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#watchOS` `#Android`
 
 WooCommerce is the open-source ecommerce platform that helps merchants and developers build successful businesses for the long term.
 
@@ -1091,19 +1099,19 @@ Host with the best. When you create a site with WordPress.com, you get all of th
 
 > [DeepL Translate: The world's most accurate translator](https://www.deepl.com)
 
-`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows` `#Chrome` `#Edge` `#Firefox` `#Excel` `#Outlook` `#PowerPoint` `#Teams` `#Word`
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows` `#Chrome` `#Edge` `#Firefox` `#Outlook` `#PowerPoint` `#Teams` `#Word`
 
 Translate texts & full document files instantly. Accurate translations for individuals and Teams. Millions translate with DeepL every day.
 
 > [Grammarly: Free AI Writing Assistance](https://www.grammarly.com)
 
-`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Chrome` `#Edge` `#Firefox` `#Safari` `#Excel` `#Outlook` `#PowerPoint` `#Teams` `#Word`
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Chrome` `#Edge` `#Firefox` `#Safari` `#Word`
 
 Grammarly makes AI writing convenient. Work smarter with personalized AI guidance and text generation on any app or website.
 
 > [Microsoft Editor | Free Online Text Editor Software](https://www.microsoft.com/microsoft-365/microsoft-editor)
 
-`#Free` `#Paid` `#Web` `#macOS` `#Windows` `#Chrome` `#Edge` `#Outlook` `#Word`
+`#Free` `#Paid` `#Web` `#macOS` `#Windows` `#Chrome` `#Edge`
 
 Write with confidence across documents, email, and the web with Microsoft Editor, your intelligent writing assistant.
 
