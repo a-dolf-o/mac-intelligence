@@ -1079,6 +1079,8 @@ WooCommerce is the open-source ecommerce platform that helps merchants and devel
 
 > [WordPress.com: Build a Site, Sell Your Stuff, Start a Blog & More](https://wordpress.com)
 
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
+
 Host with the best. When you create a site with WordPress.com, you get all of the power of lightning-fast, secure managed WordPress hosting.
 
 [_back_](#table-of-contents)
