@@ -1063,7 +1063,7 @@ Zen is based on Firefox, ensuring that your browsing experience prioritizes secu
 
 > [Elementor: Website Builder — Create a Website Today](https://elementor.com)
 
-`#Paid` `#Web`
+`#Free` `#Paid` `#Web`
 
 Elementor is the leading website builder platform for professionals and business owners on WordPress. Whether you're a developer, designer, marketer, or ...
 
@@ -1081,13 +1081,13 @@ Create your website and grow with confidence. From an intuitive website builder 
 
 > [WooCommerce](https://woocommerce.com)
 
-`#Free` `#Web` `#iOS` `#iPadOS` `#watchOS` `#Android`
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#watchOS` `#Android`
 
 WooCommerce is the open-source ecommerce platform that helps merchants and developers build successful businesses for the long term.
 
 > [WordPress.com: Build a Site, Sell Your Stuff, Start a Blog & More](https://wordpress.com)
 
-`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
+`#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
 
 Host with the best. When you create a site with WordPress.com, you get all of the power of lightning-fast, secure managed WordPress hosting.
 
