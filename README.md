@@ -1063,7 +1063,7 @@ Zen is based on Firefox, ensuring that your browsing experience prioritizes secu
 
 > [Elementor: Website Builder — Create a Website Today](https://elementor.com)
 
-`#Open` `#Free` `#Paid` `#Web`
+`#Paid` `#Web`
 
 Elementor is the leading website builder platform for professionals and business owners on WordPress. Whether you're a developer, designer, marketer, or ...
 
