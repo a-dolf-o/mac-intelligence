@@ -145,25 +145,49 @@ Workflow automation software for everyone. Automate your work across 7000+ app i
 
 > [Dropbox.com](https://www.dropbox.com)
 
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
+
 Dropbox helps you simplify your workflow. So you can spend more time in your flow.
+
+> [Google Drive: Share Files Online with Secure Cloud Storage](https://workspace.google.com/products/drive)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
+
+Simple and scalable cloud storage for people and teams of all sizes. Upload, open, share and edit files from any device.
 
 > [Google One: Get More Storage, More AI capabilities, and More Features](https://one.google.com)
 
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
+
 Google Drive is a way to organize your files. Google One is a subscription that gives you more storage across Google Drive, Gmail, and Google Photos.
 
+> [Google Photos: Edit, Organize, Search, and Backup Your Photos](https://www.google.com/photos)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
+
+Edit and enhance photos with AI-powered features like Magic Editor and Magic Eraser on Google Photos. Store, organize & search your memories.
+
 > [iCloud](https://www.icloud.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Windows`
 
 Log in to iCloud to access your photos, mail, notes, documents and more. Sign in with your Apple Account or create a new account to start using Apple ...
 
 > [MEGA: Protect your Online Privacy](https://mega.io)
 
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge`
+
 Store files, chat, and meet – all in one place. MEGA brings cloud storage, file and folder sharing, chat, meetings, and more — together into one place.
 
 > [Microsoft OneDrive - Personal Cloud Storage](https://www.microsoft.com/onedrive)
 
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
+
 Save your files and photos to OneDrive and access them from any device, anywhere. Learn more and get 5 GB of free personal cloud storage today.
 
 > [pCloud - The Most Secure Cloud Storage](https://www.pcloud.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox`
 
 pCloud is the most secure encrypted cloud storage, where you can store your personal files or backup your PC or share your business documents with your ...
 
