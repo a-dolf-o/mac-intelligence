@@ -197,75 +197,51 @@ pCloud is the most secure encrypted cloud storage, where you can store your pers
 
 ## Computer Programming
 
-> [Anaconda | The Operating System for AI](https://www.anaconda.com)
-
-Democratize AI innovation with the world's most trusted open ecosystem for data science and AI development.
-
 > [Android Studio & App Tools](https://developer.android.com/studio)
+
+`#Open` `#Free` `#Web` `#macOS` `#Windows` `#Linux`
 
 Android Studio provides app builders with an integrated development environment (IDE) optimized for Android apps. Download Android Studio today.
 
-> [Angular • Home](https://angular.dev)
-
-The web development framework for building modern apps.
-
-> [Atom](https://atom-editor.cc)
-
-Atom is a desktop application built with HTML, JavaScript, CSS, and Node.js integration. It runs on Electron, a framework for building cross platform apps using ...
-
 > [Cursor](https://www.cursor.com)
+
+`#Free` `#Web` `#macOS` `#Windows` `#Linux`
 
 The AI Code Editor. Built to make you extraordinarily productive, Cursor is the best way to code with AI.
 
-> [Git](https://git-scm.com)
-
-Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with ...
-
 > [GitHub · Build and ship software on a single, collaborative platform](https://github.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
 
 Millions of developers and businesses call GitHub home. Whether you're scaling your development process or just learning how to code, GitHub is where you belong ...
 
 > [JetBrains: Essential tools for software developers and teams](https://www.jetbrains.com)
 
+`#Free` `#Paid` `#Web` `#macOS` `#Windows` `#Linux`
+
 JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools, including IntelliJ IDEA – the leading Java IDE, ...
-
-> [Jupyter | Project Jupyter | Home](https://jupyter.org)
-
-The Jupyter Notebook is a web-based interactive computing platform. The notebook combines live code, equations, narrative text, visualizations, ...
-
-> [MongoDB: The Developer Data Platform](https://www.mongodb.com)
-
-MongoDB Atlas integrates operational and vector data in a single, unified platform. Use vector representations of your data to perform semantic search, build ...
-
-> [Node.js — Run JavaScript Everywhere](https://nodejs.org)
-
-Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
-
-> [React](https://react.dev)
-
-React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript.
 
 > [Replit – Build software faster](https://replit.com)
 
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
+
 Replit is an AI-powered software development & deployment platform for building, sharing, and shipping software fast. Sign up for freeGet a business ...
 
-> [Sublime Text - Text Editing, Done Right](https://www.sublimetext.com)
-
-Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing ...
-
 > [TestFlight - Apple Developer](https://developer.apple.com/testflight)
+
+`#Free` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#watchOS`
 
 TestFlight makes it easy for testers to give feedback on your apps, games, and App Clips across Apple platforms before you publish. Share your beta with just ...
 
 > [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com)
 
+`#Open` `#Free` `#Web` `#macOS` `#Windows` `#Linux`
+
 Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free and ...
 
-> [Vue.js - The Progressive JavaScript Framework](https://vuejs.org)
-
-The Progressive JavaScript Framework · Approachable. Builds on top of standard HTML, CSS and JavaScript with intuitive API and world-class documentation.
-
 > [Xcode - Apple Developer](https://developer.apple.com/xcode)
+
+`#Free` `#macOS`
 
 Xcode is available on the Mac App Store, with downloadable simulator runtimes for all platforms. Predictive code completion helps you write safer code faster, ...
 
