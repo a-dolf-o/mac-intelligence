@@ -167,7 +167,7 @@ Google Drive is a way to organize your files. Google One is a subscription that 
 
 Edit and enhance photos with AI-powered features like Magic Editor and Magic Eraser on Google Photos. Store, organize & search your memories.
 
-> [iCloud](https://www.icloud.com)
+> [iCloud - Apple](https://www.icloud.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Windows`
 
