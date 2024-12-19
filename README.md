@@ -251,10 +251,6 @@ Xcode is available on the Mac App Store, with downloadable simulator runtimes fo
 
 ## Data Analysis
 
-> [Microsoft Access - Database Software and Applications](https://www.microsoft.com/microsoft-365/access)
-
-Build business apps from templates or from scratch. With rich and intuitive design tools, Access helps you create appealing and highly functional apps.
-
 > [Microsoft Clarity - Free Heatmaps & Session Recordings](https://clarity.microsoft.com)
 
 `#Free` `#Web` `#Chrome` `#Edge`
@@ -271,6 +267,8 @@ Power BI is a unified, scalable platform for self-service and enterprise busines
 
 > [Tableau: Business Intelligence and Analytics Software](https://www.tableau.com)
 
+`#Paid` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
+
 Tableau can help anyone see and understand their data. Connect to almost any database, drag and drop to create visualizations, and share with a click.
 
 [_back_](#table-of-contents)
@@ -280,6 +278,8 @@ Tableau can help anyone see and understand their data. Connect to almost any dat
 ## Digital Art
 
 > [Inkscape - Draw Freely.](https://inkscape.org)
+
+`#Open` `#Free` `#macOS` `#Windows` `#Linux`
 
 Whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery, Inkscape is for you!
 
