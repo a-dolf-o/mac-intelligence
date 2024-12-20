@@ -1067,6 +1067,12 @@ The latest version of Opera Browser includes browser AI, Tab Islands, smooth ani
 
 Safari is the world's fastest browser. Enjoy more third-party extensions, powerful privacy protections, and industry-leading battery life.
 
+> [SigmaOS](https://sigmaos.com)
+
+`#Free` `#Paid` `#macOS`
+
+Optimized for macOS. SigmaOS is built in native SwiftUI to leverage the best and and latest performance improvements for macOS.
+
 > [Stack | Your Mindful Browser](https://stackbrowser.com)
 
 `#Free` `#macOS` `#Windows`
