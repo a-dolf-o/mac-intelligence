@@ -489,31 +489,45 @@ The award-winning image editing software has everything you need to edit and ret
 
 > [darktable](https://www.darktable.org)
 
+`#Open` `#Free` `#macOS` `#Windows` `#Linux`
+
 by photographers. darktable is created for photographers, by photographers. Having developers that are also avid photographers as part of the target audience is ...
 
 > [Fotor | Photo Editor: Free Online Photo Editing & Image Editor](https://www.fotor.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#macOS` `#visionOS` `#Android` `#Windows`
 
 Enhance and edit photos with Fotor's free online photo editor. Crop, add text & effects, retouch images, and more using powerful photo editing tools.
 
 > [GIMP - GNU Image Manipulation Program](https://www.gimp.org)
 
+`#Open` `#Free` `#macOS` `#Windows` `#Linux`
+
 GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software, you can change its source code ...
+
+> [Photomator](https://www.pixelmator.com/photomator)
+
+`#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
+
+Photomator is a powerful yet easy-to-use photo editor for Mac, iPhone, iPad, and Vision Pro. It includes an extensive collection of powerful color ...
 
 > [Photopea | Online Photo Editor](https://www.photopea.com)
 
+`#Free` `#Paid` `#Web`
+
 Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures. Do Online Photo Editing in your browser for ...
 
-> [Pixelmator Pro](https://www.pixelmator.com)
+> [Pixelmator Pro](https://www.pixelmator.com/pro)
+
+`#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
 
 Pixelmator Pro is an image editor designed to make the most powerful professional image editing tools accessible to everyone.
 
 > [Upscayl - AI Image Upscaler](https://upscayl.org)
 
+`#Open` `#Free` `#macOS` `#Windows` `#Linux`
+
 An AI image upscaler that turns fuzzy photos into clear works of art! Easy to use and fun to say, it's the magic wand your images have been waiting for.
-
-> [Vectr - AI-Powered Background Remover & Photo, Logo, and SVG Generators](https://vectr.com)
-
-With Vectr, you can create & edit vector images online. You can also create logos, icons, presentations, remove backgrounds, use ai photo generator, and ...
 
 [_back_](#table-of-contents)
 
@@ -523,17 +537,25 @@ With Vectr, you can create & edit vector images online. You can also create logo
 
 > [Dzine (formerly Stylar.ai) - The Most Controllable AI Image & Design Tool](https://www.dzine.ai)
 
+`#Free` `#Paid` `#Web`
+
 With Dzine (formerly Stylar AI)'s diverse art styles and AI-assisted tools, designers can quickly create and customize characters for animations and games, ...
 
 > [Leonardo AI: AI Image Generator - Create Art, Images & Video](https://leonardo.ai)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android`
 
 Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency.
 
 > [Midjourney](https://www.midjourney.com)
 
+`#Paid` `#Web`
+
 An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 
 > [PicLumen: Free AI Image Generator for AI Art Creation](https://www.piclumen.com)
+
+`#Free` `#Web` `#iOS` `#macOS`
 
 FREE AI Image Generator Create stunning images with PicLumen. Easy-to-use AI tools to visualize your imagination. Create your stunning AI images now with ...
 
@@ -557,13 +579,19 @@ VLC is a free and open source cross-platform multimedia player and framework tha
 
 > [Audacity ® | Free Audio editor, recorder, music making and more!](https://www.audacityteam.org)
 
+`#Open` `#Free` `#macOS` `#Windows` `#Linux`
+
 Audacity is the world's most popular audio editing and recording app. Edit, mix, and enhance your audio tracks with the power of Audacity. Download now!
 
 > [GarageBand for Mac - Apple](https://www.apple.com/mac/garageband)
 
+`#Free` `#iOS` `#iPadOS` `#macOS`
+
 GarageBand for Mac has everything you need to learn, play, record, mix, and share incredible music, even if you've never played a note.
 
 > [Logic Pro for Mac - Apple](https://www.apple.com/logic-pro)
+
+`#Paid` `#iPadOS` `#macOS`
 
 Logic Pro is a complete professional recording studio on the Mac. And it has everything musicians need to go from first note to final master.
 
