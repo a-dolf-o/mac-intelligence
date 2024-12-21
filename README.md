@@ -285,13 +285,19 @@ Whether you are an illustrator, designer, web designer or just someone who needs
 
 > [Krita | Digital Painting. Creative Freedom.](https://krita.org)
 
+`#Open` `#Free` `#macOS` `#Windows` `#Linux`
+
 Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
 
 > [Procreate® - Made for Artists](https://procreate.com)
 
+`#Paid` `#iOS` `#iPadOS`
+
 Amplify your creativity with our powerful and intuitive apps, made for creative professionals and aspiring artists.
 
 > [Sketchbook - For everyone who loves to draw](https://www.sketchbook.com)
+
+`#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
 
 SketchBook is sketching, painting, and illustration software for all platforms and devices. With professional-grade drawing tools in a beautiful interface, ...
 
@@ -303,35 +309,39 @@ SketchBook is sketching, painting, and illustration software for all platforms a
 
 > [Highlights - The PDF Reader for Research on Mac, iPad & iPhone](https://highlightsapp.net)
 
+`#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
+
 Highlights is the best way to read and annotate PDFs on your Mac, iPad and iPhone for free. Use the app to extract annotations, images, tables and citations ...
 
 > [Overleaf, Online LaTeX Editor](https://www.overleaf.com)
+
+`#Free` `#Paid` `#Web`
 
 An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more.
 
 > [PDF Expert: PDF Editor and Reader for Mac | Free Trial](https://pdfexpert.com)
 
+`#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
+
 The go-to PDF editor for iPhone, iPad and Mac. We make it easy to edit, annotate, sign and organize PDFs. Free download.
 
 > [PDF online | Adobe Acrobat](https://www.adobe.com/acrobat/online.html)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
 
 Convert, edit, organize, and compress PDF files with Adobe Acrobat Pro. Fill, sign, and share documents too. Start free trial.
 
 > [PDFgear - Bring Accessible PDF Software to the Masses](https://www.pdfgear.com)
 
+`#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
+
 PDFgear is a piece of full-featured PDF management software for Windows, Mac, and mobile, and it's completely free to use. Help share it to spread the love!
 
 > [Stirling PDF: Home](https://www.stirlingpdf.com)
 
+`#Open` `#Free` `#Paid` `#Web`
+
 A locally hosted one-stop shop for all your PDF needs · Powerful PDF tools. Stirling PDF provides you with powerful, easy to use tools to manage your PDF files.
-
-> [Texifier · Smoothest way to write LaTeX](https://www.texifier.com)
-
-LaTeX editor for macOS, iOS and Windows with syntax highlighting, multi-file support and integrated PDF (formerly called Texpad)
-
-> [UPDF - An AI-integrated PDF Editor, Converter, Annotator, and Reader](https://updf.com)
-
-With UPDF, you can edit, annotate, convert, OCR, organize, protect, share, print, summarize, translate, and explain PDF files. Try this all-in-one PDF ...
 
 [_back_](#table-of-contents)
 
