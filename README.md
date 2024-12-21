@@ -2,7 +2,7 @@
 
 Welcome to Mac Intelligence!
 
-`#Open` `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#watchOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari` `#Excel` `#Outlook` `#PowerPoint` `#Teams` `#Word` `#Telegram` `#WhatsApp`
+`#Open` `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#watchOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
 
 <a name="table-of-contents"></a>
 
@@ -85,7 +85,7 @@ Bard is now Gemini. Get help with writing, planning, learning, and more from Goo
 
 > [Microsoft Copilot: Your AI companion](https://copilot.microsoft.com)
 
-`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android` `#Windows` `#Telegram` `#WhatsApp`
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android` `#Windows`
 
 Microsoft Copilot is your companion to inform, entertain, and inspire. Get advice, feedback, and straightforward answers. Try Copilot now.
 
@@ -381,37 +381,61 @@ ShareDrop is a free, open-source web app that allows you to easily and securely 
 
 > [Affinity Designer | Graphic Design & Illustration Software](https://affinity.serif.com/designer)
 
+`#Paid` `#iPadOS` `#macOS` `#Windows`
+
 The best app for creatives and other professionals looking to create high-quality designs, concept art, illustrations, mock-ups and more. Get a free trial!
 
+> [Affinity Publisher | Page Layout & Design Software](https://affinity.serif.com/publisher)
+
+`#Paid` `#iPadOS` `#macOS` `#Windows`
+
+Affinity Publisher has everything you need to design spectacular layouts ready for publication. Get a free trial of the top page layout software today.
+
 > [Canva: Visual Suite for Everyone](https://www.canva.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
 
 Canva is a free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more.
 
 > [Colorion](https://colorion.co)
 
+`#Free` `#Web`
+
 Curated Color Palettes with Search and Tags Support.
 
 > [Coolors - The super fast color palettes generator!](https://coolors.co)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Chrome`
 
 Create the perfect palette or get inspired by thousands of beautiful color schemes. Start the generator! Explore trending palettes · Coolors - Super fast color ...
 
 > [Figma: The Collaborative Interface Design Tool](https://www.figma.com)
 
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
+
 Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single ...
 
 > [Flaticon | Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS](https://www.flaticon.com)
+
+`#Free` `#Paid` `#Web`
 
 Download Free Icons and Stickers for your projects. Resources made by and for designers. PNG, SVG, EPS, PSD and CSS formats.
 
 > [Freepik | Create great designs, faster](https://www.freepik.com)
 
+`#Free` `#Paid` `#Web`
+
 Freepik's AI tools give you the power to create, enhance, and fine-tune your visuals. Image generation, upscaling, retouching... Watch as your words hit just ...
 
 > [Iconify Design: All popular icon sets, one framework.](https://iconify.design)
 
+`#Open` `#Free` `#Web`
+
 License. Iconify is an open source project. Almost all parts of the project use MIT license. Some older packages use Apache 2.0 and/or GPL 2.0 licenses. This ...
 
 > [Linearity: Ideate. Design. Animate.](https://www.linearity.io)
+
+`#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
 
 Easily create professional-quality animations in-house. Accelerate your design process with AI-powered tools. Reduce animation per minute costs by up to 90%.
 
@@ -423,25 +447,31 @@ Lucide has a lot of customization options to match the icons with your UI. Color
 
 > [Material Design](https://m3.material.io)
 
+`#Open` `#Free` `#Web`
+
 Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital ...
 
 > [Microsoft Designer - Stunning designs in a flash](https://designer.microsoft.com)
 
+`#Free` `#Web` `#iOS` `#Android` `#Windows`
+
 A graphic design app that helps you create professional quality social media posts, invitations, digital postcards, graphics, and more.
 
-> [Microsoft Publisher | Desktop Publishing Software](https://www.microsoft.com/microsoft-365/publisher)
-
-Get started with Publisher and use our simple tools to help you create professional, personalized newsletters, brochures, post cards, and more.
-
 > [NIPPON COLORS - 日本の伝統色](https://nipponcolors.com)
+
+`#Free` `#Web`
 
 The Traditional Colors of Nippon (Japan). This site is optimized to Webkit.
 
 > [Sketch · Design, prototype, collaborate and handoff](https://www.sketch.com)
 
+`#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
+
 Sketch is a toolkit made by designers, for designers, that puts the focus on you and your work. Get started for free.
 
 > [Unsplash: Beautiful Free Images & Pictures](https://unsplash.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#Chrome`
 
 Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
 
@@ -451,7 +481,9 @@ Beautiful, free images and photos that you can download and use for any project.
 
 ## Image Editing
 
->[Best Photo Editing Software - Affinity](https://affinity.serif.com/photo)
+>[Affinity Photo | Best Photo Editing Software](https://affinity.serif.com/photo)
+
+`#Paid` `#iPadOS` `#macOS` `#Windows`
 
 The award-winning image editing software has everything you need to edit and retouch photos, create multi-layered compositions, beautiful raster paintings and ...
 
@@ -513,6 +545,8 @@ FREE AI Image Generator Create stunning images with PicLumen. Easy-to-use AI too
 
 > [VideoLAN - Official download of VLC media player, the best Open Source player](https://www.videolan.org)
 
+`#Open` `#Free` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#Android` `#Windows` `#Linux`
+
 VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files, and various streaming protocols. Download ...
 
 [_back_](#table-of-contents)
@@ -540,6 +574,8 @@ Logic Pro is a complete professional recording studio on the Mac. And it has eve
 ## Music Generation
 
 > [Suno AI](https://suno.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#Android`
 
 We are a team of musicians and artificial intelligence experts based in Cambridge, MA. We are proud alumni of pioneering tech companies like Meta, TikTok and ...
 
@@ -799,13 +835,13 @@ Meet your favorite 2FA app. We are an open-source, community-driven, private and
 
 > [Gamma: Presentations and Slide Decks with AI](https://gamma.app)
 
+`#Free` `#Paid` `#Web`
+
 Made with Gamma. A new medium for presenting ideas, powered by AI.
 
-> [Microsoft Sway | Create visually striking newsletters, presentations, and documentation in minutes](https://sway.cloud.microsoft)
-
-Create and share interactive reports, presentations, personal stories, and more. Sway is an easy-to-use digital storytelling app for creating interactive ...
-
 > [Prezi | Presentations and videos with engaging visuals for hybrid teams](https://prezi.com)
+
+`#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
 
 Welcome to Prezi, the presentation software that uses motion, zoom, and spatial relationships to bring your ideas to life and make you a great presenter.
 
@@ -888,6 +924,8 @@ RustDesk offers an open-source remote desktop solution with self-hosted server o
 ## Screen Recording
 
 > [OBS | Open Broadcaster Software](https://obsproject.com)
+
+`#Open` `#Free` `#macOS` `#Windows` `#Linux`
 
 OBS (Open Broadcaster Software) is free and open source software for video recording and live streaming. Stream to Twitch, YouTube and many ...
 
@@ -1151,13 +1189,13 @@ Host with the best. When you create a site with WordPress.com, you get all of th
 
 > [DeepL Translate: The world's most accurate translator](https://www.deepl.com)
 
-`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows` `#Chrome` `#Edge` `#Firefox` `#Outlook` `#PowerPoint` `#Teams` `#Word`
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows` `#Chrome` `#Edge` `#Firefox`
 
 Translate texts & full document files instantly. Accurate translations for individuals and Teams. Millions translate with DeepL every day.
 
 > [Grammarly: Free AI Writing Assistance](https://www.grammarly.com)
 
-`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Chrome` `#Edge` `#Firefox` `#Safari` `#Word`
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Chrome` `#Edge` `#Firefox` `#Safari`
 
 Grammarly makes AI writing convenient. Work smarter with personalized AI guidance and text generation on any app or website.
 
@@ -1169,7 +1207,7 @@ Write with confidence across documents, email, and the web with Microsoft Editor
 
 > [QuillBot: Your complete writing solution](https://quillbot.com)
 
-`#Free` `#Paid` `#Web` `#iOS` `#macOS` `#Android` `#Chrome` `#Edge` `#Word`
+`#Free` `#Paid` `#Web` `#iOS` `#macOS` `#Android` `#Chrome` `#Edge`
 
 Write effortlessly and efficiently with QuillBot's suite of AI tools. Paraphrase, check grammar, analyze tone, improve fluency, and more.
 
