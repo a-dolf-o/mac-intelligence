@@ -615,25 +615,31 @@ We are a team of musicians and artificial intelligence experts based in Cambridg
 
 > [Anytype | The Everything App](https://anytype.io)
 
+`#Free` `#Paid` `#macOS` `#Windows` `#Linux` `#Chrome`
+
 The everything app for those who celebrate trust & autonomy. Local-first, crazy-fast loading times, peer-to-peer, secure & decentralized sync.
 
 > [CollaNote: Notes & PDF Markup](https://apps.apple.com/app/collanote-notes-pdf-markup/id1540956268)
 
+`#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
+
 Powerful note-taking app packed with a wide range of tools. Note-taking, PDF markup, digital planning, and flashcards - all in one place!
 
-> [draw.io](https://app.diagrams.net)
+> [draw.io - Flowchart Maker & Online Diagram Software](https://www.drawio.com)
 
-draw.io is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
+`#Open` `#Free` `#Web` `#macOS` `#Windows` `#Linux`
 
-> [Evernote | Best Note Taking App - Organize Your Notes with Evernote](https://evernote.com)
+Powerful features. Collaborate with shared cursors in real-time. draw.io has everything you expect from a professional diagramming tool.
 
-Evernote is a powerful tool that can help executives, entrepreneurs and creative people capture and arrange their ideas. All you have to do is use it.
+> [Freeform - Apple](https://apps.apple.com/app/freeform/id6443742539)
 
-> [Freeform on the App Store](https://apps.apple.com/app/freeform/id6443742539)
+`#Free` `#iOS` `#iPadOS` `#macOS` `#visionOS`
 
 Freeform brings people together into a shared space for creativity, whether you're at your desk or on the go. Easily invite others via email, link or Messages.
 
 > [Goodnotes | Notes Reimagined | Note-Taking App](https://www.goodnotes.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
 
 Discover Goodnotes 6, the AI note-taking app loved by millions around the world.
 
@@ -659,41 +665,61 @@ Explore the intelligent whiteboard and infinite canvas built for creative collab
 
 > [Milanote - the tool for organizing creative projects](https://milanote.com)
 
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Chrome` `#Firefox` `#Safari`
+
 Milanote is an easy-to-use tool to organize your ideas and projects into visual boards. Add notes, images, links and files, organize them visually and share ...
 
 > [Miro | The Innovation Workspace](https://miro.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
 
 Miro is the innovation workspace where teams manage projects, design products, and build the future together. Join 80M+ users from around the world.
 
 > [Notability](https://notability.com)
 
-...by our all new note-sharing platform, Notability Gallery, where you can publish your work, spark new ideas, save your favorites, and discover endless ...
+`#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
+
+Notability can be your digital canvas for your next artistic idea. Try mixing pen and highlighter tools to get this shaded effect. See More.
 
 > [Notable - The Markdown-based note-taking app that doesn't suck](https://notable.app)
+
+`#Free` `#macOS` `#Windows` `#Linux`
 
 Notable provides a very powerful Markdown editor, it's the same one VS Code uses in fact, so features like multi-cursors, a minimap and best-in-class syntax ...
 
 > [Notes - Apple iCloud](https://www.icloud.com/notes)
 
+`#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS`
+
 View, edit, create and share your notes with Notes on the web. Changes will sync across your devices with iCloud.
 
-> [Notion: Your connected workspace for wiki, docs & projects](https://www.notion.so)
+> [Notion: Your connected workspace for wiki, docs & projects](https://www.notion.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Chrome` `#Firefox` `#Safari`
 
 A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
 
 > [Obsidian - Sharpen your thinking](https://obsidian.md)
 
+`#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
+
 Obsidian is the private and flexible note‑taking app that adapts to the way you think.
 
 > [Standard Notes | End-To-End Encrypted Notes App](https://standardnotes.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
 
 Standard Notes helps you gain control in a world that often feels out of control. Protect your life's work with end-to-end encryption, advanced security ...
 
 > [Todoist | A To-Do List to Organize Your Work & Life](https://todoist.com)
 
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
+
 Trusted by 30 million people and teams. Todoist is the world's favorite task manager and to-do list app. Finally become focused, organized and calm.
 
 > [Xmind - Mind Mapping App](https://xmind.app)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
 
 Xmind is the most professional and popular mind mapping tool. Millions of people use Xmind to clarify thinking, manage complex information, brainstorming, ...
 
@@ -705,21 +731,31 @@ Xmind is the most professional and popular mind mapping tool. Millions of people
 
 > [FreeOffice: The best free alternative to Microsoft Office](https://www.freeoffice.com)
 
+`#Free` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
+
 FreeOffice, the best free alternative to Microsoft Office (Word, Excel, PowerPoint) for Windows, Mac and Linux.
 
 > [iWork - Apple](https://www.apple.com/iwork)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS`
 
 Pages, Numbers, and Keynote let you collaborate on documents, spreadsheets, and presentations from Mac, iPad, or iPhone – even on a PC.
 
 > [LibreOffice - Free and private office suite - Based on OpenOffice - Compatible with Microsoft](https://www.libreoffice.org)
 
+`#Open` `#Free` `#macOS` `#Android` `#Windows` `#Linux`
+
 LibreOffice is a private, free and open source office suite – the successor project to OpenOffice. It's compatible with Microsoft Office/365 files (.doc, .docx, ...
 
 > [Microsoft 365: Login](https://www.office.com)
 
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
+
 Collaborate for free with online versions of Microsoft Word, PowerPoint, Excel, and OneNote. Save documents, workbooks, and presentations online, ...
 
 > [ONLYOFFICE - Secure Online Office](https://www.onlyoffice.com)
+
+`#Open` `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
 
 ONLYOFFICE offers a secure online office suite highly compatible with MS Office formats. Connect it to your web platform for document editing and ...
 
