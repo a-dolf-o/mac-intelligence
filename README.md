@@ -631,6 +631,12 @@ Powerful note-taking app packed with a wide range of tools. Note-taking, PDF mar
 
 Powerful features. Collaborate with shared cursors in real-time. draw.io has everything you expect from a professional diagramming tool.
 
+> [Evernote | Best Note Taking App - Organize Your Notes with Evernote](https://evernote.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Chrome` `#Firefox` `#Safari`
+
+Use Evernote to capture more than just words. Harness the power of the internet with Web Clipper. Scan and store your important files, documents, and images.
+
 > [Freeform - Apple](https://apps.apple.com/app/freeform/id6443742539)
 
 `#Free` `#iOS` `#iPadOS` `#macOS` `#visionOS`
@@ -704,6 +710,12 @@ A new tool that blends your everyday work apps into one. It's the all-in-one wor
 `#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
 
 Obsidian is the private and flexible note‑taking app that adapts to the way you think.
+
+> [Simplenote](https://simplenote.com)
+
+`#Open` `#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows` `#Linux`
+
+The simplest way to keep notes. Light, clean, and free. Simplenote is now available for iOS, Android, Mac, and the web.
 
 > [Standard Notes | End-To-End Encrypted Notes App](https://standardnotes.com)
 
@@ -867,6 +879,12 @@ Search through 5 million hotels in just a few seconds. Compare confidently. Comp
 
 100% Free. Start learning with free courses. Explore free online courses from the world's top universities and companies.
 
+> [Duolingo - The world's best way to learn a language](https://www.duolingo.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android` `#Windows`
+
+With our free mobile app or web and a few minutes a day, everyone can Duolingo. Learn 30+ languages online with bite-size lessons based on science.
+
 > [edX: Build new skills. Advance your career.](https://www.edx.org)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android`
@@ -884,6 +902,18 @@ freeCodeCamp is a community of people from all around the world who are learning
 `#Free` `#Web` `#iOS` `#iPadOS` `#Android`
 
 Created by experts, Khan Academy's library of trusted, standards-aligned practice and lessons covers math K-12 through early college, grammar, science, history, ...
+
+> [LinkedIn Learning: Online Training Courses & Skill Building](https://www.linkedin.com/learning)
+
+`#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
+
+Accelerate skills & career development for yourself or your team | Business, AI, tech, & creative skills | Find your LinkedIn Learning plan today.
+
+> [TED: Ideas change everything](https://www.ted.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#tvOS` `#visionOS` `#Android`
+
+TED Talks are influential videos from expert speakers on education, business, science, tech and creativity, with subtitles in 100+ languages.
 
 > [Udemy: Online Courses - Learn Anything, On Your Schedule](https://www.udemy.com)
 
@@ -913,9 +943,13 @@ Working together is easier with Microsoft Teams. Tools and files are always avai
 
 > [tl;dv.io | AI Notetaker for Zoom, MS Teams & Google Meet](https://tldv.io)
 
+`#Free` `#Paid` `#Web`
+
 Record, and transcribe meetings from Zoom, Google Meet, and Microsoft Teams. Turn that recording into a rich and detailed summary with AI.
 
 > [Zoom: One platform to connect](https://www.zoom.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android` `#Chrome` `#Edge` `#Firefox`
 
 Zoom helps consolidate communications, connect people, and collaborate better together in the boardroom, classroom, operating room, and everywhere in between.
 
