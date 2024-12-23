@@ -767,53 +767,91 @@ ONLYOFFICE offers a secure online office suite highly compatible with MS Office 
 
 > [Agoda Official Site | Free Cancellation & Booking Deals | Over 2 Million Hotels](https://www.agoda.com)
 
+`#Free` `#Web` `#iOS` `#iPadOS` `#Android`
+
 Book your perfect holiday with Agoda and enjoy our great discounts on hotels, homes, flights and activities. Get the Agoda app!
 
 > [Booking.com | Official site | The best hotels, flights, car rentals & accommodations](https://www.booking.com)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android`
 
 Explore the world with Booking.com. Big savings on homes, hotels, flights, car rentals, taxis, and attractions – build your perfect trip on any budget.
 
 > [Expedia Travel: Vacation Homes, Hotels, Car Rentals, Flights & More](https://www.expedia.com)
 
+`#Free` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android`
+
 Expedia Travel: Search Hotels, Cheap Flights, Car Rentals & Vacations · Save 10% or more on over 100,000 hotels with Member Prices. · Discover your new favorite ...
 
-> [Hotels.com - Deals & Discounts for Hotel Reservations from Luxury Hotels to Budget Accommodations](https://www.hoteles.com)
+> [Hotels.com - Deals & Discounts for Hotel Reservations from Luxury Hotels to Budget Accommodations](https://www.hotels.com)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#Android`
 
 Hotels.com | Find cheap hotels and discounts when you book on Hotels.com. Compare hotel deals, offers and read unbiased reviews on hotels.
 
 > [HotelsCombined | Find Deals on Travel Accommodations](https://www.hotelscombined.com)
 
+`#Free` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android`
+
 Find the best deals on travel accommodations with HotelsCombined. Compare prices from the top travel sites with just one search, and find your ideal place ...
 
 > [KKday TOUR．EXPERIENCE．DISCOVER](https://www.kkday.com)
+
+`#Free` `#Web` `#iOS` `#visionOS` `#Android`
 
 KKday provides all kinds of unique experiences. Scuba diving, rock climbing, cooking classes, secret sights, full day tour, tickets, charter service and ...
 
 >[Klook Travel - Activities, tours, attractions and things to do](https://www.klook.com)
 
+`#Free` `#Web` `#iOS` `#visionOS` `#Android`
+
 Find discounted attraction tickets, tours with unique experiences, and more! Join local day tours to visit spectacular sights and go on delicious food trips ...
 
+> [OpenTable: Restaurants and Restaurant Bookings](https://www.opentable.com)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android`
+
+Book online, read restaurant reviews from diners, and earn points towards free meals. OpenTable is a real-time online booking network for fine dining ...
+
 > [Rakuten Travel: Book quality hotels and ryokans in Japan](https://travel.rakuten.com)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android`
 
 One of Japan's leading hotel booking platforms. Find and book quality accommodations for your next trip to Japan. Rakuten Travel makes it easy to find a ...
 
 > [SeatGuru - Airline Seat Maps, Flights shopping and Flight information - Best Airplane Seats](https://www.seatguru.com)
 
+`#Free` `#Web`
+
 The ultimate source for airplane seating, in-flight amenities, flights shopping and airline information.
 
+> [Skyscanner | Compare Cheap Flights & Book Airline Tickets to Everywhere](https://www.skyscanner.com)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android`
+
+Compare cheap flight prices from all major airlines and travel agents, and find the cheapest tickets to all your favourite destinations. Book online today.
+
 > [Travel with Google - Planning a Trip Is Simple with Google](https://travel.google)
+
+`#Free` `#Web`
 
 Planning a trip takes fewer steps with Google. Explore cheap flights, compare hotels, & discover can't-miss sights & attractions with a simple search.
 
 > [Trip.com Official Site‎‎ | Travel Deals and Promotions](https://www.trip.com)
 
+`#Free` `#Web` `#iOS` `#iPadOS` `#Android`
+
 Choose from over 1.2 million hotels in more than 200 countries, 30 million real guest reviews. Book flights to over 5000 destinations worldwide.
 
 > [Tripadvisor: Over a billion reviews & contributions for Hotels, Attractions, Restaurants, and more](https://www.tripadvisor.com)
 
+`#Free` `#Web` `#iOS` `#iPadOS` `#tvOS` `#Android`
+
 Plan your next trip, read reviews and get travel advice from our community on where to stay and what to do. Find savings on hotels, book the perfect tour or ...
 
 > [trivago.com - Compare hotel prices worldwide](https://www.trivago.com)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android`
 
 Search through 5 million hotels in just a few seconds. Compare confidently. Compare hotel prices from 100s of sites at once.
 
@@ -825,25 +863,37 @@ Search through 5 million hotels in just a few seconds. Compare confidently. Comp
 
 > [Coursera | Degrees, Certificates, & Free Online Courses](https://www.coursera.org)
 
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#tvOS` `#Android`
+
 100% Free. Start learning with free courses. Explore free online courses from the world's top universities and companies.
 
 > [edX: Build new skills. Advance your career.](https://www.edx.org)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android`
 
 Discover thousands of offerings — from free courses to full degrees — delivered by world-class partners like Harvard, Google, Amazon and more.
 
 > [freeCodeCamp | Learn to Code — For Free — Coding Courses for Busy People](https://www.freecodecamp.org)
 
+`#Free` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android`
+
 freeCodeCamp is a community of people from all around the world who are learning to code together. We're a 501(c)(3) public charity.
 
 > [Khan Academy | Free Online Courses, Lessons & Practice](https://www.khanacademy.org)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#Android`
 
 Created by experts, Khan Academy's library of trusted, standards-aligned practice and lessons covers math K-12 through early college, grammar, science, history, ...
 
 > [Udemy: Online Courses - Learn Anything, On Your Schedule](https://www.udemy.com)
 
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#tvOS` `#visionOS` `#Android`
+
 Udemy is an online learning and teaching marketplace with over 250000 courses and 73 million students. Learn programming, marketing, data science and more.
 
 > [W3Schools Online Web Tutorials](https://www.w3schools.com)
+
+`#Free` `#Paid` `#Web`
 
 Full Access Best Value! ... Data Analytics ... What is a Certificate? ×. All Our Services ... W3Schools offers a wide range of services and products for beginners and ...
 
