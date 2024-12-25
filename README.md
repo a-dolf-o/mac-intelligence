@@ -961,17 +961,25 @@ Zoom helps consolidate communications, connect people, and collaborate better to
 
 > [Bitwarden | Best Password Manager for Business, Enterprise & Personal](https://bitwarden.com)
 
+`#Open` `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
+
 Bitwarden is the most trusted password manager for passwords and passkeys at home or at work, on any browser or device. Start with a free trial.
 
 > [Dashlane: Password Manager for Home, Mobile and Business](https://www.dashlane.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android`
 
 Dashlane is the secure way for businesses and individuals to protect passwords, manage credentials, prevent breaches, and safeguard sensitive information in ...
 
 > [1Password | Top-Rated Password Manager for Personal & Business Use](https://1password.com)
 
+`#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
+
 1Password is so much more than a password manager. View plans Talk to sales Security and productivity wrapped into one Secure every sign-in.
 
 > [2FAS - the Internet's favorite open-source authenticator](https://2fas.com)
+
+`#Open` `#Free` `#iOS` `#iPadOS` `#watchOS` `#Android` `#Chrome` `#Edge` `#Firefox` `#Safari`
 
 Meet your favorite 2FA app. We are an open-source, community-driven, private and simple solution for Internet's biggest threat - security breaches.
 
@@ -1001,13 +1009,19 @@ Welcome to Prezi, the presentation software that uses motion, zoom, and spatial 
 
 > [Asana • Manage your team's work, projects, & tasks online](https://asana.com)
 
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
+
 Work anytime, anywhere with Asana. Keep remote and distributed teams, and your entire organization, focused on their goals, projects, and tasks with Asana.
 
 > [ClickUp™ | One app to replace them all](https://clickup.com)
 
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android` `#Windows`
+
 Our mission is to make the world more productive. To do this, we built one app to replace them all - Tasks, Docs, Goals, and Chat.
 
 > [Jira | Issue & Project Tracking Software | Atlassian](https://www.atlassian.com/software/jira)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
 
 Make the impossible, possible in Jira. Plan, track, and release world-class software with the number one project management tool for agile teams.
 
@@ -1037,9 +1051,13 @@ Share, organize, and discover information with Microsoft SharePoint. Learn about
 
 > [Slack: AI Work Management & Productivity Tools](https://slack.com)
 
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android`
+
 Slack is a new way to communicate with your team. It's faster, better organized, and more secure than email.
 
 > [Trello: Manage Your Team's Projects From Anywhere](https://trello.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Chrome` `#Edge` `#Firefox` `#Safari`
 
 Make the impossible, possible with Trello. The ultimate teamwork project management tool. Start up a board in seconds, automate tedious tasks, ...
 
@@ -1051,17 +1069,25 @@ Make the impossible, possible with Trello. The ultimate teamwork project managem
 
 > [AnyDesk: The Fast Remote Desktop Application](https://anydesk.com)
 
+`#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#Android` `#Windows` `#Linux`
+
 Discover AnyDesk, the secure & intuitive remote desktop software, and take advantage of the application's innovative features!
 
 > [DeskIn - Professional and Efficient Remote Desktop Software for Individual and Enterprise](https://www.deskin.io)
+
+`#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
 
 Discover Deskin high performance features, enjoy all-in-one remote desktop solutions from any devices at anytime.
 
 > [Parallels: Mac & Windows Virtualization, Remote Application Server, Mac Management Solutions](https://www.parallels.com)
 
+`#Paid` `#macOS`
+
 Download Parallels to run Windows on Mac, Chrome, gain access to virtual desktop infrastructure (VDI) with DaaS, & Toolbox to secure private files, & more.
 
 > [RustDesk: Open-Source Remote Desktop with Self-Hosted Server Solutions](https://rustdesk.com)
+
+`#Open` `#Free` `#Paid` `#Web` `#iOS` `#macOS` `#Android` `#Windows` `#Linux`
 
 RustDesk offers an open-source remote desktop solution with self-hosted server options. Perfect TeamViewer alternative for secure, private, and customizable ...
 
@@ -1085,25 +1111,31 @@ OBS (Open Broadcaster Software) is free and open source software for video recor
 
 > [1.1.1.1 — The free app that makes your Internet faster.](https://one.one.one.one)
 
+`#Free` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
+
 1.1.1.1 with WARP replaces the connection between your device and the Internet with a modern, optimized, protocol. Learn more Fast. Free. Private.
 
-> [CleanMyMac: The first MacBook cleaner that does it all](https://cleanmymac.com)
+> [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner)
 
-CleanMyMac is an all-in-one Mac cleaner that cleans, protects, and speeds up your Mac. Download CleanMyMac for an instant optimization - for free.
-
-> [Pearcleaner](https://github.com/alienator88/Pearcleaner)
+`#Open` `#Free` `#macOS`
 
 A free, source-available and fair-code licensed Mac app cleaner inspired by Freemacsoft's AppCleaner and Sun Knudsen's Privacy Guides post on his app-cleaner ...
 
 > [Raycast - Your shortcut to everything](https://www.raycast.com)
 
+`#Free` `#Paid` `#Web` `#macOS` `#Chrome` `#Safari`
+
 A collection of powerful productivity tools all within an extendable launcher. Fast, ergonomic and reliable.
 
 > [Rectangle Mac](https://rectangleapp.com)
 
+`#Open` `#Free` `#Paid` `#macOS`
+
 A worthy successor to the Spectacle Mac app. Rectangle is nearly a complete drop-in replacement for Spectacle. The Spectacle default shortcuts can be selected ...
 
 > [uBlock Origin - Free, open-source ad content blocker.](https://ublockorigin.com)
+
+`#Open` `#Free` `#Chrome` `#Edge` `#Firefox`
 
 uBlock Origin is not just an “ad blocker“, it's a wide-spectrum content blocker with CPU and memory efficiency as a primary feature.
 
