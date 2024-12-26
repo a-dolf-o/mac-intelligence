@@ -1,6 +1,6 @@
 # ⌘ Mac Intelligence
 
-Welcome to Mac Intelligence!
+**Welcome to Mac Intelligence!**
 
 `#Open` `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#watchOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
 
@@ -13,41 +13,73 @@ Welcome to Mac Intelligence!
   <summary>Table of Contents</summary>
   <br>
 
-  - [Artificial Intelligence](#artificial-intelligence)
-  - [Automation](#automation)
-  - [Cloud Storage](#cloud-storage)
-  - [Computer Programming](#computer-programming)
-  - [Data Analysis](#data-analysis)
-  - [Digital Art](#digital-art)
-  - [Document Editing](#document-editing)
-  - [File Transfer](#file-transfer)
-  - [Graphic Design](#graphic-design)
-  - [Image Editing](#image-editing)
-  - [Image Generation](#image-generation)
-  - [Media Player](#media-player)
-  - [Music Editing](#music-editing)
-  - [Music Generation](#music-generation)
-  - [Note-taking](#note-taking)
-  - [Office Suite](#office-suite)
-  - [Online Booking](#online-booking)
-  - [Online Learning](#online-learning)
-  - [Online Meeting](#online-meeting)
-  - [Password Manager](#password-manager)
-  - [Presentation](#presentation)
-  - [Project Management](#project-management)
-  - [Remote Desktop](#remote-desktop)
-  - [Screen Recording](#screen-recording)
-  - [System Settings](#system-settings)
-  - [Video Editing](#video-editing)
-  - [Virtual Machine](#virtual-machine)
-  - [Virtual Private Network](#virtual-private-network)
-  - [Web Browser](#web-browser)
-  - [Website Building](#website-building)
-  - [Writing Assistance](#writing-assistance)
-  - [3D Design](#3d-design)
-  - [Reference](#reference)
+  - [**Apps Store**](#apps-store)
+  - [**Artificial Intelligence**](#artificial-intelligence)
+  - [**Automation**](#automation)
+  - [**Cloud Storage**](#cloud-storage)
+  - [**Computer Programming**](#computer-programming)
+  - [**Data Analysis**](#data-analysis)
+  - [**Digital Art**](#digital-art)
+  - [**Document Editing**](#document-editing)
+  - [**File Transfer**](#file-transfer)
+  - [**Graphic Design**](#graphic-design)
+  - [**Image Editing**](#image-editing)
+  - [**Image Generation**](#image-generation)
+  - [**Media Player**](#media-player)
+  - [**Music Editing**](#music-editing)
+  - [**Music Generation**](#music-generation)
+  - [**Note-taking**](#note-taking)
+  - [**Office Suite**](#office-suite)
+  - [**Online Booking**](#online-booking)
+  - [**Online Learning**](#online-learning)
+  - [**Online Meeting**](#online-meeting)
+  - [**Password Manager**](#password-manager)
+  - [**Presentation**](#presentation)
+  - [**Project Management**](#project-management)
+  - [**Remote Desktop**](#remote-desktop)
+  - [**Screen Recording**](#screen-recording)
+  - [**System Settings**](#system-settings)
+  - [**Video Editing**](#video-editing)
+  - [**Video Generation**](#video-generation)
+  - [**Virtual Machine**](#virtual-machine)
+  - [**Virtual Private Network**](#virtual-private-network)
+  - [**Web Browser**](#web-browser)
+  - [**Website Building**](#website-building)
+  - [**Writing Assistance**](#writing-assistance)
+  - [**3D Design**](#3d-design)
+  - [**Reference**](#reference)
   
 </details>
+
+---
+
+## Apps Store
+
+> [**Chrome Web Store**](https://chromewebstore.google.com)
+
+Supercharge your browser with extensions and themes for Chrome. Save ... Annotate the web. See more. Add notes, highlight & more. Google Keep Chrome Extension.
+
+> [**Firefox | Add-ons**](https://addons.mozilla.org)
+
+Get the extension. Extensions are like apps for Firefox. They add features to Firefox to make browsing faster, safer, or just plain fun. See all extensions.
+
+> [**Google Play | Android Apps**](https://play.google.com)
+
+Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.
+
+> [**Microsoft AppSource – destination for business apps**](https://appsource.microsoft.com)
+
+Discover the app for your business needs and explore tailored solutions for various industries. Whether you are seeking Microsoft 365 apps for Word, Excel, ...
+
+> [**Microsoft Edge Add-ons**](https://microsoftedge.microsoft.com)
+
+Make Microsoft Edge your own with extensions and themes that help you personalise the browser and be more productive.
+
+> [**Microsoft Store - Download apps, games & more for your Windows PC**](https://apps.microsoft.com)
+
+Explore the Microsoft Store for games, apps, and movies. Enjoy exclusive deals, new releases, and your favorite content all in one place.
+
+[_back_](#table-of-contents)
 
 ---
 
@@ -1139,6 +1171,12 @@ A worthy successor to the Spectacle Mac app. Rectangle is nearly a complete drop
 
 uBlock Origin is not just an “ad blocker“, it's a wide-spectrum content blocker with CPU and memory efficiency as a primary feature.
 
+> [**urlscan.io - URL and website scanner**](https://urlscan.io)
+
+`#Free` `#Paid` `#Web`
+
+urlscan.io - Website scanner for suspicious and malicious URLs.
+
 > [VirusTotal - Home](https://www.virustotal.com)
 
 `#Free` `#Web` `#macOS` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox`
@@ -1184,6 +1222,18 @@ iMovie for iOS and iMovie for macOS make it easy to turn your photos and video c
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#tvOS` `#visionOS` `#Android`
 
 The video platform trusted by 287 million creatives, entrepreneurs, and businesses. Everything you need to create, manage, and share stunning videos.
+
+[_back_](#table-of-contents)
+
+---
+
+## Video Generation
+
+> [**Sora | OpenAI**](https://openai.com/sora)
+
+`#Paid` `#Web`
+
+Sora is OpenAI's video generation model, designed to take text, image, and video inputs and generate a new video as an output.
 
 [_back_](#table-of-contents)
 
