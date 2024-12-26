@@ -1153,6 +1153,8 @@ Want to automate submissions? Check our API, or access your API key.
 
 > [CapCut | All-in-one video editor & graphic design tool driven by AI](https://www.capcut.com)
 
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
+
 CapCut is an all-in-one creative platform powered by AI that enables video editing and image design on browsers, Windows, Mac, Android, and iOS.
 
 > [Clipchamp: Quick and easy video editor](https://clipchamp.com)
@@ -1161,17 +1163,25 @@ Free video editing tool everyone can use. Get started in your browser, download 
 
 > [DaVinci Resolve 19 | Blackmagic Design](https://www.blackmagicdesign.com/products/davinciresolve)
 
+`#Free` `#Paid` `#Web` `#macOS` `#Windows` `#Linux`
+
 DaVinci Resolve is the world's only all in one solution for editing, color, VFX, motion graphics and audio! The free version works with virtually all 8‑bit ...
 
-> [Final Cut Pro for Mac](https://www.apple.com/final-cut-pro)
+> [Final Cut Pro for Mac - Apple](https://www.apple.com/final-cut-pro)
+
+`#Paid` `#macOS`
 
 Final Cut Pro revolutionizes post-production with 360° video editing and motion graphics, 4K HDR support, and advanced tools for color correction.
 
 > [iMovie - Official Apple Support](https://support.apple.com/imovie)
 
+`#Free` `#iOS` `#iPadOS` `#macOS`
+
 iMovie for iOS and iMovie for macOS make it easy to turn your photos and video clips into stunning movies or trailers and share them with the world.
 
 > [Vimeo AI-Powered Video Platform](https://vimeo.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#tvOS` `#visionOS` `#Android`
 
 The video platform trusted by 287 million creatives, entrepreneurs, and businesses. Everything you need to create, manage, and share stunning videos.
 
@@ -1378,12 +1388,6 @@ Translate texts & full document files instantly. Accurate translations for indiv
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Chrome` `#Edge` `#Firefox` `#Safari`
 
 Grammarly makes AI writing convenient. Work smarter with personalized AI guidance and text generation on any app or website.
-
-> [Microsoft Editor | Free Online Text Editor Software](https://www.microsoft.com/microsoft-365/microsoft-editor)
-
-`#Free` `#Paid` `#Web` `#macOS` `#Windows` `#Chrome` `#Edge`
-
-Write with confidence across documents, email, and the web with Microsoft Editor, your intelligent writing assistant.
 
 > [QuillBot: Your complete writing solution](https://quillbot.com)
 
