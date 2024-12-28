@@ -13,9 +13,9 @@
   <summary>Table of Contents</summary>
   <br>
 
-  - [**Apps Store**](#apps-store)
   - [**Artificial Intelligence**](#artificial-intelligence)
   - [**Automation**](#automation)
+  - [**Browser Extension**](#browser-extension)
   - [**Cloud Storage**](#cloud-storage)
   - [**Computer Programming**](#computer-programming)
   - [**Data Analysis**](#data-analysis)
@@ -53,81 +53,57 @@
 
 ---
 
-## Apps Store
-
-> [**Chrome Web Store**](https://chromewebstore.google.com)
-
-Supercharge your browser with extensions and themes for Chrome. Save ... Annotate the web. See more. Add notes, highlight & more. Google Keep Chrome Extension.
-
-> [**Firefox | Add-ons**](https://addons.mozilla.org)
-
-Get the extension. Extensions are like apps for Firefox. They add features to Firefox to make browsing faster, safer, or just plain fun. See all extensions.
-
-> [**Google Play | Android Apps**](https://play.google.com)
-
-Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.
-
-> [**Microsoft AppSource – destination for business apps**](https://appsource.microsoft.com)
-
-Discover the app for your business needs and explore tailored solutions for various industries. Whether you are seeking Microsoft 365 apps for Word, Excel, ...
-
-> [**Microsoft Edge Add-ons**](https://microsoftedge.microsoft.com)
-
-Make Microsoft Edge your own with extensions and themes that help you personalise the browser and be more productive.
-
-> [**Microsoft Store - Download apps, games & more for your Windows PC**](https://apps.microsoft.com)
-
-Explore the Microsoft Store for games, apps, and movies. Enjoy exclusive deals, new releases, and your favorite content all in one place.
-
-[_back_](#table-of-contents)
-
----
-
 ## Artificial Intelligence
 
-> [character.ai | Personalized AI for every moment of your day](https://character.ai)
+> [**character.ai | Personalized AI for every moment of your day**](https://character.ai)
 
 `#Free` `#Web` `#iOS` `#visionOS` `#Android`
 
 Meet AIs that feel alive. Chat with anyone, anywhere, anytime. Experience the power of super-intelligent chat bots that hear you, understand you, ...
 
-> [ChatGPT | OpenAI](https://openai.com)
+> [**ChatGPT | OpenAI**](https://openai.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
 
 ChatGPT on your desktop. Chat about email, screenshots, files, and anything on your screen. Chat about email, screenshots, files ...
 
-> [Claude | Home \ Anthropic](https://www.anthropic.com)
+> [**Claude | Home \ Anthropic**](https://www.anthropic.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
 
 Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work.
 
-> [Felo - Your Free AI Search Engine](https://felo.ai)
+> [**Felo - Your Free AI Search Engine**](https://felo.ai)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Chrome`
 
 The multilingual AI search engine optimized for discovering and understanding world knowledge. Leverage the power of ChatGPT and AI Agent to break language ...
 
-> [‎Gemini - chat to supercharge your ideas](https://gemini.google.com)
+> [‎**Gemini - chat to supercharge your ideas**](https://gemini.google.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#Android`
 
 Bard is now Gemini. Get help with writing, planning, learning, and more from Google AI.
 
-> [Microsoft Copilot: Your AI companion](https://copilot.microsoft.com)
+> [**Meta AI**](https://www.meta.ai)
+
+`#Free` `#Web`
+
+Use Meta AI assistant to get things done, create AI-generated images for free, and get answers to any of your questions. Meta AI is built on Meta's...
+
+> [**Microsoft Copilot: Your AI companion**](https://copilot.microsoft.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android` `#Windows`
 
 Microsoft Copilot is your companion to inform, entertain, and inspire. Get advice, feedback, and straightforward answers. Try Copilot now.
 
-> [Ollama](https://ollama.com)
+> [**Ollama**](https://ollama.com)
 
-`#Open` `#Free` `#macOS` `#Windows` `#Linux`
+`#Open` `#Free` `#Web` `#macOS` `#Windows` `#Linux`
 
 Get up and running with large language models.
 
-> [Perplexity AI](https://www.perplexity.ai)
+> [**Perplexity AI**](https://www.perplexity.ai)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Chrome`
 
@@ -139,13 +115,7 @@ Perplexity is a free AI-powered answer engine that provides accurate, trusted, a
 
 ## Automation
 
-> [Feedly: Track the topics and trends that matter to you](https://feedly.com)
-
-`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android` `#Chrome` `#Firefox`
-
-Feedly is the fastest way to research the topics and trends that matter to you. Solutions for cybersecurity teams, market intel teams, ...
-
-> [Make | Automation Software | Connect Apps & Design Workflows](https://www.make.com)
+> [**Make | Automation Software | Connect Apps & Design Workflows**](https://www.make.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android`
 
@@ -157,13 +127,13 @@ Automate your work. Make allows you to visually create, build and automate workf
 
 Use Power Automate tools to automate processes across nearly unlimited systems, desktop apps, and websites using AI, digital, and robotic process ...
 
-> [Taskade: Autonomous AI Agents & Workflow Automation](https://www.taskade.com)
+> [**Taskade: Autonomous AI Agents & Workflow Automation**](https://www.taskade.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Chrome` `#Edge` `#Firefox`
 
 Meet your AI workforce with Taskade! Build, train, and deploy AI agents that think, learn, and act—ready to plan, research, and complete tasks alongside ...
 
-> [Zapier: Automate without limits](https://zapier.com)
+> [**Zapier: Automate without limits**](https://zapier.com)
 
 `#Free` `#Paid` `#Web` `#Chrome`
 
@@ -173,51 +143,75 @@ Workflow automation software for everyone. Automate your work across 7000+ app i
 
 ---
 
+## Browser Extension
+
+> [**Chrome Web Store**](https://chromewebstore.google.com)
+
+`#Free` `#Web` `#Chrome`
+
+Supercharge your browser with extensions and themes for Chrome. Save ... Annotate the web. See more. Add notes, highlight & more. Google Keep Chrome Extension.
+
+> [**Firefox | Add-ons**](https://addons.mozilla.org)
+
+`#Free` `#Web` `#Firefox`
+
+Get the extension. Extensions are like apps for Firefox. They add features to Firefox to make browsing faster, safer, or just plain fun. See all extensions.
+
+> [**Microsoft Edge Add-ons**](https://microsoftedge.microsoft.com)
+
+`#Free` `#Web` `#Edge`
+
+Make Microsoft Edge your own with extensions and themes that help you personalise the browser and be more productive.
+
+[_back_](#table-of-contents)
+
+---
+
 ## Cloud Storage
 
-> [Dropbox.com](https://www.dropbox.com)
+> [**Dropbox.com**](https://www.dropbox.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
 
 Dropbox helps you simplify your workflow. So you can spend more time in your flow.
 
-> [Google Drive: Share Files Online with Secure Cloud Storage](https://workspace.google.com/products/drive)
+> [**Google Drive: Share Files Online with Secure Cloud Storage**](https://workspace.google.com/products/drive)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
 
 Simple and scalable cloud storage for people and teams of all sizes. Upload, open, share and edit files from any device.
 
-> [Google One: Get More Storage, More AI capabilities, and More Features](https://one.google.com)
+> [**Google One: Get More Storage, More AI capabilities, and More Features**](https://one.google.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
 
 Google Drive is a way to organize your files. Google One is a subscription that gives you more storage across Google Drive, Gmail, and Google Photos.
 
-> [Google Photos: Edit, Organize, Search, and Backup Your Photos](https://www.google.com/photos)
+> [**Google Photos: Edit, Organize, Search, and Backup Your Photos**](https://www.google.com/photos)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
 
 Edit and enhance photos with AI-powered features like Magic Editor and Magic Eraser on Google Photos. Store, organize & search your memories.
 
-> [iCloud - Apple](https://www.icloud.com)
+> [**iCloud - Apple**](https://www.icloud.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Windows`
 
 Log in to iCloud to access your photos, mail, notes, documents and more. Sign in with your Apple Account or create a new account to start using Apple ...
 
-> [MEGA: Protect your Online Privacy](https://mega.io)
+> [**MEGA: Protect your Online Privacy**](https://mega.io)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge`
 
 Store files, chat, and meet – all in one place. MEGA brings cloud storage, file and folder sharing, chat, meetings, and more — together into one place.
 
-> [Microsoft OneDrive - Personal Cloud Storage](https://www.microsoft.com/onedrive)
+> [**Microsoft OneDrive - Personal Cloud Storage**](https://www.microsoft.com/onedrive)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
 
 Save your files and photos to OneDrive and access them from any device, anywhere. Learn more and get 5 GB of free personal cloud storage today.
 
-> [pCloud - The Most Secure Cloud Storage](https://www.pcloud.com)
+> [**pCloud - The Most Secure Cloud Storage**](https://www.pcloud.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox`
 
@@ -1481,35 +1475,35 @@ Spline is a free 3D design software with real-time collaboration to create web i
 
 ## Reference
 
-> [AlternativeTo - Crowdsourced software recommendations](https://alternativeto.net)
+> [**AlternativeTo - Crowdsourced software recommendations**](https://alternativeto.net)
 
 AlternativeTo lets you find apps and software for Windows, Mac, Linux, iPhone, iPad, Android, Android Tablets, Web Apps, Online, Windows Tablets and more by ...
 
-> [Buy Once Software](https://buyoncesoftware.com)
+> [**Buy Once Software**](https://buyoncesoftware.com)
 
 Say goodbye to subscription fatigue! Discover software you can buy once and own forever--no recurring charges, just tools that work for you, for life.
 
-> [Microsoft 365 Products, Apps, and Services | Microsoft 365](https://www.microsoft.com/microsoft-365/products-apps-services)
+> [**Microsoft 365 Products, Apps, and Services | Microsoft 365**](https://www.microsoft.com/microsoft-365/products-apps-services)
 
 Create your best work on all your devices—from desktop to web—using the tools you need for home and business.
 
-> [once.tools: Your guide to software you only have to pay for once](https://once.tools)
+> [**once.tools: Your guide to software you only have to pay for once**](https://once.tools)
 
 A friendly little native macOS app for large file sharing. Logo of Workspaces Workspaces Project-based launcher that opens your tools & files with one click.
 
-> [OpenAlternative: Open Source Alternatives to Popular Software](https://openalternative.co)
+> [**OpenAlternative: Open Source Alternatives to Popular Software**](https://openalternative.co)
 
 A curated collection of the best open source alternatives to everyday SaaS products. Save money with reliable tools hand-picked for you.
 
-> [Opensource.builders: Find open-source alternatives for your favorite apps](https://opensource.builders)
+> [**Opensource.builders: Find open-source alternatives for your favorite apps**](https://opensource.builders)
 
 Find open-source alternatives to popular software.
 
-> [PAPAYA 電腦教室 - YouTube](https://www.youtube.com/@papayaclass)
+> [**PAPAYA 電腦教室 - YouTube**](https://www.youtube.com/@papayaclass)
 
 PAPAYA 希望以最淺白易懂的方式，讓大家能夠輕鬆上手常用的電腦軟體。
 
-> [免費資源網路社群](https://free.com.tw)
+> [**免費資源網路社群**](https://free.com.tw)
 
 免費資源網路社群是一個以免費為主題的台灣網站、部落格，內容包含科技新知、免費軟體、線上工具、圖庫素材、WordPress 架站及應用程式介紹教學。
 
