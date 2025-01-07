@@ -17,7 +17,6 @@
   - [**Automation**](#automation)
   - [**Browser Extension**](#browser-extension)
   - [**Cloud Storage**](#cloud-storage)
-  - [**Computer Programming**](#computer-programming)
   - [**Data Analysis**](#data-analysis)
   - [**Digital Art**](#digital-art)
   - [**Document Editing**](#document-editing)
@@ -221,60 +220,6 @@ pCloud is the most secure encrypted cloud storage, where you can store your pers
 
 ---
 
-## Computer Programming
-
-> [Android Studio & App Tools](https://developer.android.com/studio)
-
-`#Open` `#Free` `#Web` `#macOS` `#Windows` `#Linux`
-
-Android Studio provides app builders with an integrated development environment (IDE) optimized for Android apps. Download Android Studio today.
-
-> [Cursor](https://www.cursor.com)
-
-`#Free` `#Web` `#macOS` `#Windows` `#Linux`
-
-The AI Code Editor. Built to make you extraordinarily productive, Cursor is the best way to code with AI.
-
-> [GitHub · Build and ship software on a single, collaborative platform](https://github.com)
-
-`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
-
-Millions of developers and businesses call GitHub home. Whether you're scaling your development process or just learning how to code, GitHub is where you belong ...
-
-> [JetBrains: Essential tools for software developers and teams](https://www.jetbrains.com)
-
-`#Free` `#Paid` `#Web` `#macOS` `#Windows` `#Linux`
-
-JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools, including IntelliJ IDEA – the leading Java IDE, ...
-
-> [Replit – Build software faster](https://replit.com)
-
-`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
-
-Replit is an AI-powered software development & deployment platform for building, sharing, and shipping software fast. Sign up for freeGet a business ...
-
-> [TestFlight - Apple Developer](https://developer.apple.com/testflight)
-
-`#Free` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#watchOS`
-
-TestFlight makes it easy for testers to give feedback on your apps, games, and App Clips across Apple platforms before you publish. Share your beta with just ...
-
-> [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com)
-
-`#Open` `#Free` `#Web` `#macOS` `#Windows` `#Linux`
-
-Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free and ...
-
-> [Xcode - Apple Developer](https://developer.apple.com/xcode)
-
-`#Free` `#macOS`
-
-Xcode is available on the Mac App Store, with downloadable simulator runtimes for all platforms. Predictive code completion helps you write safer code faster, ...
-
-[_back_](#table-of-contents)
-
----
-
 ## Data Analysis
 
 > [Microsoft Clarity - Free Heatmaps & Session Recordings](https://clarity.microsoft.com)
@@ -291,9 +236,9 @@ Easily create custom surveys, polls, and quizzes. Let built-in intelligence work
 
 Power BI is a unified, scalable platform for self-service and enterprise business intelligence (BI). Connect to and visualize any data.
 
-> [Tableau: Business Intelligence and Analytics Software](https://www.tableau.com)
+> [**Tableau: Business Intelligence and Analytics Software**](https://www.tableau.com)
 
-`#Paid` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
+`#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
 
 Tableau can help anyone see and understand their data. Connect to almost any database, drag and drop to create visualizations, and share with a click.
 
@@ -303,25 +248,25 @@ Tableau can help anyone see and understand their data. Connect to almost any dat
 
 ## Digital Art
 
-> [Inkscape - Draw Freely.](https://inkscape.org)
+> [**Inkscape - Draw Freely.**](https://inkscape.org)
 
-`#Open` `#Free` `#macOS` `#Windows` `#Linux`
+`#Open` `#Free` `#Web` `#macOS` `#Windows` `#Linux`
 
 Whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery, Inkscape is for you!
 
-> [Krita | Digital Painting. Creative Freedom.](https://krita.org)
+> [**Krita | Digital Painting. Creative Freedom.**](https://krita.org)
 
 `#Open` `#Free` `#macOS` `#Windows` `#Linux`
 
 Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
 
-> [Procreate® - Made for Artists](https://procreate.com)
+> [**Procreate® - Made for Artists**](https://procreate.com)
 
 `#Paid` `#iOS` `#iPadOS`
 
 Amplify your creativity with our powerful and intuitive apps, made for creative professionals and aspiring artists.
 
-> [Sketchbook - For everyone who loves to draw](https://www.sketchbook.com)
+> [**Sketchbook - For everyone who loves to draw**](https://www.sketchbook.com)
 
 `#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
 
@@ -333,37 +278,37 @@ SketchBook is sketching, painting, and illustration software for all platforms a
 
 ## Document Editing
 
-> [Highlights - The PDF Reader for Research on Mac, iPad & iPhone](https://highlightsapp.net)
+> [**Highlights - The PDF Reader for Research on Mac, iPad & iPhone**](https://highlightsapp.net)
 
 `#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
 
 Highlights is the best way to read and annotate PDFs on your Mac, iPad and iPhone for free. Use the app to extract annotations, images, tables and citations ...
 
-> [Overleaf, Online LaTeX Editor](https://www.overleaf.com)
+> [**Overleaf, Online LaTeX Editor**](https://www.overleaf.com)
 
 `#Free` `#Paid` `#Web`
 
 An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more.
 
-> [PDF Expert: PDF Editor and Reader for Mac | Free Trial](https://pdfexpert.com)
+> [**PDF Expert: PDF Editor and Reader for Mac | Free Trial**](https://pdfexpert.com)
 
 `#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
 
 The go-to PDF editor for iPhone, iPad and Mac. We make it easy to edit, annotate, sign and organize PDFs. Free download.
 
-> [PDF online | Adobe Acrobat](https://www.adobe.com/acrobat/online.html)
+> [**PDF online | Adobe Acrobat**](https://www.adobe.com/acrobat/online.html)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
 
 Convert, edit, organize, and compress PDF files with Adobe Acrobat Pro. Fill, sign, and share documents too. Start free trial.
 
-> [PDFgear - Bring Accessible PDF Software to the Masses](https://www.pdfgear.com)
+> [**PDFgear - Bring Accessible PDF Software to the Masses**](https://www.pdfgear.com)
 
 `#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
 
 PDFgear is a piece of full-featured PDF management software for Windows, Mac, and mobile, and it's completely free to use. Help share it to spread the love!
 
-> [Stirling PDF: Home](https://www.stirlingpdf.com)
+> [**Stirling PDF: Home**](https://www.stirlingpdf.com)
 
 `#Open` `#Free` `#Paid` `#Web`
 
