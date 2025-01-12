@@ -1068,31 +1068,31 @@ OBS (Open Broadcaster Software) is free and open source software for video recor
 
 ## System Settings
 
-> [1.1.1.1 — The free app that makes your Internet faster.](https://one.one.one.one)
+> [**1.1.1.1 — The free app that makes your Internet faster.**](https://one.one.one.one)
 
 `#Free` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
 
 1.1.1.1 with WARP replaces the connection between your device and the Internet with a modern, optimized, protocol. Learn more Fast. Free. Private.
 
-> [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner)
+> [**Pearcleaner: A free, source-available and fair-code licensed mac app cleaner**](https://itsalin.com/appInfo/?id=pearcleaner)
 
 `#Open` `#Free` `#macOS`
 
 A free, source-available and fair-code licensed Mac app cleaner inspired by Freemacsoft's AppCleaner and Sun Knudsen's Privacy Guides post on his app-cleaner ...
 
-> [Raycast - Your shortcut to everything](https://www.raycast.com)
+> [**Raycast - Your shortcut to everything**](https://www.raycast.com)
 
 `#Free` `#Paid` `#Web` `#macOS` `#Chrome` `#Safari`
 
 A collection of powerful productivity tools all within an extendable launcher. Fast, ergonomic and reliable.
 
-> [Rectangle Mac](https://rectangleapp.com)
+> [**Rectangle Mac**](https://rectangleapp.com)
 
 `#Open` `#Free` `#Paid` `#macOS`
 
 A worthy successor to the Spectacle Mac app. Rectangle is nearly a complete drop-in replacement for Spectacle. The Spectacle default shortcuts can be selected ...
 
-> [uBlock Origin - Free, open-source ad content blocker.](https://ublockorigin.com)
+> [**uBlock Origin - Free, open-source ad content blocker.**](https://ublockorigin.com)
 
 `#Open` `#Free` `#Chrome` `#Edge` `#Firefox`
 
@@ -1104,11 +1104,11 @@ uBlock Origin is not just an “ad blocker“, it's a wide-spectrum content bloc
 
 urlscan.io - Website scanner for suspicious and malicious URLs.
 
-> [VirusTotal - Home](https://www.virustotal.com)
+> [**VirusTotal**](https://www.virustotal.com)
 
 `#Free` `#Web` `#macOS` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox`
 
-Want to automate submissions? Check our API, or access your API key.
+Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community.
 
 [_back_](#table-of-contents)
 
