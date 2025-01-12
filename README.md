@@ -320,25 +320,19 @@ A locally hosted one-stop shop for all your PDF needs · Powerful PDF tools. Sti
 
 ## File Transfer
 
-> [AirDrop - Official Apple Support](https://support.apple.com)
-
-`#Free` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS`
-
-With AirDrop, you can wirelessly send documents, photos, videos, websites, map locations, and more to a nearby Mac, iPhone, iPad, or Apple Vision Pro.
-
-> [LocalSend: Share files to nearby devices](https://localsend.org)
+> [**LocalSend: Share files to nearby devices**](https://localsend.org)
 
 `#Open` `#Free` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
 
 LocalSend is a free, open-source, cross-platform file sharing tool that ... English, Español, فارسی, Filipino, Français, עברית, हिन्दी, Bahasa Indonesia ...
 
-> [PairDrop | Transfer Files Cross-Platform. No Setup, No Signup.](https://pairdrop.net)
+> [**PairDrop | Transfer Files Cross-Platform. No Setup, No Signup.**](https://pairdrop.net)
 
 `#Open` `#Free` `#Web`
 
 Open PairDrop on other devices to send files. Pair devices or enter a public room to be discoverable on other networks.
 
-> [ShareDrop | P2P file transfer](https://www.sharedrop.io)
+> [**ShareDrop | P2P file transfer**](https://www.sharedrop.io)
 
 `#Open` `#Free` `#Web`
 
@@ -356,31 +350,25 @@ ShareDrop is a free, open-source web app that allows you to easily and securely 
 
 The best app for creatives and other professionals looking to create high-quality designs, concept art, illustrations, mock-ups and more. Get a free trial!
 
-> [Affinity Publisher | Page Layout & Design Software](https://affinity.serif.com/publisher)
-
-`#Paid` `#iPadOS` `#macOS` `#Windows`
-
-Affinity Publisher has everything you need to design spectacular layouts ready for publication. Get a free trial of the top page layout software today.
-
-> [Canva: Visual Suite for Everyone](https://www.canva.com)
+> [**Canva: Visual Suite for Everyone**](https://www.canva.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
 
 Canva is a free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more.
 
-> [Colorion](https://colorion.co)
+> [**Colorion**](https://colorion.co)
 
 `#Free` `#Web`
 
 Curated Color Palettes with Search and Tags Support.
 
-> [Coolors - The super fast color palettes generator!](https://coolors.co)
+> [**Coolors - The super fast color palettes generator!**](https://coolors.co)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Chrome`
 
 Create the perfect palette or get inspired by thousands of beautiful color schemes. Start the generator! Explore trending palettes · Coolors - Super fast color ...
 
-> [Figma: The Collaborative Interface Design Tool](https://www.figma.com)
+> [**Figma: The Collaborative Interface Design Tool**](https://www.figma.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
 
@@ -428,7 +416,7 @@ Build beautiful, usable products faster. Material Design is an adaptable system�
 
 A graphic design app that helps you create professional quality social media posts, invitations, digital postcards, graphics, and more.
 
-> [NIPPON COLORS - 日本の伝統色](https://nipponcolors.com)
+> [**NIPPON COLORS - 日本の伝統色**](https://nipponcolors.com)
 
 `#Free` `#Web`
 
@@ -536,7 +524,7 @@ FREE AI Image Generator Create stunning images with PicLumen. Easy-to-use AI too
 
 ## Media Player
 
-> [VideoLAN - Official download of VLC media player, the best Open Source player](https://www.videolan.org)
+> [**VideoLAN - Official download of VLC media player, the best Open Source player**](https://www.videolan.org)
 
 `#Open` `#Free` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#Android` `#Windows` `#Linux`
 
@@ -548,19 +536,19 @@ VLC is a free and open source cross-platform multimedia player and framework tha
 
 ## Music Editing
 
-> [Audacity ® | Free Audio editor, recorder, music making and more!](https://www.audacityteam.org)
+> [**Audacity ® | Free Audio editor, recorder, music making and more!**](https://www.audacityteam.org)
 
-`#Open` `#Free` `#macOS` `#Windows` `#Linux`
+`#Open` `#Free` `#Web` `#macOS` `#Windows` `#Linux`
 
 Audacity is the world's most popular audio editing and recording app. Edit, mix, and enhance your audio tracks with the power of Audacity. Download now!
 
-> [GarageBand for Mac - Apple](https://www.apple.com/mac/garageband)
+> [**GarageBand for Mac - Apple**](https://www.apple.com/mac/garageband)
 
 `#Free` `#iOS` `#iPadOS` `#macOS`
 
 GarageBand for Mac has everything you need to learn, play, record, mix, and share incredible music, even if you've never played a note.
 
-> [Logic Pro for Mac - Apple](https://www.apple.com/logic-pro)
+> [**Logic Pro for Mac - Apple**](https://www.apple.com/logic-pro)
 
 `#Paid` `#iPadOS` `#macOS`
 
@@ -572,7 +560,7 @@ Logic Pro is a complete professional recording studio on the Mac. And it has eve
 
 ## Music Generation
 
-> [Suno AI](https://suno.com)
+> [**Suno AI**](https://suno.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#Android`
 
@@ -718,7 +706,7 @@ Xmind is the most professional and popular mind mapping tool. Millions of people
 
 FreeOffice, the best free alternative to Microsoft Office (Word, Excel, PowerPoint) for Windows, Mac and Linux.
 
-> [iWork - Apple](https://www.apple.com/iwork)
+> [**iWork - Apple**](https://www.apple.com/iwork)
 
 `#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS`
 
@@ -730,7 +718,7 @@ Pages, Numbers, and Keynote let you collaborate on documents, spreadsheets, and 
 
 LibreOffice is a private, free and open source office suite – the successor project to OpenOffice. It's compatible with Microsoft Office/365 files (.doc, .docx, ...
 
-> [Microsoft 365: Login](https://www.office.com)
+> [**Microsoft 365**](https://www.office.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
 
