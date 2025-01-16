@@ -308,7 +308,7 @@ Convert, edit, organize, and compress PDF files with Adobe Acrobat Pro. Fill, si
 
 PDFgear is a piece of full-featured PDF management software for Windows, Mac, and mobile, and it's completely free to use. Help share it to spread the love!
 
-> [**Stirling PDF: Home**](https://www.stirlingpdf.com)
+> [**Stirling PDF**](https://www.stirlingpdf.com)
 
 `#Open` `#Free` `#Paid` `#Web`
 
@@ -344,9 +344,9 @@ ShareDrop is a free, open-source web app that allows you to easily and securely 
 
 ## Graphic Design
 
-> [Affinity Designer | Graphic Design & Illustration Software](https://affinity.serif.com/designer)
+> [**Affinity Designer | Graphic Design & Illustration Software**](https://affinity.serif.com/designer)
 
-`#Paid` `#iPadOS` `#macOS` `#Windows`
+`#Paid` `#Web` `#iPadOS` `#macOS` `#Windows`
 
 The best app for creatives and other professionals looking to create high-quality designs, concept art, illustrations, mock-ups and more. Get a free trial!
 
@@ -374,43 +374,43 @@ Create the perfect palette or get inspired by thousands of beautiful color schem
 
 Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single ...
 
-> [Flaticon | Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS](https://www.flaticon.com)
+> [**Flaticon | Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS**](https://www.flaticon.com)
 
 `#Free` `#Paid` `#Web`
 
 Download Free Icons and Stickers for your projects. Resources made by and for designers. PNG, SVG, EPS, PSD and CSS formats.
 
-> [Freepik | Create great designs, faster](https://www.freepik.com)
+> [**Freepik | Create great designs, faster**](https://www.freepik.com)
 
 `#Free` `#Paid` `#Web`
 
 Freepik's AI tools give you the power to create, enhance, and fine-tune your visuals. Image generation, upscaling, retouching... Watch as your words hit just ...
 
-> [Iconify Design: All popular icon sets, one framework.](https://iconify.design)
+> [**Iconify Design: All popular icon sets, one framework.**](https://iconify.design)
 
 `#Open` `#Free` `#Web`
 
 License. Iconify is an open source project. Almost all parts of the project use MIT license. Some older packages use Apache 2.0 and/or GPL 2.0 licenses. This ...
 
-> [Linearity: Ideate. Design. Animate.](https://www.linearity.io)
+> [**Linearity: Ideate. Design. Animate.**](https://www.linearity.io)
 
 `#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
 
 Easily create professional-quality animations in-house. Accelerate your design process with AI-powered tools. Reduce animation per minute costs by up to 90%.
 
-> [Lucide](https://lucide.dev)
+> [**Lucide**](https://lucide.dev)
 
 `#Open` `#Free` `#Web`
 
 Lucide has a lot of customization options to match the icons with your UI. Color.
 
-> [Material Design](https://m3.material.io)
+> [**Material Design 3 - Google's latest open source design system**](https://m3.material.io)
 
 `#Open` `#Free` `#Web`
 
-Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital ...
+Material Design 3 - Google's open-source design system, provides comprehensive guidelines, styles, & components to create user-friendly interfaces.
 
-> [Microsoft Designer - Stunning designs in a flash](https://designer.microsoft.com)
+> [**Microsoft Designer - Stunning designs in a flash**](https://designer.microsoft.com)
 
 `#Free` `#Web` `#iOS` `#Android` `#Windows`
 
@@ -422,13 +422,13 @@ A graphic design app that helps you create professional quality social media pos
 
 The Traditional Colors of Nippon (Japan). This site is optimized to Webkit.
 
-> [Sketch · Design, prototype, collaborate and handoff](https://www.sketch.com)
+> [**Sketch · Design, prototype, collaborate and handoff**](https://www.sketch.com)
 
-`#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
+`#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS`
 
 Sketch is a toolkit made by designers, for designers, that puts the focus on you and your work. Get started for free.
 
-> [Unsplash: Beautiful Free Images & Pictures](https://unsplash.com)
+> [**Unsplash: Beautiful Free Images & Pictures**](https://unsplash.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#Chrome`
 
@@ -440,9 +440,9 @@ Beautiful, free images and photos that you can download and use for any project.
 
 ## Image Editing
 
->[Affinity Photo | Best Photo Editing Software](https://affinity.serif.com/photo)
+> [**Affinity Photo | Best Photo Editing Software**](https://affinity.serif.com/photo)
 
-`#Paid` `#iPadOS` `#macOS` `#Windows`
+`#Paid` `#Web` `#iPadOS` `#macOS` `#Windows`
 
 The award-winning image editing software has everything you need to edit and retouch photos, create multi-layered compositions, beautiful raster paintings and ...
 
