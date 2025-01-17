@@ -594,7 +594,9 @@ Freeform brings people together into a shared space for creativity, whether you'
 
 Discover Goodnotes 6, the AI note-taking app loved by millions around the world.
 
-> [Microsoft Loop: Collaborative App | Microsoft 365](https://www.microsoft.com/microsoft-loop)
+> [**Microsoft Loop: Collaborative App | Microsoft 365**](https://loop.cloud.microsoft)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android` `#Windows`
 
 Microsoft Loop is the next-generation cocreation experience that brings together teams, content, and tasks across your apps and devices.
 
@@ -862,11 +864,9 @@ Full Access Best Value! ... Data Analytics ... What is a Certificate? ×. All Ou
 
 ## Online Meeting
 
-> [Microsoft Stream — Enterprise Video Platform | Microsoft 365](https://www.microsoft.com/microsoft-365/microsoft-stream)
+> [**Microsoft Teams - Video Conferencing, Meetings, Calling**](https://www.microsoft.com/microsoft-teams/group-chat-software)
 
-Microsoft Stream brings video into your everyday work apps to help you communicate authentically, explain, learn, and collaborate across hybrid teams.
-
-> [Microsoft Teams - Video Conferencing, Meetings, Calling](https://www.microsoft.com/microsoft-teams/group-chat-software)
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
 
 Working together is easier with Microsoft Teams. Tools and files are always available in one place that's designed to help you connect naturally, ...
 
@@ -954,29 +954,11 @@ Our mission is to make the world more productive. To do this, we built one app t
 
 Make the impossible, possible in Jira. Plan, track, and release world-class software with the number one project management tool for agile teams.
 
-> [Microsoft Lists App | Microsoft 365](https://www.microsoft.com/microsoft-365/microsoft-lists)
+> [**Microsoft Outlook (formerly Hotmail): Free email and calendar | Microsoft 365**](https://www.microsoft.com/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook)
 
-Your smart information-tracking app in Microsoft 365. Work with anyone, anywhere. Configure your lists to better organize events, issues, and assets.
-
-> [Microsoft Outlook (formerly Hotmail): Free email and calendar | Microsoft 365](https://www.microsoft.com/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook)
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android` `#Windows`
 
 Stay on top of multiple accounts with email, calendars, and contacts in one place. Available on desktop, mobile, and web. Sign in. Create free account.
-
-> [Microsoft Places | Smart Solutions for Your Work Environment](https://www.microsoft.com/microsoft-teams/microsoft-places)
-
-Explore Microsoft Places, an AI-powered solution to optimize your workspace. Enhance collaboration and efficiency with innovative tools for hybrid teams.
-
-> [Microsoft Planner | Daily Task and Work Management](https://www.microsoft.com/microsoft-365/planner/microsoft-planner)
-
-Microsoft Planner can help you stay on track and manage all of your tasks, to-do lists, plans, and projects in one place.
-
-> [Microsoft Project | Project Management Software](https://www.microsoft.com/microsoft-365/project/project-management-software)
-
-Easily plan projects and collaborate from virtually anywhere with the right tools for project managers, project teams, and decision makers.
-
-> [Microsoft SharePoint Online - Collaboration Software | Microsoft 365](https://www.microsoft.com/microsoft-365/sharepoint/collaboration)
-
-Share, organize, and discover information with Microsoft SharePoint. Learn about SharePoint Online, OneDrive for Business, and Apps for SharePoint.
 
 > [**Slack: AI Work Management & Productivity Tools**](https://slack.com)
 
@@ -1092,7 +1074,9 @@ Analyse suspicious files, domains, IPs and URLs to detect malware and other brea
 
 CapCut is an all-in-one creative platform powered by AI that enables video editing and image design on browsers, Windows, Mac, Android, and iOS.
 
-> [Clipchamp: Quick and easy video editor](https://clipchamp.com)
+> [**Clipchamp: Quick and easy video editor**](https://clipchamp.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#Windows`
 
 Free video editing tool everyone can use. Get started in your browser, download the Windows app or create on the go with your mobile. Clipchamp's smart ...
 
