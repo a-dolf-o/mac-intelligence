@@ -446,45 +446,45 @@ Beautiful, free images and photos that you can download and use for any project.
 
 The award-winning image editing software has everything you need to edit and retouch photos, create multi-layered compositions, beautiful raster paintings and ...
 
-> [darktable](https://www.darktable.org)
+> [**darktable**](https://www.darktable.org)
 
 `#Open` `#Free` `#macOS` `#Windows` `#Linux`
 
 by photographers. darktable is created for photographers, by photographers. Having developers that are also avid photographers as part of the target audience is ...
 
-> [Fotor | Photo Editor: Free Online Photo Editing & Image Editor](https://www.fotor.com)
+> [**Fotor | Photo Editor: Free Online Photo Editing & Image Editor**](https://www.fotor.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#macOS` `#visionOS` `#Android` `#Windows`
 
 Enhance and edit photos with Fotor's free online photo editor. Crop, add text & effects, retouch images, and more using powerful photo editing tools.
 
-> [GIMP - GNU Image Manipulation Program](https://www.gimp.org)
+> [**GIMP - GNU Image Manipulation Program**](https://www.gimp.org)
 
 `#Open` `#Free` `#macOS` `#Windows` `#Linux`
 
 GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software, you can change its source code ...
 
-> [Photomator](https://www.pixelmator.com/photomator)
+> [**Photomator**](https://www.pixelmator.com/photomator)
 
 `#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
 
 Photomator is a powerful yet easy-to-use photo editor for Mac, iPhone, iPad, and Vision Pro. It includes an extensive collection of powerful color ...
 
-> [Photopea | Online Photo Editor](https://www.photopea.com)
+> [**Photopea | Online Photo Editor**](https://www.photopea.com)
 
 `#Free` `#Paid` `#Web`
 
 Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures. Do Online Photo Editing in your browser for ...
 
-> [Pixelmator Pro](https://www.pixelmator.com/pro)
+> [**Pixelmator Pro**](https://www.pixelmator.com/pro)
 
 `#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
 
 Pixelmator Pro is an image editor designed to make the most powerful professional image editing tools accessible to everyone.
 
-> [Upscayl - AI Image Upscaler](https://upscayl.org)
+> [**Upscayl - AI Image Upscaler**](https://upscayl.org)
 
-`#Open` `#Free` `#macOS` `#Windows` `#Linux`
+`#Open` `#Free` `#Web` `#macOS` `#Windows` `#Linux`
 
 An AI image upscaler that turns fuzzy photos into clear works of art! Easy to use and fun to say, it's the magic wand your images have been waiting for.
 
@@ -494,25 +494,25 @@ An AI image upscaler that turns fuzzy photos into clear works of art! Easy to us
 
 ## Image Generation
 
-> [Dzine (formerly Stylar.ai) - The Most Controllable AI Image & Design Tool](https://www.dzine.ai)
+> [**Dzine (formerly Stylar.ai) - The Most Controllable AI Image & Design Tool**](https://www.dzine.ai)
 
 `#Free` `#Paid` `#Web`
 
 With Dzine (formerly Stylar AI)'s diverse art styles and AI-assisted tools, designers can quickly create and customize characters for animations and games, ...
 
-> [Leonardo AI: AI Image Generator - Create Art, Images & Video](https://leonardo.ai)
+> [**Leonardo AI: AI Image Generator - Create Art, Images & Video**](https://leonardo.ai)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android`
 
 Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency.
 
-> [Midjourney](https://www.midjourney.com)
+> [**Midjourney**](https://www.midjourney.com)
 
 `#Paid` `#Web`
 
 An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 
-> [PicLumen: Free AI Image Generator for AI Art Creation](https://www.piclumen.com)
+> [**PicLumen: Free AI Image Generator for AI Art Creation**](https://www.piclumen.com)
 
 `#Free` `#Web` `#iOS` `#macOS`
 
@@ -572,37 +572,37 @@ We are a team of musicians and artificial intelligence experts based in Cambridg
 
 ## Note-taking
 
-> [Anytype | The Everything App](https://anytype.io)
+> [**Anytype | The Everything App**](https://anytype.io)
 
-`#Free` `#Paid` `#macOS` `#Windows` `#Linux` `#Chrome`
+`#Open` `#Free` `#Paid` `#macOS` `#Windows` `#Linux` `#Chrome`
 
 The everything app for those who celebrate trust & autonomy. Local-first, crazy-fast loading times, peer-to-peer, secure & decentralized sync.
 
-> [CollaNote: Notes & PDF Markup](https://apps.apple.com/app/collanote-notes-pdf-markup/id1540956268)
+> [**CollaNote: Notes & PDF Markup**](https://apps.apple.com/app/collanote-notes-pdf-markup/id1540956268)
 
 `#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
 
 Powerful note-taking app packed with a wide range of tools. Note-taking, PDF markup, digital planning, and flashcards - all in one place!
 
-> [draw.io - Flowchart Maker & Online Diagram Software](https://www.drawio.com)
+> [**draw.io - Flowchart Maker & Online Diagram Software**](https://www.drawio.com)
 
-`#Open` `#Free` `#Web` `#macOS` `#Windows` `#Linux`
+`#Free` `#Web` `#macOS` `#Windows` `#Linux`
 
 Powerful features. Collaborate with shared cursors in real-time. draw.io has everything you expect from a professional diagramming tool.
 
-> [Evernote | Best Note Taking App - Organize Your Notes with Evernote](https://evernote.com)
+> [**Evernote | Best Note Taking App - Organize Your Notes with Evernote**](https://evernote.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Chrome` `#Firefox` `#Safari`
 
 Use Evernote to capture more than just words. Harness the power of the internet with Web Clipper. Scan and store your important files, documents, and images.
 
-> [Freeform - Apple](https://apps.apple.com/app/freeform/id6443742539)
+> [**Freeform - Apple**](https://apps.apple.com/app/freeform/id6443742539)
 
 `#Free` `#iOS` `#iPadOS` `#macOS` `#visionOS`
 
 Freeform brings people together into a shared space for creativity, whether you're at your desk or on the go. Easily invite others via email, link or Messages.
 
-> [Goodnotes | Notes Reimagined | Note-Taking App](https://www.goodnotes.com)
+> [**Goodnotes | Notes Reimagined | Note-Taking App**](https://www.goodnotes.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
 
@@ -628,67 +628,67 @@ Visio in Microsoft 365 is available to Microsoft 365 commercial subscribers, so 
 
 Explore the intelligent whiteboard and infinite canvas built for creative collaboration—and included with Microsoft 365.
 
-> [Milanote - the tool for organizing creative projects](https://milanote.com)
+> [**Milanote - the tool for organizing creative projects**](https://milanote.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Chrome` `#Firefox` `#Safari`
 
 Milanote is an easy-to-use tool to organize your ideas and projects into visual boards. Add notes, images, links and files, organize them visually and share ...
 
-> [Miro | The Innovation Workspace](https://miro.com)
+> [**Miro | The Innovation Workspace**](https://miro.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
 
 Miro is the innovation workspace where teams manage projects, design products, and build the future together. Join 80M+ users from around the world.
 
-> [Notability](https://notability.com)
+> [**Notability**](https://notability.com)
 
 `#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
 
 Notability can be your digital canvas for your next artistic idea. Try mixing pen and highlighter tools to get this shaded effect. See More.
 
-> [Notable - The Markdown-based note-taking app that doesn't suck](https://notable.app)
+> [**Notable - The Markdown-based note-taking app that doesn't suck**](https://notable.app)
 
 `#Free` `#macOS` `#Windows` `#Linux`
 
 Notable provides a very powerful Markdown editor, it's the same one VS Code uses in fact, so features like multi-cursors, a minimap and best-in-class syntax ...
 
-> [Notes - Apple iCloud](https://www.icloud.com/notes)
+> [**Notes - Apple iCloud**](https://www.icloud.com/notes)
 
 `#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS`
 
 View, edit, create and share your notes with Notes on the web. Changes will sync across your devices with iCloud.
 
-> [Notion: Your connected workspace for wiki, docs & projects](https://www.notion.com)
+> [**Notion: Your connected workspace for wiki, docs & projects**](https://www.notion.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Chrome` `#Firefox` `#Safari`
 
 A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
 
-> [Obsidian - Sharpen your thinking](https://obsidian.md)
+> [**Obsidian - Sharpen your thinking**](https://obsidian.md)
 
-`#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
 
 Obsidian is the private and flexible note‑taking app that adapts to the way you think.
 
-> [Simplenote](https://simplenote.com)
+> [**Simplenote**](https://simplenote.com)
 
 `#Open` `#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows` `#Linux`
 
 The simplest way to keep notes. Light, clean, and free. Simplenote is now available for iOS, Android, Mac, and the web.
 
-> [Standard Notes | End-To-End Encrypted Notes App](https://standardnotes.com)
+> [**Standard Notes | End-To-End Encrypted Notes App**](https://standardnotes.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
 
 Standard Notes helps you gain control in a world that often feels out of control. Protect your life's work with end-to-end encryption, advanced security ...
 
-> [Todoist | A To-Do List to Organize Your Work & Life](https://todoist.com)
+> [**Todoist | A To-Do List to Organize Your Work & Life**](https://todoist.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
 
 Trusted by 30 million people and teams. Todoist is the world's favorite task manager and to-do list app. Finally become focused, organized and calm.
 
-> [Xmind - Mind Mapping App](https://xmind.app)
+> [**Xmind - Mind Mapping App**](https://xmind.app)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
 
@@ -918,25 +918,25 @@ Zoom helps consolidate communications, connect people, and collaborate better to
 
 ## Password Manager
 
-> [Bitwarden | Best Password Manager for Business, Enterprise & Personal](https://bitwarden.com)
+> [**Bitwarden | Best Password Manager for Business, Enterprise & Personal**](https://bitwarden.com)
 
 `#Open` `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
 
 Bitwarden is the most trusted password manager for passwords and passkeys at home or at work, on any browser or device. Start with a free trial.
 
-> [Dashlane: Password Manager for Home, Mobile and Business](https://www.dashlane.com)
+> [**Dashlane: Password Manager for Home, Mobile and Business**](https://www.dashlane.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android`
 
 Dashlane is the secure way for businesses and individuals to protect passwords, manage credentials, prevent breaches, and safeguard sensitive information in ...
 
-> [1Password | Top-Rated Password Manager for Personal & Business Use](https://1password.com)
+> [**1Password | Top-Rated Password Manager for Personal & Business Use**](https://1password.com)
 
 `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
 
 1Password is so much more than a password manager. View plans Talk to sales Security and productivity wrapped into one Secure every sign-in.
 
-> [2FAS - the Internet's favorite open-source authenticator](https://2fas.com)
+> [**2FAS - the Internet's favorite open-source authenticator**](https://2fas.com)
 
 `#Open` `#Free` `#iOS` `#iPadOS` `#watchOS` `#Android` `#Chrome` `#Edge` `#Firefox` `#Safari`
 
@@ -966,19 +966,19 @@ Welcome to Prezi, the presentation software that uses motion, zoom, and spatial 
 
 ## Project Management
 
-> [Asana • Manage your team's work, projects, & tasks online](https://asana.com)
+> [**Asana • Manage your team's work, projects, & tasks online**](https://asana.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
 
 Work anytime, anywhere with Asana. Keep remote and distributed teams, and your entire organization, focused on their goals, projects, and tasks with Asana.
 
-> [ClickUp™ | One app to replace them all](https://clickup.com)
+> [**ClickUp™ | One app to replace them all**](https://clickup.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android` `#Windows`
 
 Our mission is to make the world more productive. To do this, we built one app to replace them all - Tasks, Docs, Goals, and Chat.
 
-> [Jira | Issue & Project Tracking Software | Atlassian](https://www.atlassian.com/software/jira)
+> [**Jira | Issue & Project Tracking Software | Atlassian**](https://www.atlassian.com/software/jira)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
 
@@ -1008,13 +1008,13 @@ Easily plan projects and collaborate from virtually anywhere with the right tool
 
 Share, organize, and discover information with Microsoft SharePoint. Learn about SharePoint Online, OneDrive for Business, and Apps for SharePoint.
 
-> [Slack: AI Work Management & Productivity Tools](https://slack.com)
+> [**Slack: AI Work Management & Productivity Tools**](https://slack.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android`
 
 Slack is a new way to communicate with your team. It's faster, better organized, and more secure than email.
 
-> [Trello: Manage Your Team's Projects From Anywhere](https://trello.com)
+> [**Trello: Manage Your Team's Projects From Anywhere**](https://trello.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Chrome` `#Edge` `#Firefox` `#Safari`
 
@@ -1026,25 +1026,25 @@ Make the impossible, possible with Trello. The ultimate teamwork project managem
 
 ## Remote Desktop
 
-> [AnyDesk: The Fast Remote Desktop Application](https://anydesk.com)
+> [**AnyDesk: The Fast Remote Desktop Application**](https://anydesk.com)
 
 `#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#Android` `#Windows` `#Linux`
 
 Discover AnyDesk, the secure & intuitive remote desktop software, and take advantage of the application's innovative features!
 
-> [DeskIn - Professional and Efficient Remote Desktop Software for Individual and Enterprise](https://www.deskin.io)
+> [**DeskIn - Professional and Efficient Remote Desktop Software for Individual and Enterprise**](https://www.deskin.io)
 
-`#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
 
 Discover Deskin high performance features, enjoy all-in-one remote desktop solutions from any devices at anytime.
 
-> [Parallels: Mac & Windows Virtualization, Remote Application Server, Mac Management Solutions](https://www.parallels.com)
+> [**Parallels: Mac & Windows Virtualization, Remote Application Server, Mac Management Solutions**](https://www.parallels.com)
 
-`#Paid` `#macOS`
+`#Paid` `#Web` `#macOS`
 
 Download Parallels to run Windows on Mac, Chrome, gain access to virtual desktop infrastructure (VDI) with DaaS, & Toolbox to secure private files, & more.
 
-> [RustDesk: Open-Source Remote Desktop with Self-Hosted Server Solutions](https://rustdesk.com)
+> [**RustDesk: Open-Source Remote Desktop with Self-Hosted Server Solutions**](https://rustdesk.com)
 
 `#Open` `#Free` `#Paid` `#Web` `#iOS` `#macOS` `#Android` `#Windows` `#Linux`
 
