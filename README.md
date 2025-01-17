@@ -66,7 +66,7 @@ Meet AIs that feel alive. Chat with anyone, anywhere, anytime. Experience the po
 
 ChatGPT on your desktop. Chat about email, screenshots, files, and anything on your screen. Chat about email, screenshots, files ...
 
-> [**Claude | Home \ Anthropic**](https://www.anthropic.com)
+> [**Claude | Anthropic**](https://www.anthropic.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
 
@@ -119,12 +119,6 @@ Perplexity is a free AI-powered answer engine that provides accurate, trusted, a
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android`
 
 Automate your work. Make allows you to visually create, build and automate workflows. User friendly no-code integration tool. Try it now for free!
-
-> [Microsoft Power Automate – Process Automation Platform](https://www.microsoft.com/power-platform/products/power-automate)
-
-`#Free` `#Paid` `#Web` `#iOS` `#Android` `#Windows` `#Chrome` `#Edge` `#Firefox`
-
-Use Power Automate tools to automate processes across nearly unlimited systems, desktop apps, and websites using AI, digital, and robotic process ...
 
 > [**Taskade: Autonomous AI Agents & Workflow Automation**](https://www.taskade.com)
 
@@ -222,19 +216,11 @@ pCloud is the most secure encrypted cloud storage, where you can store your pers
 
 ## Data Analysis
 
-> [Microsoft Clarity - Free Heatmaps & Session Recordings](https://clarity.microsoft.com)
+> [**Microsoft Clarity - Free Heatmaps & Session Recordings**](https://clarity.microsoft.com)
 
 `#Free` `#Web` `#Chrome` `#Edge`
 
 Clarity is a free user behavior analytics tool that helps you understand how users are interacting with your website through session replays and heatmaps.
-
-> [Microsoft Forms | Surveys, Polls, and Quizzes](https://www.microsoft.com/microsoft-365/online-surveys-polls-quizzes)
-
-Easily create custom surveys, polls, and quizzes. Let built-in intelligence work for you. Collect the right feedback for your goals, no matter your skill level.
-
-> [Power BI - Data Visualization | Microsoft Power Platform](https://www.microsoft.com/power-platform/products/power-bi)
-
-Power BI is a unified, scalable platform for self-service and enterprise business intelligence (BI). Connect to and visualize any data.
 
 > [**Tableau: Business Intelligence and Analytics Software**](https://www.tableau.com)
 
@@ -611,22 +597,6 @@ Discover Goodnotes 6, the AI note-taking app loved by millions around the world.
 > [Microsoft Loop: Collaborative App | Microsoft 365](https://www.microsoft.com/microsoft-loop)
 
 Microsoft Loop is the next-generation cocreation experience that brings together teams, content, and tasks across your apps and devices.
-
-> [Microsoft OneNote | The digital note-taking app for your devices](https://www.onenote.com)
-
-OneNote lets you combine the power of digital ink with the natural feel of a pen to help you sketch out your inspirations. Sketch, ...
-
-> [Microsoft To Do | To Do List and Task Management App](https://www.microsoft.com/microsoft-365/microsoft-to-do-list-app)
-
-Access from anywhere. Use Microsoft To Do for free and sync your lists across the web and iOS, Android, and Windows devices.
-
-> [Microsoft Visio | Flowchart Maker and Diagramming Software](https://www.microsoft.com/microsoft-365/visio/flowchart-software)
-
-Visio in Microsoft 365 is available to Microsoft 365 commercial subscribers, so you can create professional diagrams anytime, anywhere, with anyone. Learn more.
-
-> [Microsoft Whiteboard | Digital Online Whiteboard App](https://www.microsoft.com/microsoft-365/microsoft-whiteboard/digital-whiteboard-app)
-
-Explore the intelligent whiteboard and infinite canvas built for creative collaboration—and included with Microsoft 365.
 
 > [**Milanote - the tool for organizing creative projects**](https://milanote.com)
 
@@ -1415,10 +1385,6 @@ AlternativeTo lets you find apps and software for Windows, Mac, Linux, iPhone, i
 > [**Buy Once Software**](https://buyoncesoftware.com)
 
 Say goodbye to subscription fatigue! Discover software you can buy once and own forever--no recurring charges, just tools that work for you, for life.
-
-> [**Microsoft 365 Products, Apps, and Services | Microsoft 365**](https://www.microsoft.com/microsoft-365/products-apps-services)
-
-Create your best work on all your devices—from desktop to web—using the tools you need for home and business.
 
 > [**once.tools: Your guide to software you only have to pay for once**](https://once.tools)
 
