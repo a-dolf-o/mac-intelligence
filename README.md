@@ -20,10 +20,11 @@
   - [**Color Scheme**](#color-scheme)
   - [**Creative Suite**](#creative-suite)
   - [**Data Analysis**](#data-analysis)
-  - [**Digital Drawing**](#digital-drawing)
+  - [**Digital Art**](#digital-art)
   - [**Document Editing**](#document-editing)
   - [**File Transfer**](#file-transfer)
   - [**Graphic Design**](#graphic-design)
+  - [**Icon Design**](#icon-design)
   - [**Image Editing**](#image-editing)
   - [**Image Generation**](#image-generation)
   - [**Media Player**](#media-player)
@@ -39,6 +40,7 @@
   - [**Project Management**](#project-management)
   - [**Remote Desktop**](#remote-desktop)
   - [**Screen Recording**](#screen-recording)
+  - [**Security Scanner**](#security-scanner)
   - [**System Settings**](#system-settings)
   - [**User Interface Design**](#user-interface-design)
   - [**Video Editing**](#video-editing)
@@ -46,6 +48,7 @@
   - [**Virtual Machine**](#virtual-machine)
   - [**Virtual Private Network**](#virtual-private-network)
   - [**Web Browser**](#web-browser)
+  - [**Website Analysis**](#website-analysis)
   - [**Website Building**](#website-building)
   - [**Writing Assistance**](#writing-assistance)
   - [**3D Design**](#3d-design)
@@ -255,12 +258,6 @@ Adobe is changing the world through digital experiences. We help our customers c
 
 The best app for creatives and other professionals looking to create high-quality designs, concept art, illustrations, mock-ups and more. Get a free trial!
 
-> [**Canva: Visual Suite for Everyone**](https://www.canva.com)
-
-`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
-
-Canva is a free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more.
-
 > [**Linearity: Ideate. Design. Animate.**](https://www.linearity.io)
 
 `#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
@@ -273,12 +270,6 @@ Easily create professional-quality animations in-house. Accelerate your design p
 
 ## Data Analysis
 
-> [**Microsoft Clarity - Free Heatmaps & Session Recordings**](https://clarity.microsoft.com)
-
-`#Free` `#Web` `#Chrome` `#Edge`
-
-Clarity is a free user behavior analytics tool that helps you understand how users are interacting with your website through session replays and heatmaps.
-
 > [**Tableau: Business Intelligence and Analytics Software**](https://www.tableau.com)
 
 `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
@@ -289,7 +280,7 @@ Tableau can help anyone see and understand their data. Connect to almost any dat
 
 ---
 
-## Digital Drawing
+## Digital Art
 
 > [**Inkscape - Draw Freely.**](https://inkscape.org)
 
@@ -387,29 +378,17 @@ ShareDrop is a free, open-source web app that allows you to easily and securely 
 
 ## Graphic Design
 
-> [**Flaticon | Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS**](https://www.flaticon.com)
+> [**Canva: Visual Suite for Everyone**](https://www.canva.com)
 
-`#Free` `#Paid` `#Web`
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
 
-Download Free Icons and Stickers for your projects. Resources made by and for designers. PNG, SVG, EPS, PSD and CSS formats.
+Canva is a free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more.
 
 > [**Freepik | Create great designs, faster**](https://www.freepik.com)
 
 `#Free` `#Paid` `#Web`
 
 Freepik's AI tools give you the power to create, enhance, and fine-tune your visuals. Image generation, upscaling, retouching... Watch as your words hit just ...
-
-> [**Iconify Design: All popular icon sets, one framework.**](https://iconify.design)
-
-`#Open` `#Free` `#Web`
-
-License. Iconify is an open source project. Almost all parts of the project use MIT license. Some older packages use Apache 2.0 and/or GPL 2.0 licenses. This ...
-
-> [**Lucide**](https://lucide.dev)
-
-`#Open` `#Free` `#Web`
-
-Lucide has a lot of customization options to match the icons with your UI. Color.
 
 > [**Material Design 3 - Google's latest open source design system**](https://m3.material.io)
 
@@ -428,6 +407,30 @@ A graphic design app that helps you create professional quality social media pos
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#Chrome`
 
 Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
+
+[_back_](#table-of-contents)
+
+---
+
+## Icon Design
+
+> [**Flaticon | Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS**](https://www.flaticon.com)
+
+`#Free` `#Paid` `#Web`
+
+Download Free Icons and Stickers for your projects. Resources made by and for designers. PNG, SVG, EPS, PSD and CSS formats.
+
+> [**Iconify Design: All popular icon sets, one framework.**](https://iconify.design)
+
+`#Open` `#Free` `#Web`
+
+License. Iconify is an open source project. Almost all parts of the project use MIT license. Some older packages use Apache 2.0 and/or GPL 2.0 licenses. This ...
+
+> [**Lucide**](https://lucide.dev)
+
+`#Open` `#Free` `#Web`
+
+Lucide has a lot of customization options to match the icons with your UI. Color.
 
 [_back_](#table-of-contents)
 
@@ -1021,6 +1024,24 @@ OBS (Open Broadcaster Software) is free and open source software for video recor
 
 ---
 
+## Security Scanner
+
+> [**urlscan.io - URL and website scanner**](https://urlscan.io)
+
+`#Free` `#Paid` `#Web`
+
+urlscan.io - Website scanner for suspicious and malicious URLs.
+
+> [**VirusTotal**](https://www.virustotal.com)
+
+`#Free` `#Web` `#macOS` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox`
+
+Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community.
+
+[_back_](#table-of-contents)
+
+---
+
 ## System Settings
 
 > [**1.1.1.1 — The free app that makes your Internet faster.**](https://one.one.one.one)
@@ -1052,18 +1073,6 @@ A worthy successor to the Spectacle Mac app. Rectangle is nearly a complete drop
 `#Open` `#Free` `#Chrome` `#Edge` `#Firefox`
 
 uBlock Origin is not just an “ad blocker“, it's a wide-spectrum content blocker with CPU and memory efficiency as a primary feature.
-
-> [**urlscan.io - URL and website scanner**](https://urlscan.io)
-
-`#Free` `#Paid` `#Web`
-
-urlscan.io - Website scanner for suspicious and malicious URLs.
-
-> [**VirusTotal**](https://www.virustotal.com)
-
-`#Free` `#Web` `#macOS` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox`
-
-Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community.
 
 [_back_](#table-of-contents)
 
@@ -1286,6 +1295,18 @@ It's a web browser. But fun. It comes with a bunch of clever features built-in. 
 `#Open` `#Free` `#macOS` `#Windows` `#Linux`
 
 Zen is based on Firefox, ensuring that your browsing experience prioritizes security and privacy. With advanced tracking protection and minimal data collection, ...
+
+[_back_](#table-of-contents)
+
+---
+
+## Website Analysis
+
+> [**Microsoft Clarity - Free Heatmaps & Session Recordings**](https://clarity.microsoft.com)
+
+`#Free` `#Web` `#Chrome` `#Edge`
+
+Clarity is a free user behavior analytics tool that helps you understand how users are interacting with your website through session replays and heatmaps.
 
 [_back_](#table-of-contents)
 
