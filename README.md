@@ -17,8 +17,10 @@
   - [**Automation**](#automation)
   - [**Browser Extension**](#browser-extension)
   - [**Cloud Storage**](#cloud-storage)
+  - [**Color Scheme**](#color-scheme)
+  - [**Creative Suite**](#creative-suite)
   - [**Data Analysis**](#data-analysis)
-  - [**Digital Art**](#digital-art)
+  - [**Digital Drawing**](#digital-drawing)
   - [**Document Editing**](#document-editing)
   - [**File Transfer**](#file-transfer)
   - [**Graphic Design**](#graphic-design)
@@ -38,6 +40,7 @@
   - [**Remote Desktop**](#remote-desktop)
   - [**Screen Recording**](#screen-recording)
   - [**System Settings**](#system-settings)
+  - [**User Interface Design**](#user-interface-design)
   - [**Video Editing**](#video-editing)
   - [**Video Generation**](#video-generation)
   - [**Virtual Machine**](#virtual-machine)
@@ -214,6 +217,60 @@ pCloud is the most secure encrypted cloud storage, where you can store your pers
 
 ---
 
+## Color Scheme
+
+> [**Color Hunt - Color Palettes for Designers and Artists**](https://colorhunt.co)
+
+`#Free` `#Web` `#Chrome`
+
+Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects.
+
+> [**Coolors - The super fast color palettes generator!**](https://coolors.co)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Chrome`
+
+Create the perfect palette or get inspired by thousands of beautiful color schemes. Start the generator! Explore trending palettes · Coolors - Super fast color ...
+
+> [**NIPPON COLORS - 日本の伝統色**](https://nipponcolors.com)
+
+`#Free` `#Web`
+
+The Traditional Colors of Nippon (Japan). This site is optimized to Webkit.
+
+[_back_](#table-of-contents)
+
+---
+
+## Creative Suite
+
+> [**Adobe Creative Cloud | Professional Creative Software**](https://www.adobe.com/creativecloud)
+
+`#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#Android` `#Windows`
+
+Adobe is changing the world through digital experiences. We help our customers create, deliver and optimize content and applications.
+
+> [**Affinity | Creative Software For Professionals**](https://affinity.serif.com)
+
+`#Paid` `#Web` `#iPadOS` `#macOS` `#Windows`
+
+The best app for creatives and other professionals looking to create high-quality designs, concept art, illustrations, mock-ups and more. Get a free trial!
+
+> [**Canva: Visual Suite for Everyone**](https://www.canva.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
+
+Canva is a free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more.
+
+> [**Linearity: Ideate. Design. Animate.**](https://www.linearity.io)
+
+`#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
+
+Easily create professional-quality animations in-house. Accelerate your design process with AI-powered tools. Reduce animation per minute costs by up to 90%.
+
+[_back_](#table-of-contents)
+
+---
+
 ## Data Analysis
 
 > [**Microsoft Clarity - Free Heatmaps & Session Recordings**](https://clarity.microsoft.com)
@@ -232,7 +289,7 @@ Tableau can help anyone see and understand their data. Connect to almost any dat
 
 ---
 
-## Digital Art
+## Digital Drawing
 
 > [**Inkscape - Draw Freely.**](https://inkscape.org)
 
@@ -264,6 +321,12 @@ SketchBook is sketching, painting, and illustration software for all platforms a
 
 ## Document Editing
 
+> [**Adobe Acrobat | PDF online**](https://www.adobe.com/acrobat/online)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
+
+Convert, edit, organize, and compress PDF files with Adobe Acrobat Pro. Fill, sign, and share documents too. Start free trial.
+
 > [**Highlights - The PDF Reader for Research on Mac, iPad & iPhone**](https://highlightsapp.net)
 
 `#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
@@ -281,12 +344,6 @@ An online LaTeX editor that's easy to use. No installation, real-time collaborat
 `#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
 
 The go-to PDF editor for iPhone, iPad and Mac. We make it easy to edit, annotate, sign and organize PDFs. Free download.
-
-> [**PDF online | Adobe Acrobat**](https://www.adobe.com/acrobat/online.html)
-
-`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
-
-Convert, edit, organize, and compress PDF files with Adobe Acrobat Pro. Fill, sign, and share documents too. Start free trial.
 
 > [**PDFgear - Bring Accessible PDF Software to the Masses**](https://www.pdfgear.com)
 
@@ -330,36 +387,6 @@ ShareDrop is a free, open-source web app that allows you to easily and securely 
 
 ## Graphic Design
 
-> [**Affinity Designer | Graphic Design & Illustration Software**](https://affinity.serif.com/designer)
-
-`#Paid` `#Web` `#iPadOS` `#macOS` `#Windows`
-
-The best app for creatives and other professionals looking to create high-quality designs, concept art, illustrations, mock-ups and more. Get a free trial!
-
-> [**Canva: Visual Suite for Everyone**](https://www.canva.com)
-
-`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
-
-Canva is a free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more.
-
-> [**Colorion**](https://colorion.co)
-
-`#Free` `#Web`
-
-Curated Color Palettes with Search and Tags Support.
-
-> [**Coolors - The super fast color palettes generator!**](https://coolors.co)
-
-`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Chrome`
-
-Create the perfect palette or get inspired by thousands of beautiful color schemes. Start the generator! Explore trending palettes · Coolors - Super fast color ...
-
-> [**Figma: The Collaborative Interface Design Tool**](https://www.figma.com)
-
-`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
-
-Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single ...
-
 > [**Flaticon | Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS**](https://www.flaticon.com)
 
 `#Free` `#Paid` `#Web`
@@ -377,12 +404,6 @@ Freepik's AI tools give you the power to create, enhance, and fine-tune your vis
 `#Open` `#Free` `#Web`
 
 License. Iconify is an open source project. Almost all parts of the project use MIT license. Some older packages use Apache 2.0 and/or GPL 2.0 licenses. This ...
-
-> [**Linearity: Ideate. Design. Animate.**](https://www.linearity.io)
-
-`#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
-
-Easily create professional-quality animations in-house. Accelerate your design process with AI-powered tools. Reduce animation per minute costs by up to 90%.
 
 > [**Lucide**](https://lucide.dev)
 
@@ -402,18 +423,6 @@ Material Design 3 - Google's open-source design system, provides comprehensive g
 
 A graphic design app that helps you create professional quality social media posts, invitations, digital postcards, graphics, and more.
 
-> [**NIPPON COLORS - 日本の伝統色**](https://nipponcolors.com)
-
-`#Free` `#Web`
-
-The Traditional Colors of Nippon (Japan). This site is optimized to Webkit.
-
-> [**Sketch · Design, prototype, collaborate and handoff**](https://www.sketch.com)
-
-`#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS`
-
-Sketch is a toolkit made by designers, for designers, that puts the focus on you and your work. Get started for free.
-
 > [**Unsplash: Beautiful Free Images & Pictures**](https://unsplash.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#Chrome`
@@ -425,12 +434,6 @@ Beautiful, free images and photos that you can download and use for any project.
 ---
 
 ## Image Editing
-
-> [**Affinity Photo | Best Photo Editing Software**](https://affinity.serif.com/photo)
-
-`#Paid` `#Web` `#iPadOS` `#macOS` `#Windows`
-
-The award-winning image editing software has everything you need to edit and retouch photos, create multi-layered compositions, beautiful raster paintings and ...
 
 > [**darktable**](https://www.darktable.org)
 
@@ -1061,6 +1064,24 @@ urlscan.io - Website scanner for suspicious and malicious URLs.
 `#Free` `#Web` `#macOS` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox`
 
 Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community.
+
+[_back_](#table-of-contents)
+
+---
+
+## User Interface Design
+
+> [**Figma: The Collaborative Interface Design Tool**](https://www.figma.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
+
+Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single ...
+
+> [**Sketch · Design, prototype, collaborate and handoff**](https://www.sketch.com)
+
+`#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS`
+
+Sketch is a toolkit made by designers, for designers, that puts the focus on you and your work. Get started for free.
 
 [_back_](#table-of-contents)
 
