@@ -18,6 +18,7 @@
   - [**Browser Extension**](#browser-extension)
   - [**Cloud Storage**](#cloud-storage)
   - [**Color Scheme**](#color-scheme)
+  - [**Computer Programming**](#computer-programming)
   - [**Creative Suite**](#creative-suite)
   - [**Data Analysis**](#data-analysis)
   - [**Digital Art**](#digital-art)
@@ -239,6 +240,66 @@ Create the perfect palette or get inspired by thousands of beautiful color schem
 `#Free` `#Web`
 
 The Traditional Colors of Nippon (Japan). This site is optimized to Webkit.
+
+[_back_](#table-of-contents)
+
+---
+
+## Computer Programming
+
+> [**Android Studio & App Tools - Android Developers**](https://developer.android.com/studio)
+
+`#Open` `#Free` `#Web` `#macOS` `#Windows` `#Linux`
+
+Android Studio provides app builders with an integrated development environment (IDE) optimized for Android apps. Download Android Studio today.
+
+> [**Cursor - The AI Code Editor**](https://www.cursor.com)
+
+`#Free` `#Paid` `#Web` `#macOS` `#Windows` `#Linux`
+
+The AI Code Editor. Built to make you extraordinarily productive, Cursor is the best way to code with AI.
+
+> [**GitHub · Build and ship software on a single, collaborative platform**](https://github.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
+
+Millions of developers and businesses call GitHub home. Whether you're scaling your development process or just learning how to code, GitHub is where you belong ...
+
+> [**JetBrains: Essential tools for software developers and teams**](https://www.jetbrains.com)
+
+`#Free` `#Paid` `#Web` `#macOS` `#Windows` `#Linux`
+
+JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools, including IntelliJ IDEA – the leading Java IDE, ...
+
+> [**Replit – Build apps and sites with AI**](https://replit.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
+
+Replit is an AI-powered software development & deployment platform for building, sharing, and shipping software fast. Sign up for freeGet a business ...
+
+> [**Shields.io**](https://shields.io)
+
+`#Open` `#Free` `#Web`
+
+Concise, consistent, and legible badges.
+
+> [**TestFlight - Apple Developer**](https://developer.apple.com/testflight)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#watchOS`
+
+TestFlight makes it easy for testers to give feedback on your apps, games, and App Clips across Apple platforms before you publish. Share your beta with just ...
+
+> [**Visual Studio Code - Code Editing. Redefined**](https://code.visualstudio.com)
+
+`#Open` `#Free` `#Web` `#macOS` `#Windows` `#Linux`
+
+Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free and ...
+
+> [**Xcode - Apple Developer**](https://developer.apple.com/xcode)
+
+`#Free` `#Web` `#macOS`
+
+Xcode is available on the Mac App Store, with downloadable simulator runtimes for all platforms. Predictive code completion helps you write safer code faster, ...
 
 [_back_](#table-of-contents)
 
@@ -1176,11 +1237,23 @@ VMware desktop hypervisors allow you to develop and test for any platform and vi
 
 ## Virtual Private Network
 
+> [**CyberGhost VPN: Fast, Secure & Anonymous VPN service**](https://www.cyberghostvpn.com)
+
+`#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Firefox`
+
+CyberGhost is the best VPN service in 2025. With blazing fast servers, it offers top privacy for all devices, Windows, iOS, Mac, Android, or Linux.
+
 > [**ExpressVPN: Best VPN Service for Speed, Security & Anonymity**](https://www.expressvpn.com)
 
 `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#Android` `#Windows` `#Linux` `#Chrome`
 
 Protect your privacy, stream worldwide, and enjoy fast speeds with ExpressVPN. Servers in 105 countries, 24/7 support, and a 30-day risk-free trial—start ...
+
+> [**hide.me | World's Fastest VPN and Privacy Protection**](https://hide.me)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox`
+
+Hide.me VPN offers privacy protection, wi-fi security, and encryption for a truly private web browser experience, regardless of your location. Try for free!
 
 > [**NordVPN: The best VPN service for speed and security**](https://nordvpn.com)
 
