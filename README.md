@@ -14,6 +14,7 @@
   <br>
 
   - [**Artificial Intelligence**](#artificial-intelligence)
+  - [**Authenticator**](#authenticator)
   - [**Automation**](#automation)
   - [**Browser Extension**](#browser-extension)
   - [**Cloud Storage**](#cloud-storage)
@@ -23,6 +24,7 @@
   - [**Data Analysis**](#data-analysis)
   - [**Digital Art**](#digital-art)
   - [**Document Editing**](#document-editing)
+  - [**Email Account**](#email-account)
   - [**File Transfer**](#file-transfer)
   - [**Graphic Design**](#graphic-design)
   - [**Icon Design**](#icon-design)
@@ -33,7 +35,6 @@
   - [**Music Generation**](#music-generation)
   - [**Note-taking**](#note-taking)
   - [**Office Suite**](#office-suite)
-  - [**Online Booking**](#online-booking)
   - [**Online Learning**](#online-learning)
   - [**Online Meeting**](#online-meeting)
   - [**Password Manager**](#password-manager)
@@ -43,6 +44,7 @@
   - [**Screen Recording**](#screen-recording)
   - [**Security Scanner**](#security-scanner)
   - [**System Settings**](#system-settings)
+  - [**Travel Booking**](#travel-booking)
   - [**User Interface Design**](#user-interface-design)
   - [**Video Editing**](#video-editing)
   - [**Video Generation**](#video-generation)
@@ -114,6 +116,18 @@ Get up and running with large language models.
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Chrome`
 
 Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
+
+[_back_](#table-of-contents)
+
+---
+
+## Authenticator
+
+> [**2FAS - the Internet's favorite open-source authenticator**](https://2fas.com)
+
+`#Open` `#Free` `#iOS` `#iPadOS` `#watchOS` `#Android` `#Chrome` `#Edge` `#Firefox` `#Safari`
+
+Meet your favorite 2FA app. We are an open-source, community-driven, private and simple solution for Internet's biggest threat - security breaches.
 
 [_back_](#table-of-contents)
 
@@ -408,6 +422,18 @@ PDFgear is a piece of full-featured PDF management software for Windows, Mac, an
 `#Open` `#Free` `#Paid` `#Web`
 
 A locally hosted one-stop shop for all your PDF needs · Powerful PDF tools. Stirling PDF provides you with powerful, easy to use tools to manage your PDF files.
+
+[_back_](#table-of-contents)
+
+---
+
+## Email Account
+
+> [**Microsoft Outlook (formerly Hotmail): Free email and calendar | Microsoft 365**](https://www.microsoft.com/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android` `#Windows`
+
+Stay on top of multiple accounts with email, calendars, and contacts in one place. Available on desktop, mobile, and web. Sign in. Create free account.
 
 [_back_](#table-of-contents)
 
@@ -773,102 +799,6 @@ ONLYOFFICE offers a secure online office suite highly compatible with MS Office 
 
 ---
 
-## Online Booking
-
-> [**Agoda Official Site | Free Cancellation & Booking Deals | Over 2 Million Hotels**](https://www.agoda.com)
-
-`#Free` `#Web` `#iOS` `#iPadOS` `#Android`
-
-Book your perfect holiday with Agoda and enjoy our great discounts on hotels, homes, flights and activities. Get the Agoda app!
-
-> [**Booking.com | Official site | The best hotels, flights, car rentals & accommodations**](https://www.booking.com)
-
-`#Free` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android`
-
-Explore the world with Booking.com. Big savings on homes, hotels, flights, car rentals, taxis, and attractions – build your perfect trip on any budget.
-
-> [**Expedia Travel: Vacation Homes, Hotels, Car Rentals, Flights & More**](https://www.expedia.com)
-
-`#Free` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android`
-
-Expedia Travel: Search Hotels, Cheap Flights, Car Rentals & Vacations · Save 10% or more on over 100,000 hotels with Member Prices. · Discover your new favorite ...
-
-> [**Hotels.com - Deals & Discounts for Hotel Reservations from Luxury Hotels to Budget Accommodations**](https://www.hotels.com)
-
-`#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#Android`
-
-Hotels.com | Find cheap hotels and discounts when you book on Hotels.com. Compare hotel deals, offers and read unbiased reviews on hotels.
-
-> [**HotelsCombined | Find Deals on Travel Accommodations**](https://www.hotelscombined.com)
-
-`#Free` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android`
-
-Find the best deals on travel accommodations with HotelsCombined. Compare prices from the top travel sites with just one search, and find your ideal place ...
-
-> [**KKday TOUR．EXPERIENCE．DISCOVER**](https://www.kkday.com)
-
-`#Free` `#Web` `#iOS` `#visionOS` `#Android`
-
-KKday provides all kinds of unique experiences. Scuba diving, rock climbing, cooking classes, secret sights, full day tour, tickets, charter service and ...
-
->[**Klook Travel - Activities, tours, attractions and things to do**](https://www.klook.com)
-
-`#Free` `#Web` `#iOS` `#visionOS` `#Android`
-
-Find discounted attraction tickets, tours with unique experiences, and more! Join local day tours to visit spectacular sights and go on delicious food trips ...
-
-> [**OpenTable: Restaurants and Restaurant Bookings**](https://www.opentable.com)
-
-`#Free` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android`
-
-Book online, read restaurant reviews from diners, and earn points towards free meals. OpenTable is a real-time online booking network for fine dining ...
-
-> [**Rakuten Travel: Book quality hotels and ryokans in Japan**](https://travel.rakuten.com)
-
-`#Free` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android`
-
-One of Japan's leading hotel booking platforms. Find and book quality accommodations for your next trip to Japan. Rakuten Travel makes it easy to find a ...
-
-> [**SeatGuru - Airline Seat Maps, Flights shopping and Flight information - Best Airplane Seats**](https://www.seatguru.com)
-
-`#Free` `#Web`
-
-The ultimate source for airplane seating, in-flight amenities, flights shopping and airline information.
-
-> [**Skyscanner | Compare Cheap Flights & Book Airline Tickets to Everywhere**](https://www.skyscanner.com)
-
-`#Free` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android`
-
-Compare cheap flight prices from all major airlines and travel agents, and find the cheapest tickets to all your favourite destinations. Book online today.
-
-> [**Travel with Google - Planning a Trip Is Simple with Google**](https://travel.google)
-
-`#Free` `#Web`
-
-Planning a trip takes fewer steps with Google. Explore cheap flights, compare hotels, & discover can't-miss sights & attractions with a simple search.
-
-> [**Trip.com Official Site‎‎ | Travel Deals and Promotions**](https://www.trip.com)
-
-`#Free` `#Web` `#iOS` `#iPadOS` `#Android`
-
-Choose from over 1.2 million hotels in more than 200 countries, 30 million real guest reviews. Book flights to over 5000 destinations worldwide.
-
-> [**Tripadvisor: Over a billion reviews & contributions for Hotels, Attractions, Restaurants, and more**](https://www.tripadvisor.com)
-
-`#Free` `#Web` `#iOS` `#iPadOS` `#tvOS` `#Android`
-
-Plan your next trip, read reviews and get travel advice from our community on where to stay and what to do. Find savings on hotels, book the perfect tour or ...
-
-> [**trivago.com - Compare hotel prices worldwide**](https://www.trivago.com)
-
-`#Free` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android`
-
-Search through 5 million hotels in just a few seconds. Compare confidently. Compare hotel prices from 100s of sites at once.
-
-[_back_](#table-of-contents)
-
----
-
 ## Online Learning
 
 > [**Coursera | Degrees, Certificates, & Free Online Courses**](https://www.coursera.org)
@@ -973,12 +903,6 @@ Dashlane is the secure way for businesses and individuals to protect passwords, 
 
 1Password is so much more than a password manager. View plans Talk to sales Security and productivity wrapped into one Secure every sign-in.
 
-> [**2FAS - the Internet's favorite open-source authenticator**](https://2fas.com)
-
-`#Open` `#Free` `#iOS` `#iPadOS` `#watchOS` `#Android` `#Chrome` `#Edge` `#Firefox` `#Safari`
-
-Meet your favorite 2FA app. We are an open-source, community-driven, private and simple solution for Internet's biggest threat - security breaches.
-
 [_back_](#table-of-contents)
 
 ---
@@ -1020,12 +944,6 @@ Our mission is to make the world more productive. To do this, we built one app t
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
 
 Make the impossible, possible in Jira. Plan, track, and release world-class software with the number one project management tool for agile teams.
-
-> [**Microsoft Outlook (formerly Hotmail): Free email and calendar | Microsoft 365**](https://www.microsoft.com/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook)
-
-`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android` `#Windows`
-
-Stay on top of multiple accounts with email, calendars, and contacts in one place. Available on desktop, mobile, and web. Sign in. Create free account.
 
 > [**Slack: AI Work Management & Productivity Tools**](https://slack.com)
 
@@ -1134,6 +1052,102 @@ A worthy successor to the Spectacle Mac app. Rectangle is nearly a complete drop
 `#Open` `#Free` `#Chrome` `#Edge` `#Firefox`
 
 uBlock Origin is not just an “ad blocker“, it's a wide-spectrum content blocker with CPU and memory efficiency as a primary feature.
+
+[_back_](#table-of-contents)
+
+---
+
+## Travel Booking
+
+> [**Agoda Official Site | Free Cancellation & Booking Deals | Over 2 Million Hotels**](https://www.agoda.com)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#Android`
+
+Book your perfect holiday with Agoda and enjoy our great discounts on hotels, homes, flights and activities. Get the Agoda app!
+
+> [**Booking.com | Official site | The best hotels, flights, car rentals & accommodations**](https://www.booking.com)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android`
+
+Explore the world with Booking.com. Big savings on homes, hotels, flights, car rentals, taxis, and attractions – build your perfect trip on any budget.
+
+> [**Expedia Travel: Vacation Homes, Hotels, Car Rentals, Flights & More**](https://www.expedia.com)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android`
+
+Expedia Travel: Search Hotels, Cheap Flights, Car Rentals & Vacations · Save 10% or more on over 100,000 hotels with Member Prices. · Discover your new favorite ...
+
+> [**Hotels.com - Deals & Discounts for Hotel Reservations from Luxury Hotels to Budget Accommodations**](https://www.hotels.com)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#Android`
+
+Hotels.com | Find cheap hotels and discounts when you book on Hotels.com. Compare hotel deals, offers and read unbiased reviews on hotels.
+
+> [**HotelsCombined | Find Deals on Travel Accommodations**](https://www.hotelscombined.com)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android`
+
+Find the best deals on travel accommodations with HotelsCombined. Compare prices from the top travel sites with just one search, and find your ideal place ...
+
+> [**KKday TOUR．EXPERIENCE．DISCOVER**](https://www.kkday.com)
+
+`#Free` `#Web` `#iOS` `#visionOS` `#Android`
+
+KKday provides all kinds of unique experiences. Scuba diving, rock climbing, cooking classes, secret sights, full day tour, tickets, charter service and ...
+
+>[**Klook Travel - Activities, tours, attractions and things to do**](https://www.klook.com)
+
+`#Free` `#Web` `#iOS` `#visionOS` `#Android`
+
+Find discounted attraction tickets, tours with unique experiences, and more! Join local day tours to visit spectacular sights and go on delicious food trips ...
+
+> [**OpenTable: Restaurants and Restaurant Bookings**](https://www.opentable.com)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android`
+
+Book online, read restaurant reviews from diners, and earn points towards free meals. OpenTable is a real-time online booking network for fine dining ...
+
+> [**Rakuten Travel: Book quality hotels and ryokans in Japan**](https://travel.rakuten.com)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android`
+
+One of Japan's leading hotel booking platforms. Find and book quality accommodations for your next trip to Japan. Rakuten Travel makes it easy to find a ...
+
+> [**SeatGuru - Airline Seat Maps, Flights shopping and Flight information - Best Airplane Seats**](https://www.seatguru.com)
+
+`#Free` `#Web`
+
+The ultimate source for airplane seating, in-flight amenities, flights shopping and airline information.
+
+> [**Skyscanner | Compare Cheap Flights & Book Airline Tickets to Everywhere**](https://www.skyscanner.com)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android`
+
+Compare cheap flight prices from all major airlines and travel agents, and find the cheapest tickets to all your favourite destinations. Book online today.
+
+> [**Travel with Google - Planning a Trip Is Simple with Google**](https://travel.google)
+
+`#Free` `#Web`
+
+Planning a trip takes fewer steps with Google. Explore cheap flights, compare hotels, & discover can't-miss sights & attractions with a simple search.
+
+> [**Trip.com Official Site‎‎ | Travel Deals and Promotions**](https://www.trip.com)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#Android`
+
+Choose from over 1.2 million hotels in more than 200 countries, 30 million real guest reviews. Book flights to over 5000 destinations worldwide.
+
+> [**Tripadvisor: Over a billion reviews & contributions for Hotels, Attractions, Restaurants, and more**](https://www.tripadvisor.com)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#tvOS` `#Android`
+
+Plan your next trip, read reviews and get travel advice from our community on where to stay and what to do. Find savings on hotels, book the perfect tour or ...
+
+> [**trivago.com - Compare hotel prices worldwide**](https://www.trivago.com)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android`
+
+Search through 5 million hotels in just a few seconds. Compare confidently. Compare hotel prices from 100s of sites at once.
 
 [_back_](#table-of-contents)
 
