@@ -33,7 +33,7 @@
   - [**Media Player**](#media-player)
   - [**Music Editing**](#music-editing)
   - [**Music Generation**](#music-generation)
-  - [**Note-taking**](#note-taking)
+  - [**Note Taking**](#note-taking)
   - [**Office Suite**](#office-suite)
   - [**Online Learning**](#online-learning)
   - [**Online Meeting**](#online-meeting)
@@ -44,6 +44,7 @@
   - [**Screen Recording**](#screen-recording)
   - [**Security Scanner**](#security-scanner)
   - [**System Settings**](#system-settings)
+  - [**To Do List**](#to-do-list)
   - [**Travel Booking**](#travel-booking)
   - [**User Interface Design**](#user-interface-design)
   - [**Video Editing**](#video-editing)
@@ -649,7 +650,7 @@ We are a team of musicians and artificial intelligence experts based in Cambridg
 
 ---
 
-## Note-taking
+## Note Taking
 
 > [**Anytype | The Everything App**](https://anytype.io)
 
@@ -746,12 +747,6 @@ The simplest way to keep notes. Light, clean, and free. Simplenote is now availa
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
 
 Standard Notes helps you gain control in a world that often feels out of control. Protect your life's work with end-to-end encryption, advanced security ...
-
-> [**Todoist | A To-Do List to Organize Your Work & Life**](https://todoist.com)
-
-`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
-
-Trusted by 30 million people and teams. Todoist is the world's favorite task manager and to-do list app. Finally become focused, organized and calm.
 
 > [**Xmind - Mind Mapping App**](https://xmind.app)
 
@@ -1052,6 +1047,24 @@ A worthy successor to the Spectacle Mac app. Rectangle is nearly a complete drop
 `#Open` `#Free` `#Chrome` `#Edge` `#Firefox`
 
 uBlock Origin is not just an “ad blocker“, it's a wide-spectrum content blocker with CPU and memory efficiency as a primary feature.
+
+[_back_](#table-of-contents)
+
+---
+
+## To Do List
+
+> [**Reminders - Apple iCloud**](https://www.icloud.com/reminders)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS`
+
+Create and view your reminders with Reminders on the web. Changes will sync across your devices with iCloud.
+
+> [**Todoist | A To-Do List to Organize Your Work & Life**](https://todoist.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
+
+Trusted by 30 million people and teams. Todoist is the world's favorite task manager and to-do list app. Finally become focused, organized and calm.
 
 [_back_](#table-of-contents)
 
