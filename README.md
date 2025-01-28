@@ -13,7 +13,7 @@
   <summary>Table of Contents</summary>
   <br>
 
-  - [**Artificial Intelligence**](#artificial-intelligence)
+  - [**Artificial Intelligence Assistant**](#artificial-intelligence-assistant)
   - [**Authenticator**](#authenticator)
   - [**Automation**](#automation)
   - [**Browser Extension**](#browser-extension)
@@ -22,6 +22,7 @@
   - [**Computer Programming**](#computer-programming)
   - [**Creative Suite**](#creative-suite)
   - [**Data Analysis**](#data-analysis)
+  - [**Diagramming**](#diagramming)
   - [**Digital Art**](#digital-art)
   - [**Document Editing**](#document-editing)
   - [**Email Account**](#email-account)
@@ -38,6 +39,7 @@
   - [**Online Learning**](#online-learning)
   - [**Online Meeting**](#online-meeting)
   - [**Password Manager**](#password-manager)
+  - [**Photo Editing**](#photo-editing)
   - [**Presentation**](#presentation)
   - [**Project Management**](#project-management)
   - [**Remote Desktop**](#remote-desktop)
@@ -54,6 +56,7 @@
   - [**Web Browser**](#web-browser)
   - [**Website Analysis**](#website-analysis)
   - [**Website Building**](#website-building)
+  - [**Workspace**](#workspace)
   - [**Writing Assistance**](#writing-assistance)
   - [**3D Design**](#3d-design)
   - [**Reference**](#reference)
@@ -62,7 +65,7 @@
 
 ---
 
-## Artificial Intelligence
+## Artificial Intelligence Assistant
 
 > [**character.ai | Personalized AI for every moment of your day**](https://character.ai)
 
@@ -81,6 +84,12 @@ ChatGPT on your desktop. Chat about email, screenshots, files, and anything on y
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
 
 Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work.
+
+> [**DeepSeek**](https://www.deepseek.com)
+
+`#Open` `#Free` `#Paid` `#Web` `#iOS` `#Android`
+
+DeepSeek, unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.
 
 > [**Felo - Your Free AI Search Engine**](https://felo.ai)
 
@@ -356,6 +365,24 @@ Tableau can help anyone see and understand their data. Connect to almost any dat
 
 ---
 
+## Diagramming
+
+> [**draw.io - Flowchart Maker & Online Diagram Software**](https://www.drawio.com)
+
+`#Free` `#Web` `#macOS` `#Windows` `#Linux`
+
+Powerful features. Collaborate with shared cursors in real-time. draw.io has everything you expect from a professional diagramming tool.
+
+> [**Xmind - Mind Mapping App**](https://xmind.app)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
+
+Xmind is the most professional and popular mind mapping tool. Millions of people use Xmind to clarify thinking, manage complex information, brainstorming, ...
+
+[_back_](#table-of-contents)
+
+---
+
 ## Digital Art
 
 > [**Inkscape - Draw Freely.**](https://inkscape.org)
@@ -526,35 +553,11 @@ Lucide has a lot of customization options to match the icons with your UI. Color
 
 ## Image Editing
 
-> [**darktable**](https://www.darktable.org)
-
-`#Open` `#Free` `#macOS` `#Windows` `#Linux`
-
-by photographers. darktable is created for photographers, by photographers. Having developers that are also avid photographers as part of the target audience is ...
-
-> [**Fotor | Photo Editor: Free Online Photo Editing & Image Editor**](https://www.fotor.com)
-
-`#Free` `#Paid` `#Web` `#iOS` `#macOS` `#visionOS` `#Android` `#Windows`
-
-Enhance and edit photos with Fotor's free online photo editor. Crop, add text & effects, retouch images, and more using powerful photo editing tools.
-
 > [**GIMP - GNU Image Manipulation Program**](https://www.gimp.org)
 
 `#Open` `#Free` `#macOS` `#Windows` `#Linux`
 
 GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software, you can change its source code ...
-
-> [**Photomator**](https://www.pixelmator.com/photomator)
-
-`#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
-
-Photomator is a powerful yet easy-to-use photo editor for Mac, iPhone, iPad, and Vision Pro. It includes an extensive collection of powerful color ...
-
-> [**Photopea | Online Photo Editor**](https://www.photopea.com)
-
-`#Free` `#Paid` `#Web`
-
-Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures. Do Online Photo Editing in your browser for ...
 
 > [**Pixelmator Pro**](https://www.pixelmator.com/pro)
 
@@ -652,23 +655,11 @@ We are a team of musicians and artificial intelligence experts based in Cambridg
 
 ## Note Taking
 
-> [**Anytype | The Everything App**](https://anytype.io)
-
-`#Open` `#Free` `#Paid` `#macOS` `#Windows` `#Linux` `#Chrome`
-
-The everything app for those who celebrate trust & autonomy. Local-first, crazy-fast loading times, peer-to-peer, secure & decentralized sync.
-
 > [**CollaNote: Notes & PDF Markup**](https://apps.apple.com/app/collanote-notes-pdf-markup/id1540956268)
 
 `#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
 
 Powerful note-taking app packed with a wide range of tools. Note-taking, PDF markup, digital planning, and flashcards - all in one place!
-
-> [**draw.io - Flowchart Maker & Online Diagram Software**](https://www.drawio.com)
-
-`#Free` `#Web` `#macOS` `#Windows` `#Linux`
-
-Powerful features. Collaborate with shared cursors in real-time. draw.io has everything you expect from a professional diagramming tool.
 
 > [**Evernote | Best Note Taking App - Organize Your Notes with Evernote**](https://evernote.com)
 
@@ -688,24 +679,6 @@ Freeform brings people together into a shared space for creativity, whether you'
 
 Discover Goodnotes 6, the AI note-taking app loved by millions around the world.
 
-> [**Microsoft Loop: Collaborative App | Microsoft 365**](https://loop.cloud.microsoft)
-
-`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android` `#Windows`
-
-Microsoft Loop is the next-generation cocreation experience that brings together teams, content, and tasks across your apps and devices.
-
-> [**Milanote - the tool for organizing creative projects**](https://milanote.com)
-
-`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Chrome` `#Firefox` `#Safari`
-
-Milanote is an easy-to-use tool to organize your ideas and projects into visual boards. Add notes, images, links and files, organize them visually and share ...
-
-> [**Miro | The Innovation Workspace**](https://miro.com)
-
-`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
-
-Miro is the innovation workspace where teams manage projects, design products, and build the future together. Join 80M+ users from around the world.
-
 > [**Notability**](https://notability.com)
 
 `#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
@@ -724,18 +697,6 @@ Notable provides a very powerful Markdown editor, it's the same one VS Code uses
 
 View, edit, create and share your notes with Notes on the web. Changes will sync across your devices with iCloud.
 
-> [**Notion: Your connected workspace for wiki, docs & projects**](https://www.notion.com)
-
-`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Chrome` `#Firefox` `#Safari`
-
-A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
-
-> [**Obsidian - Sharpen your thinking**](https://obsidian.md)
-
-`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
-
-Obsidian is the private and flexible note‑taking app that adapts to the way you think.
-
 > [**Simplenote**](https://simplenote.com)
 
 `#Open` `#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows` `#Linux`
@@ -747,12 +708,6 @@ The simplest way to keep notes. Light, clean, and free. Simplenote is now availa
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
 
 Standard Notes helps you gain control in a world that often feels out of control. Protect your life's work with end-to-end encryption, advanced security ...
-
-> [**Xmind - Mind Mapping App**](https://xmind.app)
-
-`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
-
-Xmind is the most professional and popular mind mapping tool. Millions of people use Xmind to clarify thinking, manage complex information, brainstorming, ...
 
 [_back_](#table-of-contents)
 
@@ -897,6 +852,36 @@ Dashlane is the secure way for businesses and individuals to protect passwords, 
 `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
 
 1Password is so much more than a password manager. View plans Talk to sales Security and productivity wrapped into one Secure every sign-in.
+
+[_back_](#table-of-contents)
+
+---
+
+## Photo Editing
+
+> [**darktable**](https://www.darktable.org)
+
+`#Open` `#Free` `#macOS` `#Windows` `#Linux`
+
+by photographers. darktable is created for photographers, by photographers. Having developers that are also avid photographers as part of the target audience is ...
+
+> [**Fotor | Photo Editor: Free Online Photo Editing & Image Editor**](https://www.fotor.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#macOS` `#visionOS` `#Android` `#Windows`
+
+Enhance and edit photos with Fotor's free online photo editor. Crop, add text & effects, retouch images, and more using powerful photo editing tools.
+
+> [**Photomator**](https://www.pixelmator.com/photomator)
+
+`#Paid` `#iOS` `#iPadOS` `#macOS` `#visionOS`
+
+Photomator is a powerful yet easy-to-use photo editor for Mac, iPhone, iPad, and Vision Pro. It includes an extensive collection of powerful color ...
+
+> [**Photopea | Online Photo Editor**](https://www.photopea.com)
+
+`#Free` `#Paid` `#Web`
+
+Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures. Do Online Photo Editing in your browser for ...
 
 [_back_](#table-of-contents)
 
@@ -1443,6 +1428,48 @@ WooCommerce is the open-source ecommerce platform that helps merchants and devel
 `#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
 
 Host with the best. When you create a site with WordPress.com, you get all of the power of lightning-fast, secure managed WordPress hosting.
+
+[_back_](#table-of-contents)
+
+---
+
+## Workspace
+
+> [**Anytype | The Everything App**](https://anytype.io)
+
+`#Open` `#Free` `#Paid` `#macOS` `#Windows` `#Linux` `#Chrome`
+
+The everything app for those who celebrate trust & autonomy. Local-first, crazy-fast loading times, peer-to-peer, secure & decentralized sync.
+
+> [**Microsoft Loop: Collaborative App | Microsoft 365**](https://loop.cloud.microsoft)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android` `#Windows`
+
+Microsoft Loop is the next-generation cocreation experience that brings together teams, content, and tasks across your apps and devices.
+
+> [**Milanote - the tool for organizing creative projects**](https://milanote.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Chrome` `#Firefox` `#Safari`
+
+Milanote is an easy-to-use tool to organize your ideas and projects into visual boards. Add notes, images, links and files, organize them visually and share ...
+
+> [**Miro | The Innovation Workspace**](https://miro.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
+
+Miro is the innovation workspace where teams manage projects, design products, and build the future together. Join 80M+ users from around the world.
+
+> [**Notion: Your connected workspace for wiki, docs & projects**](https://www.notion.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Chrome` `#Firefox` `#Safari`
+
+A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
+
+> [**Obsidian - Sharpen your thinking**](https://obsidian.md)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
+
+Obsidian is the private and flexible note‑taking app that adapts to the way you think.
 
 [_back_](#table-of-contents)
 
