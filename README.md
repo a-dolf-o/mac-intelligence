@@ -103,6 +103,12 @@ The multilingual AI search engine optimized for discovering and understanding wo
 
 Bard is now Gemini. Get help with writing, planning, learning, and more from Google AI.
 
+> [**Grok | xAI**](https://x.ai)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#Android`
+
+xAI is an AI company with the mission of advancing scientific discovery and gaining a deeper understanding of our universe.
+
 > [**Meta AI**](https://www.meta.ai)
 
 `#Free` `#Web`
@@ -234,6 +240,12 @@ Store files, chat, and meet – all in one place. MEGA brings cloud storage, fil
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
 
 Save your files and photos to OneDrive and access them from any device, anywhere. Learn more and get 5 GB of free personal cloud storage today.
+
+> [**NordLocker: Secure your files in a private file vault**](https://nordlocker.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#Android` `#Windows` `#Chrome` `#Edge` `#Firefox` `#Safari`
+
+Encrypted private vault is the easiest way to protect your files and keep them accessible. Secure all your files in a click with NordLocker.
 
 > [**pCloud - The Most Secure Cloud Storage**](https://www.pcloud.com)
 
@@ -372,6 +384,18 @@ Tableau can help anyone see and understand their data. Connect to almost any dat
 `#Free` `#Web` `#macOS` `#Windows` `#Linux`
 
 Powerful features. Collaborate with shared cursors in real-time. draw.io has everything you expect from a professional diagramming tool.
+
+> [**Lucid | The Leading Visual Collaboration Platform**](https://lucid.co)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#visionOS` `#Android`
+
+The Lucid Visual Collaboration Suite empowers teams to ideate, plan, design, build, and launch game-changing solutions—all from a shared infinite canvas.
+
+> [**Napkin AI - The visual AI for business storytelling**](https://www.napkin.ai)
+
+`#Free` `#Paid` `#Web`
+
+Just type, copy-paste or generate your text and Napkin will instantly transform it into insightful visuals. Make your communication more effective with ...
 
 > [**Xmind - Mind Mapping App**](https://xmind.app)
 
@@ -847,6 +871,12 @@ Bitwarden is the most trusted password manager for passwords and passkeys at hom
 
 Dashlane is the secure way for businesses and individuals to protect passwords, manage credentials, prevent breaches, and safeguard sensitive information in ...
 
+> [**NordPass: Securely Store, Manage & Autofill Passwords**](https://nordpass.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
+
+NordPass password manager remembers complex passwords, auto-fills logins and online forms and lets you access it all from anywhere.
+
 > [**1Password | Top-Rated Password Manager for Personal & Business Use**](https://1password.com)
 
 `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
@@ -919,11 +949,23 @@ Work anytime, anywhere with Asana. Keep remote and distributed teams, and your e
 
 Our mission is to make the world more productive. To do this, we built one app to replace them all - Tasks, Docs, Goals, and Chat.
 
+> [**Huly | Everything App for your teams**](https://huly.io)
+
+`#Open` `#Free` `#Paid` `#Web` `#macOS` `#Windows` `#Linux`
+
+Huly, an open-source platform, serves as an all-in-one replacement of Linear, Jira, Slack, and Notion.
+
 > [**Jira | Issue & Project Tracking Software | Atlassian**](https://www.atlassian.com/software/jira)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
 
 Make the impossible, possible in Jira. Plan, track, and release world-class software with the number one project management tool for agile teams.
+
+> [**Linear – Plan and build products**](https://linear.app)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
+
+Linear is a purpose-built tool for modern product development. Streamline issues, projects, and product roadmaps.
 
 > [**Slack: AI Work Management & Productivity Tools**](https://slack.com)
 
@@ -1189,6 +1231,12 @@ Free video editing tool everyone can use. Get started in your browser, download 
 
 DaVinci Resolve is the world's only all in one solution for editing, color, VFX, motion graphics and audio! The free version works with virtually all 8‑bit ...
 
+> [**Descript: Edit Videos & Podcasts Like a Doc | AI Video Editor**](https://www.descript.com)
+
+`#Free` `#Paid` `#Web` `#macOS` `#Windows`
+
+Edit your videos & podcasts just by typing. Descript's powerful AI editing tools let you make videos, podcasts, & short clips for social fast.
+
 > [**Final Cut Pro for Mac - Apple**](https://www.apple.com/final-cut-pro)
 
 `#Paid` `#macOS`
@@ -1212,6 +1260,12 @@ The video platform trusted by 287 million creatives, entrepreneurs, and business
 ---
 
 ## Video Generation
+
+> [**Runway | Tools for human imagination.**](https://runwayml.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#visionOS`
+
+Runway is an applied research company shaping the next era of art, entertainment and human creativity.
 
 > [**Sora | OpenAI**](https://openai.com/sora)
 
@@ -1440,6 +1494,12 @@ Host with the best. When you create a site with WordPress.com, you get all of th
 `#Open` `#Free` `#Paid` `#macOS` `#Windows` `#Linux` `#Chrome`
 
 The everything app for those who celebrate trust & autonomy. Local-first, crazy-fast loading times, peer-to-peer, secure & decentralized sync.
+
+> [**kuse - The way to work in the AI Era**](https://www.kuse.ai)
+
+`#Free` `#Paid` `#Web`
+
+An intuitive visual workspace for work, writing, and brainstorming with AI.
 
 > [**Microsoft Loop: Collaborative App | Microsoft 365**](https://loop.cloud.microsoft)
 
