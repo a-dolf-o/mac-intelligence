@@ -139,6 +139,12 @@ Perplexity is a free AI-powered answer engine that provides accurate, trusted, a
 
 ## Authenticator
 
+> [**Bitwarden Authenticator | Bitwarden**](https://bitwarden.com/products/authenticator)
+
+`#Open` `#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android`
+
+A simple authenticator to prove your identity online. Bitwarden offers a standalone app that generates and stores all your two-step verification tokens.
+
 > [**2FAS - the Internet's favorite open-source authenticator**](https://2fas.com)
 
 `#Open` `#Free` `#iOS` `#iPadOS` `#watchOS` `#Android` `#Chrome` `#Edge` `#Firefox` `#Safari`
