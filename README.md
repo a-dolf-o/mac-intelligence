@@ -45,6 +45,7 @@
   - [**Project Management**](#project-management)
   - [**Remote Desktop**](#remote-desktop)
   - [**Screen Recording**](#screen-recording)
+  - [**Search Engine**](#search-engine)
   - [**Security Scanner**](#security-scanner)
   - [**System Settings**](#system-settings)
   - [**To Do List**](#to-do-list)
@@ -211,6 +212,12 @@ Make Microsoft Edge your own with extensions and themes that help you personalis
 ---
 
 ## Calendar
+
+> [**Calendar - Apple iCloud**](https://www.icloud.com/calendar)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS`
+
+Organize your time, schedule events and share calendars with Calendar on the web. Changes will sync across your devices with iCloud.
 
 > [Proton Calendar | Organize your schedule privately with Proton Calendar](https://proton.me/calendar)
 
@@ -1069,6 +1076,42 @@ RustDesk offers an open-source remote desktop solution with self-hosted server o
 `#Open` `#Free` `#macOS` `#Windows` `#Linux`
 
 OBS (Open Broadcaster Software) is free and open source software for video recording and live streaming. Stream to Twitch, YouTube and many ...
+
+[_back_](#table-of-contents)
+
+---
+
+## Search Engine
+
+> [**Brave Search: Private Search Engine**](https://search.brave.com)
+
+`#Free` `#Web`
+
+Search the Web. Privately. Truly useful results, AI-powered answers, & more. All from an independent index. No profiling, no bias, no Big Tech.
+
+> [**Google Search**](https://search.google)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#Android`
+
+More ways to search · Find just what you're looking for faster · Translate text with your camera · Hum to find that song · Shop what you see with your camera.
+
+> [**Microsoft Bing: Search**](https://www.bing.com)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#Android`
+
+Search with Microsoft Bing and use the power of AI to find information, explore webpages, images, videos, maps, and more. A smart search engine for the ...
+
+> [**Presearch - The Community-powered, Decentralized Search Engine**](https://presearch.io)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Chrome` `#Firefox`
+
+Presearch is a decentralized search engine that provides search choice, quality results, privacy and rewards to those who want to end the search monopoly ...
+
+> [**Qwant - The search engine that values you as a user, not as a product**](https://www.qwant.com)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Chrome` `#Edge` `#Firefox` `#Safari`
+
+Fast, reliable answers and still in trust: Qwant does not store your search data, does not sell your personal data and is hosted in Europe.
 
 [_back_](#table-of-contents)
 
