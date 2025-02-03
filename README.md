@@ -219,7 +219,7 @@ Make Microsoft Edge your own with extensions and themes that help you personalis
 
 Organize your time, schedule events and share calendars with Calendar on the web. Changes will sync across your devices with iCloud.
 
-> [Proton Calendar | Organize your schedule privately with Proton Calendar](https://proton.me/calendar)
+> [**Proton Calendar | Organize your schedule privately with Proton Calendar**](https://proton.me/calendar)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows` `#Linux`
 
