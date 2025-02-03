@@ -17,6 +17,7 @@
   - [**Authenticator**](#authenticator)
   - [**Automation**](#automation)
   - [**Browser Extension**](#browser-extension)
+  - [**Calendar**](#calendar)
   - [**Cloud Storage**](#cloud-storage)
   - [**Color Scheme**](#color-scheme)
   - [**Computer Programming**](#computer-programming)
@@ -145,6 +146,12 @@ Perplexity is a free AI-powered answer engine that provides accurate, trusted, a
 
 A simple authenticator to prove your identity online. Bitwarden offers a standalone app that generates and stores all your two-step verification tokens.
 
+> [**Ente Auth - Open source 2FA authenticator, with E2EE backups**](https://ente.io/auth)
+
+`#Open` `#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
+
+Protect your accounts with Ente Auth - Free, open source, cross-platform 2FA authenticator, with end-to-end encrypted backups.
+
 > [**2FAS - the Internet's favorite open-source authenticator**](https://2fas.com)
 
 `#Open` `#Free` `#iOS` `#iPadOS` `#watchOS` `#Android` `#Chrome` `#Edge` `#Firefox` `#Safari`
@@ -203,6 +210,18 @@ Make Microsoft Edge your own with extensions and themes that help you personalis
 
 ---
 
+## Calendar
+
+> [Proton Calendar | Organize your schedule privately with Proton Calendar](https://proton.me/calendar)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows` `#Linux`
+
+Proton Calendar helps you stay on top of your schedule while encrypting and protecting your data. Available on Web, Android & iOS.
+
+[_back_](#table-of-contents)
+
+---
+
 ## Cloud Storage
 
 > [**Dropbox.com**](https://www.dropbox.com)
@@ -210,6 +229,12 @@ Make Microsoft Edge your own with extensions and themes that help you personalis
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
 
 Dropbox helps you simplify your workflow. So you can spend more time in your flow.
+
+> [**Ente - Private cloud storage for your photos, videos and more**](https://ente.io)
+
+`#Open` `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
+
+Protect your photos and videos with Ente - a secure, cross-platform, open source, encrypted photo storage app. Automatic backups, end-to-end encryption, ...
 
 > [**Google Drive: Share Files Online with Secure Cloud Storage**](https://workspace.google.com/products/drive)
 
@@ -258,6 +283,12 @@ Encrypted private vault is the easiest way to protect your files and keep them a
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox`
 
 pCloud is the most secure encrypted cloud storage, where you can store your personal files or backup your PC or share your business documents with your ...
+
+> [**Proton Drive: Free secure cloud storage**](https://proton.me/drive)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows`
+
+Secure cloud storage for what matters most. Encrypt, back up, and share the photos, videos, and files you can't live without. ... Proton Drive was built by the ...
 
 [_back_](#table-of-contents)
 
@@ -492,6 +523,12 @@ A locally hosted one-stop shop for all your PDF needs · Powerful PDF tools. Sti
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android` `#Windows`
 
 Stay on top of multiple accounts with email, calendars, and contacts in one place. Available on desktop, mobile, and web. Sign in. Create free account.
+
+> [**Proton Mail: Get a private, secure, and encrypted email account**](https://proton.me/mail)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows` `#Linux`
+
+Proton Mail is a free and secure email service that's powered by our community, not surveillance capitalism. Our free plan is supported by paid subscriptions ...
 
 [_back_](#table-of-contents)
 
@@ -882,6 +919,12 @@ Dashlane is the secure way for businesses and individuals to protect passwords, 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
 
 NordPass password manager remembers complex passwords, auto-fills logins and online forms and lets you access it all from anywhere.
+
+> [**Proton Pass: Free password manager with identity protection**](https://proton.me/pass)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
+
+Trusted by over 100 million people and businesses. ZDNET. Best free password manager for privacy. Proton Pass is a well-designed and highly secure password ...
 
 > [**1Password | Top-Rated Password Manager for Personal & Business Use**](https://1password.com)
 
@@ -1447,6 +1490,12 @@ Zen is based on Firefox, ensuring that your browsing experience prioritizes secu
 
 ## Website Analysis
 
+> [**Hotjar: Website Heatmaps & Behavior Analytics Tools**](https://www.hotjar.com)
+
+`#Free` `#Paid` `#Web`
+
+The next best thing to sitting beside someone browsing your site. See where they click, ask what they think, and learn why they drop off.
+
 > [**Microsoft Clarity - Free Heatmaps & Session Recordings**](https://clarity.microsoft.com)
 
 `#Free` `#Web` `#Chrome` `#Edge`
@@ -1465,11 +1514,29 @@ Clarity is a free user behavior analytics tool that helps you understand how use
 
 Elementor is the leading website builder platform for professionals and business owners on WordPress. Whether you're a developer, designer, marketer, or ...
 
+> [**Framer: The web builder for stunning sites.**](https://www.framer.com)
+
+`#Paid` `#Web` `#macOS` `#Windows`
+
+Design and publish modern sites at any scale with Framer's web builder.
+
 > [**Shopify**](https://www.shopify.com)
 
 `#Paid` `#Web` `#iOS` `#iPadOS` `#watchOS` `#Android`
 
 Try Shopify free and start a business or grow an existing one. Get more than ecommerce software with tools to manage every part of your business.
+
+> [**Webflow: Create a custom website | Visual website builder**](https://webflow.com)
+
+`#Free` `#Paid` `#Web`
+
+Create custom, responsive websites with the power of code — visually. Design and build your site with a flexible CMS and top-tier hosting. Try Webflow for ...
+
+> [**Weebly | Free Website Builder: Build a Free Website or Online Store**](https://www.weebly.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
+
+Weebly's free website builder makes it easy to create a website, blog, or online store. Find customizable templates, domains, and easy-to-use tools for any ...
 
 > [**Wix.com: Website Builder - Create a Free Website Today**](https://www.wix.com)
 
