@@ -184,6 +184,12 @@ A simple authenticator to prove your identity online. Bitwarden offers a standal
 
 Protect your accounts with Ente Auth - Free, open source, cross-platform 2FA authenticator, with end-to-end encrypted backups.
 
+> [**Microsoft Mobile Phone Authenticator App | Microsoft Security**](https://www.microsoft.com/security/mobile-authenticator-app)
+
+`#Free` `#iOS` `#iPadOS` `#visionOS` `#Android`
+
+Download Microsoft Authenticator. Use simple, fast, and highly secure two-factor authentication across apps. Install the app ...
+
 > [**2FAS - the Internet's favorite open-source authenticator**](https://2fas.com)
 
 `#Open` `#Free` `#iOS` `#iPadOS` `#watchOS` `#Android` `#Chrome` `#Edge` `#Firefox` `#Safari`
@@ -706,6 +712,12 @@ An independent research lab exploring new mediums of thought and expanding the i
 
 FREE AI Image Generator Create stunning images with PicLumen. Easy-to-use AI tools to visualize your imagination. Create your stunning AI images now with ...
 
+> [**Raphael - Free Unlimited AI Image Generator powered by FLUX.1-Dev**](https://raphael.app)
+
+`#Free` `#Web`
+
+Create stunning images with Raphael, the world's first completely free and unlimited AI Image Generator powered by FLUX.1-Dev model.
+
 [_back_](#table-of-contents)
 
 ---
@@ -838,7 +850,7 @@ Pages, Numbers, and Keynote let you collaborate on documents, spreadsheets, and 
 
 LibreOffice is a private, free and open source office suite – the successor project to OpenOffice. It's compatible with Microsoft Office/365 files (.doc, .docx, ...
 
-> [**Microsoft 365**](https://www.office.com)
+> [**Microsoft 365 Copilot**](https://www.office.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
 
