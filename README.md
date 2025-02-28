@@ -15,6 +15,7 @@
 
   - [**Android Emulator**](#android-emulator)
   - [**Artificial Intelligence Assistant**](#artificial-intelligence-assistant)
+  - [**Artificial Intelligence Studio**](#artificial-intelligence-studio)
   - [**Authenticator**](#authenticator)
   - [**Automation**](#automation)
   - [**Browser Extension**](#browser-extension)
@@ -154,17 +155,35 @@ Use Meta AI assistant to get things done, create AI-generated images for free, a
 
 Microsoft Copilot is your companion to inform, entertain, and inspire. Get advice, feedback, and straightforward answers. Try Copilot now.
 
-> [**Ollama**](https://ollama.com)
-
-`#Open` `#Free` `#Web` `#macOS` `#Windows` `#Linux`
-
-Get up and running with large language models.
-
 > [**Perplexity AI**](https://www.perplexity.ai)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Chrome`
 
 Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
+
+[_back_](#table-of-contents)
+
+---
+
+## Artificial Intelligence Studio
+
+> [**Google AI Studio**](https://aistudio.google.com)
+
+`#Free` `#Web`
+
+Google AI Studio is the fastest way to start building with Gemini, our next generation family of multimodal generative AI models.
+
+> [**Google Labs: Google's home for AI experiments - Google Labs**](https://labs.google)
+
+`#Free` `#Web`
+
+A new experimental tool that lets you use images as prompts to visualize your ideas and tell your story. Try it now.
+
+> [**Ollama**](https://ollama.com)
+
+`#Open` `#Free` `#Web` `#macOS` `#Windows` `#Linux`
+
+Get up and running with large language models.
 
 [_back_](#table-of-contents)
 
