@@ -167,6 +167,12 @@ Perplexity is a free AI-powered answer engine that provides accurate, trusted, a
 
 ## Artificial Intelligence Studio
 
+> [**ComfyUI | Generate video, images, audio with AI**](https://www.comfy.org)
+
+`#Open` `#Free` `#macOS` `#Windows`
+
+The most powerful open source node-based application for creating images, videos, and audio with GenAI. Playing in picture-in-picture. (opens a new window).
+
 > [**Google AI Studio**](https://aistudio.google.com)
 
 `#Free` `#Web`
@@ -1204,6 +1210,12 @@ Analyse suspicious files, domains, IPs and URLs to detect malware and other brea
 `#Free` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
 
 1.1.1.1 with WARP replaces the connection between your device and the Internet with a modern, optimized, protocol. Learn more Fast. Free. Private.
+
+> [**PairPods - easy Bluetooth audio sharing on macOS**](https://pairpods.app)
+
+`#Open` `#Free` `#macOS`
+
+PairPods allows you to share audio between exactly two Bluetooth output devices. This is an intentional design choice to keep the app simple and reliable.
 
 > [**Pearcleaner: A free, source-available and fair-code licensed mac app cleaner**](https://itsalin.com/appInfo/?id=pearcleaner)
 
