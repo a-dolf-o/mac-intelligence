@@ -1187,6 +1187,12 @@ Fast, reliable answers and still in trust: Qwant does not store your search data
 
 ## Security Scanner
 
+> [**Have I Been Pwned: Check if your email has been compromised in a data breach**](https://haveibeenpwned.com)
+
+`#Free` `#Web`
+
+Have I Been Pwned allows you to search across multiple data breaches to see if your email address or phone number has been compromised.
+
 > [**urlscan.io - URL and website scanner**](https://urlscan.io)
 
 `#Free` `#Paid` `#Web`
