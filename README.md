@@ -24,9 +24,11 @@
   - [**Color Scheme**](#color-scheme)
   - [**Computer Programming**](#computer-programming)
   - [**Creative Suite**](#creative-suite)
+  - [**Customer Relationship Management**](#customer-relationship-management)
   - [**Data Analysis**](#data-analysis)
   - [**Diagramming**](#diagramming)
   - [**Digital Art**](#digital-art)
+  - [**Digital Marketing**](#digital-marketing)
   - [**Document Editing**](#document-editing)
   - [**Email Account**](#email-account)
   - [**File Transfer**](#file-transfer)
@@ -471,6 +473,24 @@ Easily create professional-quality animations in-house. Accelerate your design p
 
 ---
 
+## Customer Relationship Management
+
+> [**HubSpot | Software & Tools for your Business**](https://www.hubspot.com)
+
+`#Free` `#Paid` `#Web`
+
+What is HubSpot? HubSpot is an AI-powered customer platform with all the software, integrations, and resources you need to connect your marketing, sales, and ...
+
+> [**Salesforce: The Customer Company**](https://www.salesforce.com)
+
+`#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
+
+Salesforce, the #1 AI CRM, enables companies to connect with customers through a unified Einstein 1 platform that combines CRM, AI, Data, and Trust.
+
+[_back_](#table-of-contents)
+
+---
+
 ## Data Analysis
 
 > [**Tableau: Business Intelligence and Analytics Software**](https://www.tableau.com)
@@ -538,6 +558,30 @@ Amplify your creativity with our powerful and intuitive apps, made for creative 
 `#Free` `#Paid` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
 
 SketchBook is sketching, painting, and illustration software for all platforms and devices. With professional-grade drawing tools in a beautiful interface, ...
+
+[_back_](#table-of-contents)
+
+---
+
+## Digital Marketing
+
+> [**Hootsuite: Social Media Marketing and Management Tool**](https://www.hootsuite.com)
+
+`#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
+
+Save time, simplify, and grow faster on social media. Hootsuite is designed to help you manage social media faster, smarter, and with way less effort.
+
+> [**Mailchimp: Marketing, Automation & Email Platform**](https://mailchimp.com)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#Android`
+
+#1 email marketing and automation platform: Mailchimp is the #1 email marketing and automation platform based on December 2023 publicly available data on ...
+
+> [**Sprout Social: Social Media Management Solutions**](https://sproutsocial.com)
+
+`#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android`
+
+Sprout's unified social media management platform enables your team to extract real business value, strengthen your market position and drive revenue—quickly.
 
 [_back_](#table-of-contents)
 
