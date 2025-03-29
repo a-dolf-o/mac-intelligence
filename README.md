@@ -1543,6 +1543,12 @@ Hide.me VPN offers privacy protection, wi-fi security, and encryption for a trul
 
 VPN stands for “virtual private network.” A VPN service gives you safe and private access to the internet. By encrypting your ...
 
+> [**Obscura VPN | Privacy that's more than a promise**](https://obscura.net)
+
+`#Paid` `#Web` `#macOS`
+
+Meet Obscura: the first VPN that can't log your activity and outsmarts internet censorship. Download for macOS
+
 > [**Proton VPN: The best VPN for speed and security**](https://protonvpn.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Firefox`
