@@ -2,7 +2,7 @@
 
 **Welcome to Mac Intelligence!**
 
-`#Open` `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#watchOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#watchOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
 
 <a name="table-of-contents"></a>
 
@@ -123,7 +123,7 @@ Claude is a next generation AI assistant built by Anthropic and trained to be sa
 
 > [**DeepSeek**](https://www.deepseek.com)
 
-`#Open` `#Free` `#Paid` `#Web` `#iOS` `#Android`
+`#Free` `#Paid` `#Web` `#iOS` `#Android`
 
 DeepSeek, unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.
 
@@ -171,7 +171,7 @@ Perplexity is a free AI-powered answer engine that provides accurate, trusted, a
 
 > [**ComfyUI | Generate video, images, audio with AI**](https://www.comfy.org)
 
-`#Open` `#Free` `#macOS` `#Windows`
+`#Free` `#macOS` `#Windows`
 
 The most powerful open source node-based application for creating images, videos, and audio with GenAI. Playing in picture-in-picture. (opens a new window).
 
@@ -189,7 +189,7 @@ A new experimental tool that lets you use images as prompts to visualize your id
 
 > [**Ollama**](https://ollama.com)
 
-`#Open` `#Free` `#Web` `#macOS` `#Windows` `#Linux`
+`#Free` `#Web` `#macOS` `#Windows` `#Linux`
 
 Get up and running with large language models.
 
@@ -201,13 +201,13 @@ Get up and running with large language models.
 
 > [**Bitwarden Authenticator | Bitwarden**](https://bitwarden.com/products/authenticator)
 
-`#Open` `#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android`
+`#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android`
 
 A simple authenticator to prove your identity online. Bitwarden offers a standalone app that generates and stores all your two-step verification tokens.
 
 > [**Ente Auth - Open source 2FA authenticator, with E2EE backups**](https://ente.io/auth)
 
-`#Open` `#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
+`#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
 
 Protect your accounts with Ente Auth - Free, open source, cross-platform 2FA authenticator, with end-to-end encrypted backups.
 
@@ -219,7 +219,7 @@ Download Microsoft Authenticator. Use simple, fast, and highly secure two-factor
 
 > [**2FAS - the Internet's favorite open-source authenticator**](https://2fas.com)
 
-`#Open` `#Free` `#iOS` `#iPadOS` `#watchOS` `#Android` `#Chrome` `#Edge` `#Firefox` `#Safari`
+`#Free` `#iOS` `#iPadOS` `#watchOS` `#Android` `#Chrome` `#Edge` `#Firefox` `#Safari`
 
 Meet your favorite 2FA app. We are an open-source, community-driven, private and simple solution for Internet's biggest threat - security breaches.
 
@@ -303,7 +303,7 @@ Dropbox helps you simplify your workflow. So you can spend more time in your flo
 
 > [**Ente - Private cloud storage for your photos, videos and more**](https://ente.io)
 
-`#Open` `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
 
 Protect your photos and videos with Ente - a secure, cross-platform, open source, encrypted photo storage app. Automatic backups, end-to-end encryption, ...
 
@@ -393,7 +393,7 @@ The Traditional Colors of Nippon (Japan). This site is optimized to Webkit.
 
 > [**Android Studio & App Tools - Android Developers**](https://developer.android.com/studio)
 
-`#Open` `#Free` `#Web` `#macOS` `#Windows` `#Linux`
+`#Free` `#Web` `#macOS` `#Windows` `#Linux`
 
 Android Studio provides app builders with an integrated development environment (IDE) optimized for Android apps. Download Android Studio today.
 
@@ -423,7 +423,7 @@ Replit is an AI-powered software development & deployment platform for building,
 
 > [**Shields.io**](https://shields.io)
 
-`#Open` `#Free` `#Web`
+`#Free` `#Web`
 
 Concise, consistent, and legible badges.
 
@@ -435,7 +435,7 @@ TestFlight makes it easy for testers to give feedback on your apps, games, and A
 
 > [**Visual Studio Code - Code Editing. Redefined**](https://code.visualstudio.com)
 
-`#Open` `#Free` `#Web` `#macOS` `#Windows` `#Linux`
+`#Free` `#Web` `#macOS` `#Windows` `#Linux`
 
 Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free and ...
 
@@ -537,13 +537,13 @@ Xmind is the most professional and popular mind mapping tool. Millions of people
 
 > [**Inkscape - Draw Freely.**](https://inkscape.org)
 
-`#Open` `#Free` `#Web` `#macOS` `#Windows` `#Linux`
+`#Free` `#Web` `#macOS` `#Windows` `#Linux`
 
 Whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery, Inkscape is for you!
 
 > [**Krita | Digital Painting. Creative Freedom.**](https://krita.org)
 
-`#Open` `#Free` `#macOS` `#Windows` `#Linux`
+`#Free` `#macOS` `#Windows` `#Linux`
 
 Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
 
@@ -621,7 +621,7 @@ PDFgear is a piece of full-featured PDF management software for Windows, Mac, an
 
 > [**Stirling PDF**](https://www.stirlingpdf.com)
 
-`#Open` `#Free` `#Paid` `#Web`
+`#Free` `#Paid` `#Web`
 
 A locally hosted one-stop shop for all your PDF needs · Powerful PDF tools. Stirling PDF provides you with powerful, easy to use tools to manage your PDF files.
 
@@ -651,19 +651,19 @@ Proton Mail is a free and secure email service that's powered by our community, 
 
 > [**LocalSend: Share files to nearby devices**](https://localsend.org)
 
-`#Open` `#Free` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
+`#Free` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
 
 LocalSend is a free, open-source, cross-platform file sharing tool that ... English, Español, فارسی, Filipino, Français, עברית, हिन्दी, Bahasa Indonesia ...
 
 > [**PairDrop | Transfer Files Cross-Platform. No Setup, No Signup.**](https://pairdrop.net)
 
-`#Open` `#Free` `#Web`
+`#Free` `#Web`
 
 Open PairDrop on other devices to send files. Pair devices or enter a public room to be discoverable on other networks.
 
 > [**ShareDrop | P2P file transfer**](https://www.sharedrop.io)
 
-`#Open` `#Free` `#Web`
+`#Free` `#Web`
 
 ShareDrop is a free, open-source web app that allows you to easily and securely share files directly between devices without uploading them to any server first.
 
@@ -687,7 +687,7 @@ Freepik's AI tools give you the power to create, enhance, and fine-tune your vis
 
 > [**Material Design 3 - Google's latest open source design system**](https://m3.material.io)
 
-`#Open` `#Free` `#Web`
+`#Free` `#Web`
 
 Material Design 3 - Google's open-source design system, provides comprehensive guidelines, styles, & components to create user-friendly interfaces.
 
@@ -717,13 +717,13 @@ Download Free Icons and Stickers for your projects. Resources made by and for de
 
 > [**Iconify Design: All popular icon sets, one framework.**](https://iconify.design)
 
-`#Open` `#Free` `#Web`
+`#Free` `#Web`
 
 License. Iconify is an open source project. Almost all parts of the project use MIT license. Some older packages use Apache 2.0 and/or GPL 2.0 licenses. This ...
 
 > [**Lucide**](https://lucide.dev)
 
-`#Open` `#Free` `#Web`
+`#Free` `#Web`
 
 Lucide has a lot of customization options to match the icons with your UI. Color.
 
@@ -735,7 +735,7 @@ Lucide has a lot of customization options to match the icons with your UI. Color
 
 > [**GIMP - GNU Image Manipulation Program**](https://www.gimp.org)
 
-`#Open` `#Free` `#macOS` `#Windows` `#Linux`
+`#Free` `#macOS` `#Windows` `#Linux`
 
 GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software, you can change its source code ...
 
@@ -747,7 +747,7 @@ Pixelmator Pro is an image editor designed to make the most powerful professiona
 
 > [**Upscayl - AI Image Upscaler**](https://upscayl.org)
 
-`#Open` `#Free` `#Web` `#macOS` `#Windows` `#Linux`
+`#Free` `#Web` `#macOS` `#Windows` `#Linux`
 
 An AI image upscaler that turns fuzzy photos into clear works of art! Easy to use and fun to say, it's the magic wand your images have been waiting for.
 
@@ -795,7 +795,7 @@ Create stunning images with Raphael, the world's first completely free and unlim
 
 > [**VideoLAN - Official download of VLC media player, the best Open Source player**](https://www.videolan.org)
 
-`#Open` `#Free` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#Android` `#Windows` `#Linux`
+`#Free` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#Android` `#Windows` `#Linux`
 
 VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files, and various streaming protocols. Download ...
 
@@ -807,7 +807,7 @@ VLC is a free and open source cross-platform multimedia player and framework tha
 
 > [**Audacity ® | Free Audio editor, recorder, music making and more!**](https://www.audacityteam.org)
 
-`#Open` `#Free` `#Web` `#macOS` `#Windows` `#Linux`
+`#Free` `#Web` `#macOS` `#Windows` `#Linux`
 
 Audacity is the world's most popular audio editing and recording app. Edit, mix, and enhance your audio tracks with the power of Audacity. Download now!
 
@@ -885,7 +885,7 @@ View, edit, create and share your notes with Notes on the web. Changes will sync
 
 > [**Simplenote**](https://simplenote.com)
 
-`#Open` `#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows` `#Linux`
+`#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows` `#Linux`
 
 The simplest way to keep notes. Light, clean, and free. Simplenote is now available for iOS, Android, Mac, and the web.
 
@@ -915,7 +915,7 @@ Pages, Numbers, and Keynote let you collaborate on documents, spreadsheets, and 
 
 > [**LibreOffice - Free and private office suite - Based on OpenOffice - Compatible with Microsoft**](https://www.libreoffice.org)
 
-`#Open` `#Free` `#macOS` `#Android` `#Windows` `#Linux`
+`#Free` `#macOS` `#Android` `#Windows` `#Linux`
 
 LibreOffice is a private, free and open source office suite – the successor project to OpenOffice. It's compatible with Microsoft Office/365 files (.doc, .docx, ...
 
@@ -927,7 +927,7 @@ Collaborate for free with online versions of Microsoft Word, PowerPoint, Excel, 
 
 > [**ONLYOFFICE - Secure Online Office**](https://www.onlyoffice.com)
 
-`#Open` `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
 
 ONLYOFFICE offers a secure online office suite highly compatible with MS Office formats. Connect it to your web platform for document editing and ...
 
@@ -1023,7 +1023,7 @@ Zoom helps consolidate communications, connect people, and collaborate better to
 
 > [**Bitwarden | Best Password Manager for Business, Enterprise & Personal**](https://bitwarden.com)
 
-`#Open` `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#watchOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
 
 Bitwarden is the most trusted password manager for passwords and passkeys at home or at work, on any browser or device. Start with a free trial.
 
@@ -1059,7 +1059,7 @@ Trusted by over 100 million people and businesses. ZDNET. Best free password man
 
 > [**darktable**](https://www.darktable.org)
 
-`#Open` `#Free` `#macOS` `#Windows` `#Linux`
+`#Free` `#macOS` `#Windows` `#Linux`
 
 by photographers. darktable is created for photographers, by photographers. Having developers that are also avid photographers as part of the target audience is ...
 
@@ -1119,7 +1119,7 @@ Our mission is to make the world more productive. To do this, we built one app t
 
 > [**Huly | Everything App for your teams**](https://huly.io)
 
-`#Open` `#Free` `#Paid` `#Web` `#macOS` `#Windows` `#Linux`
+`#Free` `#Paid` `#Web` `#macOS` `#Windows` `#Linux`
 
 Huly, an open-source platform, serves as an all-in-one replacement of Linear, Jira, Slack, and Notion.
 
@@ -1173,7 +1173,7 @@ Download Parallels to run Windows on Mac, Chrome, gain access to virtual desktop
 
 > [**RustDesk: Open-Source Remote Desktop with Self-Hosted Server Solutions**](https://rustdesk.com)
 
-`#Open` `#Free` `#Paid` `#Web` `#iOS` `#macOS` `#Android` `#Windows` `#Linux`
+`#Free` `#Paid` `#Web` `#iOS` `#macOS` `#Android` `#Windows` `#Linux`
 
 RustDesk offers an open-source remote desktop solution with self-hosted server options. Perfect TeamViewer alternative for secure, private, and customizable ...
 
@@ -1185,7 +1185,7 @@ RustDesk offers an open-source remote desktop solution with self-hosted server o
 
 > [**OBS | Open Broadcaster Software**](https://obsproject.com)
 
-`#Open` `#Free` `#macOS` `#Windows` `#Linux`
+`#Free` `#macOS` `#Windows` `#Linux`
 
 OBS (Open Broadcaster Software) is free and open source software for video recording and live streaming. Stream to Twitch, YouTube and many ...
 
@@ -1263,13 +1263,13 @@ Analyse suspicious files, domains, IPs and URLs to detect malware and other brea
 
 > [**PairPods - easy Bluetooth audio sharing on macOS**](https://pairpods.app)
 
-`#Open` `#Free` `#macOS`
+`#Free` `#macOS`
 
 PairPods allows you to share audio between exactly two Bluetooth output devices. This is an intentional design choice to keep the app simple and reliable.
 
 > [**Pearcleaner: A free, source-available and fair-code licensed mac app cleaner**](https://itsalin.com/appInfo/?id=pearcleaner)
 
-`#Open` `#Free` `#macOS`
+`#Free` `#macOS`
 
 A free, source-available and fair-code licensed Mac app cleaner inspired by Freemacsoft's AppCleaner and Sun Knudsen's Privacy Guides post on his app-cleaner ...
 
@@ -1281,13 +1281,13 @@ A collection of powerful productivity tools all within an extendable launcher. F
 
 > [**Rectangle Mac**](https://rectangleapp.com)
 
-`#Open` `#Free` `#Paid` `#macOS`
+`#Free` `#Paid` `#macOS`
 
 A worthy successor to the Spectacle Mac app. Rectangle is nearly a complete drop-in replacement for Spectacle. The Spectacle default shortcuts can be selected ...
 
 > [**uBlock Origin - Free, open-source ad content blocker.**](https://ublockorigin.com)
 
-`#Open` `#Free` `#Chrome` `#Edge` `#Firefox`
+`#Free` `#Chrome` `#Edge` `#Firefox`
 
 uBlock Origin is not just an “ad blocker“, it's a wide-spectrum content blocker with CPU and memory efficiency as a primary feature.
 
@@ -1497,13 +1497,13 @@ Sora is OpenAI's video generation model, designed to take text, image, and video
 
 > [**Oracle VirtualBox**](https://www.virtualbox.org)
 
-`#Open` `#Free` `#Web` `#macOS` `#Windows` `#Linux`
+`#Free` `#Web` `#macOS` `#Windows` `#Linux`
 
 VirtualBox is a general-purpose full virtualization software for x86_64 hardware (with version 7.1 additionally for macOS/Arm), targeted at laptop, desktop, ...
 
 > [**UTM | Virtual machines for Mac**](https://mac.getutm.app)
 
-`#Open` `#Free` `#iOS` `#iPadOS` `#macOS` `#visionOS`
+`#Free` `#iOS` `#iPadOS` `#macOS` `#visionOS`
 
 UTM employs Apple's Hypervisor virtualization framework to run ARM64 operating systems on Apple Silicon at near native speeds. On Intel Macs, x86/x64 operating ...
 
@@ -1593,7 +1593,7 @@ The Internet privacy company that empowers you to seamlessly take control of you
 
 > [**Firefox browser — Mozilla**](https://www.mozilla.org/firefox)
 
-`#Open` `#Free` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
+`#Free` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
 
 Firefox Browsers · Get the browser that puts your privacy first — and always has · Desktop · Mobile · Enterprise · One login. Everything Mozilla. · Company.
 
@@ -1605,7 +1605,7 @@ Chrome is the official web browser from Google, built to be fast, secure, and cu
 
 > [**LibreWolf**](https://librewolf.net)
 
-`#Open` `#Free` `#macOS` `#Windows` `#Linux`
+`#Free` `#macOS` `#Windows` `#Linux`
 
 What is LibreWolf?#. This project is a custom and independent version of Firefox, with the primary goals of privacy, security and user freedom. LibreWolf is ...
 
@@ -1641,7 +1641,7 @@ Stack is a spatial browser for mindful online living. Its sleek, uncluttered, an
 
 > [**Tor Project | Anonymity Online**](https://www.torproject.org)
 
-`#Open` `#Free` `#macOS` `#Android` `#Windows` `#Linux`
+`#Free` `#macOS` `#Android` `#Windows` `#Linux`
 
 We are the Tor Project, a 501(c)(3) US nonprofit. We advance human rights and defend your privacy online through free software and open networks.
 
@@ -1653,7 +1653,7 @@ It's a web browser. But fun. It comes with a bunch of clever features built-in. 
 
 > [**Zen Browser**](https://zen-browser.app)
 
-`#Open` `#Free` `#macOS` `#Windows` `#Linux`
+`#Free` `#macOS` `#Windows` `#Linux`
 
 Zen is based on Firefox, ensuring that your browsing experience prioritizes security and privacy. With advanced tracking protection and minimal data collection, ...
 
@@ -1683,7 +1683,7 @@ Clarity is a free user behavior analytics tool that helps you understand how use
 
 > [**Elementor: Website Builder — Create a Website Today**](https://elementor.com)
 
-`#Open` `#Free` `#Paid` `#Web`
+`#Free` `#Paid` `#Web`
 
 Elementor is the leading website builder platform for professionals and business owners on WordPress. Whether you're a developer, designer, marketer, or ...
 
@@ -1719,7 +1719,7 @@ Create your website and grow with confidence. From an intuitive website builder 
 
 > [**WooCommerce**](https://woocommerce.com)
 
-`#Open` `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#watchOS` `#Android`
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#watchOS` `#Android`
 
 WooCommerce is the open-source ecommerce platform that helps merchants and developers build successful businesses for the long term.
 
@@ -1737,7 +1737,7 @@ Host with the best. When you create a site with WordPress.com, you get all of th
 
 > [**Anytype | The Everything App**](https://anytype.io)
 
-`#Open` `#Free` `#Paid` `#macOS` `#Windows` `#Linux` `#Chrome`
+`#Free` `#Paid` `#macOS` `#Windows` `#Linux` `#Chrome`
 
 The everything app for those who celebrate trust & autonomy. Local-first, crazy-fast loading times, peer-to-peer, secure & decentralized sync.
 
@@ -1809,13 +1809,13 @@ Write effortlessly and efficiently with QuillBot's suite of AI tools. Paraphrase
 
 > [**blender.org - Home of the Blender project - Free and Open 3D Creation Software**](https://www.blender.org)
 
-`#Open` `#Free` `#macOS` `#Windows` `#Linux`
+`#Free` `#macOS` `#Windows` `#Linux`
 
 Blender's comprehensive array of modeling tools make creating, transforming and editing your models a breeze.
 
 > [**FreeCAD: Your own 3D parametric modeler**](https://www.freecad.org)
 
-`#Open` `#Free` `#macOS` `#Windows` `#Linux`
+`#Free` `#macOS` `#Windows` `#Linux`
 
 FreeCAD is an open-source parametric 3D modeler made primarily to design real-life objects of any size. Parametric modeling allows you to easily modify your ...
 
