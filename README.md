@@ -1249,6 +1249,12 @@ Fast, reliable answers and still in trust: Qwant does not store your search data
 
 Have I Been Pwned allows you to search across multiple data breaches to see if your email address or phone number has been compromised.
 
+> [**IP.me | What is my IP address? | Find my public IP address**](https://ip.me)
+
+`#Free` `#Web`
+
+Use our free IP address lookup tool to find your public IP address (IPv4 through IPv6) in just one click. Find your IP address now.
+
 > [**urlscan.io - URL and website scanner**](https://urlscan.io)
 
 `#Free` `#Paid` `#Web`
