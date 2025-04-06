@@ -31,6 +31,7 @@
   - [**Digital Marketing**](#digital-marketing)
   - [**Document Editing**](#document-editing)
   - [**Email Account**](#email-account)
+  - [**Email Alias**](#email-alias)
   - [**File Transfer**](#file-transfer)
   - [**Graphic Design**](#graphic-design)
   - [**Icon Design**](#icon-design)
@@ -654,6 +655,30 @@ Stay on top of multiple accounts with email, calendars, and contacts in one plac
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows` `#Linux`
 
 Proton Mail is a free and secure email service that's powered by our community, not surveillance capitalism. Our free plan is supported by paid subscriptions ...
+
+[_back_](#table-of-contents)
+
+---
+
+## Email Alias
+
+> [**addy.io - Free, Open-source Anonymous Email Forwarding**](https://addy.io)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Edge` `#Safari`
+
+We'll automatically create the alias in your dashboard as soon as it receives its first email. You can reply to emails and send from aliases anonymously too!
+
+> [**Forward Email | Free Email Forwarding for Custom Domains | Free Custom Domain Email Forwarding**](https://forwardemail.net)
+
+`#Free` `#Paid` `#Web`
+
+Setup encrypted email, free email forwarding, custom domains, private business email, and more with support for outbound SMTP, IMAP, and POP3.
+
+> [**SimpleLogin | Open source anonymous email service**](https://simplelogin.io)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Chrome` `#Edge` `#Firefox` `#Safari`
+
+SimpleLogin is an open source email alias solution to protect your email address. SimpleLogin is the product of Proton AG, registered in Switzerland under ...
 
 [_back_](#table-of-contents)
 
