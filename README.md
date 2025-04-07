@@ -248,6 +248,12 @@ Meet your favorite 2FA app. We are an open-source, community-driven, private and
 
 Automate your work. Make allows you to visually create, build and automate workflows. User friendly no-code integration tool. Try it now for free!
 
+> [**n8n - Powerful Workflow Automation Software & Tools**](https://n8n.io)
+
+`#Paid` `#Web`
+
+n8n is a beast for automation. self-hosting and low-code make it a dev's dream. if you're not automating yet, you're working too hard. ... It blows my mind. I was ...
+
 > [**Taskade: Autonomous AI Agents & Workflow Automation**](https://www.taskade.com)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Chrome` `#Edge` `#Firefox`
