@@ -674,6 +674,18 @@ Proton Mail is a free and secure email service that's powered by our community, 
 
 We'll automatically create the alias in your dashboard as soon as it receives its first email. You can reply to emails and send from aliases anonymously too!
 
+> [**DuckDuckGo Email | Email Protection Requires DuckDuckGo**](https://duckduckgo.com/email)
+
+`#Free` `#Web`
+
+Block trackers in your emails with a free Duck Address.
+
+> [**Firefox Relay**](https://relay.firefox.com)
+
+`#Free` `#Web`
+
+Our secure, easy-to-use email and phone masks help keep your identity private so you can sign up for new accounts anonymously, stop spam texts and junk calls.
+
 > [**Forward Email | Free Email Forwarding for Custom Domains | Free Custom Domain Email Forwarding**](https://forwardemail.net)
 
 `#Free` `#Paid` `#Web`
@@ -1634,17 +1646,23 @@ Experience a calmer, more personal internet in this browser designed for you. Le
 
 The Brave browser is a fast, private and secure web browser for PC, Mac and mobile. Download now to enjoy a faster ad-free browsing experience that saves ...
 
-> [**DuckDuckGo — Privacy, simplified.**](https://duckduckgo.com)
+> [**DuckDuckGo - Protection. Privacy. Peace of mind.**](https://duckduckgo.com)
 
 `#Free` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
 
-The Internet privacy company that empowers you to seamlessly take control of your personal information online, without any tradeoffs.
+DuckDuckGo lets you search and browse like you're used to, but (unlike Google) we never track you and our browser helps block trackers from companies that run ...
 
 > [**Firefox browser — Mozilla**](https://www.mozilla.org/firefox)
 
 `#Free` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux`
 
 Firefox Browsers · Get the browser that puts your privacy first — and always has · Desktop · Mobile · Enterprise · One login. Everything Mozilla. · Company.
+
+> [**Firefox Focus: The privacy browser**](https://www.mozilla.org/firefox/browsers/mobile/focus)
+
+`#Free` `#iOS` `#iPadOS` `#visionOS` `#Android`
+
+Firefox Focus is your dedicated privacy browser with automatic tracking protection. With Focus, your pages load faster and your data stays private. Firefox ...
 
 > [**Google Chrome - The Fast & Secure Web Browser Built to be Yours**](https://www.google.com/chrome)
 
