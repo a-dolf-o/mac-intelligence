@@ -1522,13 +1522,13 @@ Sketch is a toolkit made by designers, for designers, that puts the focus on you
 
 Search no more, Downie is what you're looking for. Easily download videos from thousands of different sites.
 
-> [**ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites**](https://github.com/ytdl-org/youtube-dl)
+> [**youtube-dl: Command-line program to download videos from YouTube.com and other video sites**](https://github.com/ytdl-org/youtube-dl)
 
 `#Free` `#macOS` `#Windows` `#Linux`
 
 youtube-dl is a command-line program to download videos from YouTube.com and a few more sites. It requires the Python interpreter, version 2.6, 2.7, or 3.2+, ...
 
-> [**yt-dlp/yt-dlp: A feature-rich command-line audio/video downloader**](https://github.com/yt-dlp/yt-dlp)
+> [**yt-dlp: A feature-rich command-line audio/video downloader**](https://github.com/yt-dlp/yt-dlp)
 
 `#Free` `#macOS` `#Windows` `#Linux`
 
