@@ -26,6 +26,7 @@
   - [**Creative Suite**](#creative-suite)
   - [**Customer Relationship Management**](#customer-relationship-management)
   - [**Data Analysis**](#data-analysis)
+  - [**Detection**](#detection)
   - [**Diagramming**](#diagramming)
   - [**Digital Art**](#digital-art)
   - [**Digital Marketing**](#digital-marketing)
@@ -522,6 +523,18 @@ Tableau can help anyone see and understand their data. Connect to almost any dat
 
 ---
 
+## Detection
+
+> [**Fakespot | Analyze and identify fake reviews and counterfeits**](https://www.fakespot.com)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Chrome` `#Firefox` `#Safari`
+
+Use AI to detect fake reviews and scams. Supported on Amazon, eBay, Walmart, Bestbuy, and many more. Add to Android - It's free. 1 million plus shoppers trust ...
+
+[_back_](#table-of-contents)
+
+---
+
 ## Diagramming
 
 > [**draw.io - Flowchart Maker & Online Diagram Software**](https://www.drawio.com)
@@ -661,6 +674,12 @@ Stay on top of multiple accounts with email, calendars, and contacts in one plac
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows` `#Linux`
 
 Proton Mail is a free and secure email service that's powered by our community, not surveillance capitalism. Our free plan is supported by paid subscriptions ...
+
+> [**Thunderbird — Free Your Inbox.**](https://www.thunderbird.net)
+
+`#Free` `#macOS` `#Android` `#Windows` `#Linux`
+
+Access all your messages, calendars, and contacts in one fast app. Filter and organize the way you like. Manage all accounts separately or in a unified inbox.
 
 [_back_](#table-of-contents)
 
@@ -1298,6 +1317,12 @@ Have I Been Pwned allows you to search across multiple data breaches to see if y
 
 Use our free IP address lookup tool to find your public IP address (IPv4 through IPv6) in just one click. Find your IP address now.
 
+> [**Mozilla Monitor**](https://monitor.mozilla.org)
+
+`#Free` `#Web`
+
+Find where your private info is exposed — and take it back. We scan to see if your phone number, passwords or home address have been leaked, ...
+
 > [**urlscan.io - URL and website scanner**](https://urlscan.io)
 
 `#Free` `#Paid` `#Web`
@@ -1597,6 +1622,12 @@ Protect your privacy, stream worldwide, and enjoy fast speeds with ExpressVPN. S
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox`
 
 Hide.me VPN offers privacy protection, wi-fi security, and encryption for a truly private web browser experience, regardless of your location. Try for free!
+
+> [**Mozilla VPN — Mozilla**](https://www.mozilla.org/products/vpn)
+
+`#Paid` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows` `#Linux`
+
+Use Mozilla VPN for full-device protection for all apps. With servers in 57+ countries, you can connect to anywhere, from anywhere.
 
 > [**NordVPN: The best VPN service for speed and security**](https://nordvpn.com)
 
