@@ -57,6 +57,7 @@
   - [**To Do List**](#to-do-list)
   - [**Travel Booking**](#travel-booking)
   - [**User Interface Design**](#user-interface-design)
+  - [**Video Download**](#video-download)
   - [**Video Editing**](#video-editing)
   - [**Video Generation**](#video-generation)
   - [**Virtual Machine**](#virtual-machine)
@@ -1508,6 +1509,30 @@ Figma is the leading collaborative design tool for building meaningful products.
 `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS`
 
 Sketch is a toolkit made by designers, for designers, that puts the focus on you and your work. Get started for free.
+
+[_back_](#table-of-contents)
+
+---
+
+## Video Download
+
+> [**Downie - YouTube Video Downloader for macOS**](https://software.charliemonroe.net/downie)
+
+`#Paid` `#macOS`
+
+Search no more, Downie is what you're looking for. Easily download videos from thousands of different sites.
+
+> [**ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites**](https://github.com/ytdl-org/youtube-dl)
+
+`#Free` `#macOS` `#Windows` `#Linux`
+
+youtube-dl is a command-line program to download videos from YouTube.com and a few more sites. It requires the Python interpreter, version 2.6, 2.7, or 3.2+, ...
+
+> [**yt-dlp/yt-dlp: A feature-rich command-line audio/video downloader**](https://github.com/yt-dlp/yt-dlp)
+
+`#Free` `#macOS` `#Windows` `#Linux`
+
+yt-dlp is a feature-rich command-line audio/video downloader with support for thousands of sites. The project is a fork of youtube-dl based on the now inactive ...
 
 [_back_](#table-of-contents)
 
