@@ -55,6 +55,7 @@
   - [**Security Scanner**](#security-scanner)
   - [**System Settings**](#system-settings)
   - [**To Do List**](#to-do-list)
+  - [**Translation**](#translation)
   - [**Travel Booking**](#travel-booking)
   - [**User Interface Design**](#user-interface-design)
   - [**Video Download**](#video-download)
@@ -1400,6 +1401,24 @@ Trusted by 30 million people and teams. Todoist is the world's favorite task man
 
 ---
 
+## Translation
+
+> [**DeepL Translate: The world's most accurate translator**](https://www.deepl.com/translator)
+
+`#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows` `#Chrome` `#Edge` `#Firefox`
+
+Translate texts & full document files instantly. Accurate translations for individuals and Teams. Millions translate with DeepL every day.
+
+> [**Google Translate**](https://translate.google.com)
+
+`#Free` `#Web` `#iOS` `#iPadOS` `#Android`
+
+Google's service, offered free of charge, instantly translates words, phrases, and web pages between English and over 100 other languages.
+
+[_back_](#table-of-contents)
+
+---
+
 ## Travel Booking
 
 > [**Agoda Official Site | Free Cancellation & Booking Deals | Over 2 Million Hotels**](https://www.agoda.com)
@@ -1906,11 +1925,11 @@ Obsidian is the private and flexible note‑taking app that adapts to the way yo
 
 ## Writing Assistance
 
-> [**DeepL Translate: The world's most accurate translator**](https://www.deepl.com)
+> [**DeepL Write: AI-powered writing companion**](https://www.deepl.com/write)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows` `#Chrome` `#Edge` `#Firefox`
 
-Translate texts & full document files instantly. Accurate translations for individuals and Teams. Millions translate with DeepL every day.
+Write with confidence, powered by AI. Get perfect spelling, grammar, and punctuation. Sound fluent, professional, and natural.
 
 > [**Grammarly: Free AI Writing Assistance**](https://www.grammarly.com)
 
