@@ -868,7 +868,7 @@ Create stunning images with Raphael, the world's first completely free and unlim
 
 ## Media Player
 
-> [**VideoLAN - Official download of VLC media player, the best Open Source player**](https://www.videolan.org)
+> [**VLC: Official site - Free multimedia solutions for all OS! - VideoLAN**](https://www.videolan.org)
 
 `#Free` `#iOS` `#iPadOS` `#macOS` `#tvOS` `#visionOS` `#Android` `#Windows` `#Linux`
 
