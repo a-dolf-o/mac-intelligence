@@ -26,7 +26,6 @@
   - [**Creative Suite**](#creative-suite)
   - [**Customer Relationship Management**](#customer-relationship-management)
   - [**Data Analysis**](#data-analysis)
-  - [**Detection**](#detection)
   - [**Diagramming**](#diagramming)
   - [**Digital Art**](#digital-art)
   - [**Digital Marketing**](#digital-marketing)
@@ -520,18 +519,6 @@ Salesforce, the #1 AI CRM, enables companies to connect with customers through a
 `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
 
 Tableau can help anyone see and understand their data. Connect to almost any database, drag and drop to create visualizations, and share with a click.
-
-[_back_](#table-of-contents)
-
----
-
-## Detection
-
-> [**Fakespot | Analyze and identify fake reviews and counterfeits**](https://www.fakespot.com)
-
-`#Free` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Chrome` `#Firefox` `#Safari`
-
-Use AI to detect fake reviews and scams. Supported on Amazon, eBay, Walmart, Bestbuy, and many more. Add to Android - It's free. 1 million plus shoppers trust ...
 
 [_back_](#table-of-contents)
 
