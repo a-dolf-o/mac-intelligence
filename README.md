@@ -162,7 +162,7 @@ xAI is an AI company with the mission of advancing scientific discovery and gain
 
 > [**Meta AI**](https://www.meta.ai)
 
-`#Free` `#Web`
+`#Free` `#Web` `#iOS` `#iPadOS` `#Android`
 
 Use Meta AI assistant to get things done, create AI-generated images for free, and get answers to any of your questions. Meta AI is built on Meta's...
 
