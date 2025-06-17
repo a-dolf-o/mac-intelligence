@@ -1114,6 +1114,12 @@ Dashlane is the secure way for businesses and individuals to protect passwords, 
 
 NordPass password manager remembers complex passwords, auto-fills logins and online forms and lets you access it all from anywhere.
 
+> [**pCloud Pass - Encrypted Password Manager**](https://www.pcloud.com/pass)
+
+`#Free` `#Paid` `#Web` `#iOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
+
+pCloud Pass helps you keep your passwords and gives you Instant SECURE access to them on all your devices. Log in to sites and fill forms with a single click.
+
 > [**Proton Pass: Free password manager with identity protection**](https://proton.me/pass)
 
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#visionOS` `#Android` `#Windows` `#Linux` `#Chrome` `#Edge` `#Firefox` `#Safari`
