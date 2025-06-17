@@ -418,6 +418,12 @@ The Traditional Colors of Nippon (Japan). This site is optimized to Webkit.
 
 Android Studio provides app builders with an integrated development environment (IDE) optimized for Android apps. Download Android Studio today.
 
+> [**Bolt.new**](https://bolt.new)
+
+`#Free` `#Paid` `#Web`
+
+Join the world's largest Hackathon! What do you want to build? Create stunning apps & websites by chatting with AI. Clear. Update. or import from. Figma. GitHub.
+
 > [**Cursor - The AI Code Editor**](https://www.cursor.com)
 
 `#Free` `#Paid` `#Web` `#macOS` `#Windows` `#Linux`
@@ -459,6 +465,12 @@ TestFlight makes it easy for testers to give feedback on your apps, games, and A
 `#Free` `#Web` `#macOS` `#Windows` `#Linux`
 
 Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free and ...
+
+> [**Windsurf (formerly Codeium) - The most powerful AI Code Editor**](https://windsurf.com)
+
+`#Free` `#Paid` `#Web` `#macOS` `#Windows` `#Linux`
+
+Windsurf (formerly Codeium) is the world's most advanced AI coding assistant for developers and enterprises. Windsurf Editor — the first AI-native IDE that ...
 
 > [**Xcode - Apple Developer**](https://developer.apple.com/xcode)
 
@@ -1509,6 +1521,12 @@ Search through 5 million hotels in just a few seconds. Compare confidently. Comp
 `#Free` `#Paid` `#Web` `#iOS` `#iPadOS` `#macOS` `#Android` `#Windows`
 
 Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single ...
+
+> [**Lovable**](https://lovable.dev)
+
+`#Free` `#Paid` `#Web`
+
+Build software products, using only a chat interface.
 
 > [**Sketch · Design, prototype, collaborate and handoff**](https://www.sketch.com)
 
