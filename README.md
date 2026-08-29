@@ -16,6 +16,7 @@
   - [**Document Edit**](#document-edit)
   - [**File Transfer**](#file-transfer)  
   - [**Media Player**](#media-player)  
+  - [**Office Suite**](#office-suite)  
   - [**Password Manage**](#password-manage)  
   - [**Presentation**](#presentation)  
   - [**System Setting**](#system-setting)
@@ -112,6 +113,24 @@ Instantly share images, videos, PDFs, and links with people nearby. Peer2Peer an
 > [**VLC: Official site - Free multimedia solutions for all OS! - VideoLAN**](https://www.videolan.org)
 
 VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
+
+[_back_](#table-of-contents)
+
+---
+
+## Office Suite
+
+> [**FreeOffice: The best free alternative to Microsoft Office**](https://www.freeoffice.com)
+
+FreeOffice is a complete Office suite with a word processor, a spreadsheet application and a presentation program – all seamlessly compatible with their ...
+
+> [**Microsoft 365 Copilot**](https://m365.cloud.microsoft)
+
+Draft in Word, analyze in Excel, and build decks in PowerPoint with AI that delivers finished work. Copilot is integrated into the Microsoft 365 ...
+
+> [**ONLYOFFICE - Secure Online Office**](https://www.onlyoffice.com)
+
+ONLYOFFICE offers a secure online office suite highly compatible with MS Office formats. Connect it to your web platform for document editing and ...
 
 [_back_](#table-of-contents)
 
