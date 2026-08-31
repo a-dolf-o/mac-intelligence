@@ -45,6 +45,10 @@ Audacity is the world's most popular audio editing and recording app. Edit, mix,
 
 Ente Photos is the private, secure photo storage app with end-to-end encryption. Cross-platform, open source, and self-hostable. Start with 10GB free.
 
+> [**MEGA: Protect your Online Privacy**](https://mega.io)
+
+MEGA offers 20 GB of free storage. Store files of any size, back up important folders, sync across devices, and share with full control and privacy.
+
 > [**pCloud - Secure Cloud Storage for Files, Photos & Documents**](https://www.pcloud.com)
 
 Store, sync, and share your files securely with pCloud. Get up to 10 GB of free secure cloud storage and access your files from any device, anywhere.
