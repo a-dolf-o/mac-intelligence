@@ -19,6 +19,7 @@
   - [**Note**](#note)
   - [**Office Suite**](#office-suite)
   - [**Password Manage**](#password-manage)
+  - [**Photo Edit**](#photo-edit)
   - [**Presentation**](#presentation)
   - [**System Setting**](#system-setting)
   - [**User Interface Design**](#user-interface-design)
@@ -178,6 +179,24 @@ Meet 2FAS, an Open-source and Source-available, community-driven, private, simpl
 
 ---
 
+## Photo Edit
+
+> [**darktable**](https://www.darktable.org)
+
+darktable is an open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers.
+
+> [**GIMP - GNU Image Manipulation Program**](https://www.gimp.org)
+
+GIMP is a high quality framework for scripted image manipulation, with multi-language support such as C, C++, Python, Scheme, and more!
+
+> [**Photopea | Online Photo Editor**](https://www.photopea.com)
+
+Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures. Do Online Photo Editing in your browser for ...
+
+[_back_](#table-of-contents)
+
+---
+
 ## Presentation
 
 > [**draw.io | Security-first diagramming for teams**](https://www.drawio.com)
@@ -217,10 +236,6 @@ Figma is the canvas where design, code, and AI come together. From first idea to
 ---
 
 ## Video Edit
-
-> [**CapCut AI Video Editor: Smart Online Video Editing with Advanced AI Tools**](https://www.capcut.com)
-
-Edit YouTube and Instagram videos with CapCut's AI-powered video editor, smart templates, and creative effects.
 
 > [**DaVinci Resolve | Blackmagic Design**](https://www.blackmagicdesign.com/products/davinciresolve)
 
