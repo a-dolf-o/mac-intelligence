@@ -9,20 +9,21 @@
   <summary>Table of Contents</summary>
   <br>
 
-  - [**Audio Edit**](#audio-edit)  
+  - [**Audio Edit**](#audio-edit)
   - [**Cloud Storage**](#cloud-storage)
   - [**Creative Suite**](#creative-suite)
-  - [**Digital Art**](#digital-art)  
+  - [**Digital Art**](#digital-art)
   - [**Document Edit**](#document-edit)
-  - [**File Transfer**](#file-transfer)  
-  - [**Media Player**](#media-player)  
-  - [**Office Suite**](#office-suite)  
-  - [**Password Manage**](#password-manage)  
-  - [**Presentation**](#presentation)  
+  - [**File Transfer**](#file-transfer)
+  - [**Media Player**](#media-player)
+  - [**Note**](#note)
+  - [**Office Suite**](#office-suite)
+  - [**Password Manage**](#password-manage)
+  - [**Presentation**](#presentation)
   - [**System Setting**](#system-setting)
-  - [**User Interface Design**](#user-interface-design)  
+  - [**User Interface Design**](#user-interface-design)
   - [**Video Edit**](#video-edit)
-  - [**Virtual Private Network**](#virtual-private-network)  
+  - [**Virtual Private Network**](#virtual-private-network)
   - [**3D Design**](#3d-design)
 
 </details>
@@ -123,6 +124,28 @@ VLC is a free and open source cross-platform multimedia player and framework tha
 
 ---
 
+## Note
+
+> [**Anytype — A safe haven for digital collaboration**](https://anytype.io)
+
+Create notes, tasks, databases, and chats that only you can access. Your data stays on your device — fully owned, secure, and private. Free to start.
+
+> [**CollaNote – Free Note-Taking App | PDF Markup, AI Tools, Flashcards**](https://www.collanote.com)
+
+CollaNote is a free note-taking app for iPad, iPhone and Mac. Handwriting with Apple Pencil, PDF markup, digital planners, flashcards and AI study tools, ...
+
+> [**Notion: The AI workspace that works for you.**](https://www.notion.com)
+
+Notion is an AI-powered all-in-one workspace that helps individuals and teams write notes, manage tasks, organize projects, and collaborate in one place.
+
+> [**Obsidian - Sharpen your thinking**](https://obsidian.md)
+
+Spark ideas. From personal notes to journaling, knowledge bases, and project management, Obsidian gives you the tools to come up with ideas and organize them.
+
+[_back_](#table-of-contents)
+
+---
+
 ## Office Suite
 
 > [**FreeOffice: The best free alternative to Microsoft Office**](https://www.freeoffice.com)
@@ -157,9 +180,17 @@ Meet 2FAS, an Open-source and Source-available, community-driven, private, simpl
 
 ## Presentation
 
+> [**draw.io | Security-first diagramming for teams**](https://www.drawio.com)
+
+Free, open source diagramming application with 100M+ users. Store your data wherever you want—we can't access it.
+
 > [**Gamma | Best AI Presentation Maker & Website Builder**](https://gamma.app)
 
 Design stunning presentations, websites, and more with Gamma—your all-in-one AI-powered design partner. No code or design experience needed.
+
+> [**Napkin AI - Turn Text into AI Diagrams and Visuals**](https://www.napkin.ai)
+
+Just paste your text, and Napkin AI instantly turns it into flowcharts, mind maps, infographics, diagrams, data charts & slides. No design skills needed.
 
 [_back_](#table-of-contents)
 
