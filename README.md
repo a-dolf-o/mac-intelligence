@@ -15,6 +15,7 @@
   - [**Digital Art**](#digital-art)
   - [**Document Edit**](#document-edit)
   - [**File Transfer**](#file-transfer)
+  - [**Image Generate**](#image-generate)
   - [**Media Player**](#media-player)
   - [**Note**](#note)
   - [**Office Suite**](#office-suite)
@@ -69,6 +70,10 @@ Enjoy the collection of professional creative software in Adobe Creative Cloud i
 
 Powerful, precise, and free forever. Discover Affinity — the next generation of professional photo, design, and layout software built for creative freedom.
 
+> [**Canva: Visual Suite for Everyone**](https://www.canva.com)
+
+Canva is a free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more.
+
 [_back_](#table-of-contents)
 
 ---
@@ -110,6 +115,16 @@ LocalSend is a free, open-source, cross-platform file sharing tool that allows y
 > [**PairDrop | Transfer Files Cross-Platform. No Setup, No Signup.**](https://pairdrop.net)
 
 Instantly share images, videos, PDFs, and links with people nearby. Peer2Peer and Open Source. No Setup, No Signup.
+
+[_back_](#table-of-contents)
+
+---
+
+## Image Generate
+
+> [**Leonardo.Ai - Generative AI Platform for Images, Art & Video**](https://leonardo.ai)
+
+Create images without limits. Generate high-quality visuals from simple prompts or custom models, tailored to your aesthetic and built to scale across concepts, ...
 
 [_back_](#table-of-contents)
 
