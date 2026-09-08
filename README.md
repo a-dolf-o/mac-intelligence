@@ -61,13 +61,13 @@ The independent browser that has your back. Firefox blocks trackers, has a free 
 
 Helium is a privacy-first browser that blocks ads and trackers by default, has a clean, minimal interface, and puts you in control. No bloat, no noise, ...
 
+> [**Orion Browser by Kagi**](https://orionbrowser.com)
+
+The only browser supporting Safari, Chrome, and Firefox extensions. We've curated 20 guaranteed-working extensions so you get the tools that matter, not the ...
+
 > [**Tor Project | Anonymity Online**](https://www.torproject.org)
 
 We believe everyone should be able to explore the internet with privacy. We are the Tor Project, a 501(c)(3) US nonprofit. We advance human rights and defend ...
-
-> [**Zen Browser**](https://zen-browser.app)
-
-welcome to a calmer internet. Beautifully designed, privacy-focused, and packed with features. We care about your experience, not your data.
 
 [_back_](#table-of-contents)
 
