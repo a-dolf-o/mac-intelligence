@@ -57,6 +57,10 @@ The Brave browser is a fast, private and secure web browser for PC, Mac and mobi
 
 The independent browser that has your back. Firefox blocks trackers, has a free built-in VPN, puts you in control of AI, and never sells your personal data.
 
+> [**Floorp Browser — Customization in everyone's hands.**](https://floorp.app)
+
+Floorp is an open source browser built on Firefox, with workspaces, split view, web panels, and more. Download FloorpExplore features. Floorp new tab page ...
+
 > [**Helium Browser**](https://helium.computer)
 
 Helium is a privacy-first browser that blocks ads and trackers by default, has a clean, minimal interface, and puts you in control. No bloat, no noise, ...
@@ -68,6 +72,10 @@ The only browser supporting Safari, Chrome, and Firefox extensions. We've curate
 > [**Tor Project | Anonymity Online**](https://www.torproject.org)
 
 We believe everyone should be able to explore the internet with privacy. We are the Tor Project, a 501(c)(3) US nonprofit. We advance human rights and defend ...
+
+> [**Zen Browser**](https://zen-browser.app)
+
+welcome to a calmer internet. Beautifully designed, privacy-focused, and packed with features. We care about your experience, not your data.
 
 [_back_](#table-of-contents)
 
