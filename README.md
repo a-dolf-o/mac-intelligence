@@ -10,6 +10,7 @@
   <br>
 
   - [**Audio Edit**](#audio-edit)
+  - [**Browser**](#browser)
   - [**Cloud Storage**](#cloud-storage)
   - [**Creative Suite**](#creative-suite)
   - [**Digital Art**](#digital-art)
@@ -37,6 +38,36 @@
 > [**Audacity ® | Free Audio editor, recorder, music making and more!**](https://www.audacityteam.org)
 
 Audacity is the world's most popular audio editing and recording app. Edit, mix, and enhance your audio tracks with the power of Audacity.
+
+[_back_](#table-of-contents)
+
+---
+
+## Browser
+
+> [**Arc from The Browser Company**](https://arc.net)
+
+Experience a calmer, more personal internet in this browser designed for you. Let go of the clicks, the clutter, the distractions with the Arc browser.
+
+> [**Brave: The browser that puts you first**](https://brave.com)
+
+The Brave browser is a fast, private and secure web browser for PC, Mac and mobile. Download now to enjoy a faster ad-free browsing experience that saves ...
+
+> [**Firefox: The fast, private browser that keeps you safe — Firefox.com**](https://www.firefox.com)
+
+The independent browser that has your back. Firefox blocks trackers, has a free built-in VPN, puts you in control of AI, and never sells your personal data.
+
+> [**Helium Browser**](https://helium.computer)
+
+Helium is a privacy-first browser that blocks ads and trackers by default, has a clean, minimal interface, and puts you in control. No bloat, no noise, ...
+
+> [**Tor Project | Anonymity Online**](https://www.torproject.org)
+
+We believe everyone should be able to explore the internet with privacy. We are the Tor Project, a 501(c)(3) US nonprofit. We advance human rights and defend ...
+
+> [**Zen Browser**](https://zen-browser.app)
+
+welcome to a calmer internet. Beautifully designed, privacy-focused, and packed with features. We care about your experience, not your data.
 
 [_back_](#table-of-contents)
 
