@@ -18,6 +18,7 @@
   - [**File Transfer**](#file-transfer)
   - [**Image Generate**](#image-generate)
   - [**Media Player**](#media-player)
+  - [**Meeting**](#meeting)
   - [**Note**](#note)
   - [**Office Suite**](#office-suite)
   - [**Password Manage**](#password-manage)
@@ -174,6 +175,16 @@ Create images without limits. Generate high-quality visuals from simple prompts 
 > [**VLC: Official site - Free multimedia solutions for all OS! - VideoLAN**](https://www.videolan.org)
 
 VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
+
+[_back_](#table-of-contents)
+
+---
+
+## Meeting
+
+> [**Zoom: One platform to connect**](https://www.zoom.com)
+
+Modernize workflows with Zoom's trusted collaboration tools: including video meetings, Zoom Chat, VoIP phone, webinars, whiteboard, contact center, ...
 
 [_back_](#table-of-contents)
 
