@@ -282,6 +282,10 @@ Just paste your text, and Napkin AI instantly turns it into flowcharts, mind map
 
 ## System Setting
 
+> [**LaunchOS for Mac — Best Launchpad Alternative for macOS 26 & 27**](https://launchosapp.com)
+
+LaunchOS is the best Launchpad alternative for macOS 26 Tahoe and macOS 27 Golden Gate. Restore your familiar app grid, folders, and custom layout.
+
 > [**Raycast - Your shortcut to everything**](https://www.raycast.com)
 
 What else can Raycast do? It can take notes. Track your flights. Convert anything. Search files. Run scripts. Manage your windows. Plan your day. Remind you of ...
