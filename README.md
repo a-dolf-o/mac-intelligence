@@ -215,10 +215,6 @@ Notion is an AI-powered all-in-one workspace that helps individuals and teams wr
 
 ## Password Manage
 
-> [**Bitwarden | Best Password Manager for Business, Enterprise & Personal**](https://bitwarden.com)
-
-Bitwarden is the trusted, open source password manager for individuals, teams, and enterprises. Securely store, share, and manage passwords, passkeys, ...
-
 > [**2FAS — Authenticator and Password Manager**](https://2fas.com)
 
 Meet 2FAS, an Open-source and Source-available, community-driven, private, simple and secure solution for the Internet's security.
