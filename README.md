@@ -290,6 +290,10 @@ LaunchOS is the best Launchpad alternative for macOS 26 Tahoe and macOS 27 Golde
 
 What else can Raycast do? It can take notes. Track your flights. Convert anything. Search files. Run scripts. Manage your windows. Plan your day. Remind you of ...
 
+> [**Rectangle**](https://rectangleapp.com)
+
+Move and resize windows in macOS using keyboard shortcuts or snap areas. The official page for Rectangle.
+
 [_back_](#table-of-contents)
 
 ---
