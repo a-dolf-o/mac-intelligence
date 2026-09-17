@@ -11,7 +11,7 @@
 
   - [**AI Assistant**](#ai-assistant)
   - [**Audio Edit**](#audio-edit)
-  - [**Automate**](#automate)
+  - [**Automation**](#automation)
   - [**Browser**](#browser)
   - [**Cloud Storage**](#cloud-storage)
   - [**Creative Suite**](#creative-suite)
@@ -25,7 +25,7 @@
   - [**Office Suite**](#office-suite)
   - [**Password Manage**](#password-manage)
   - [**Photo Edit**](#photo-edit)
-  - [**Present**](#present)
+  - [**Presentation**](#presentation)
   - [**System Setting**](#system-setting)
   - [**UI Design**](#ui-design)
   - [**Video Edit**](#video-edit)
@@ -60,7 +60,7 @@ Audacity is the world's most popular audio editing and recording app. Edit, mix,
 
 ---
 
-## Automate
+## Automation
 
 > [**n8n - AI Workflow Automation Platform**](https://n8n.io)
 
@@ -256,7 +256,7 @@ Photopea Online Photo Editor lets you edit photos, apply effects, filters, add t
 
 ---
 
-## Present
+## Presentation
 
 > [**draw.io | Security-first diagramming for teams**](https://www.drawio.com)
 
