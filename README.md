@@ -318,6 +318,10 @@ Figma is the canvas where design, code, and AI come together. From first idea to
 
 DaVinci Resolve is the world's only all in one solution for editing, color, VFX, motion graphics and audio! The free version works with virtually all 8-bit ...
 
+> [**OpenCut**](https://opencut.app)
+
+A simple but powerful video editor that gets the job done. Works on any platform. Try early beta. OpenCut. The privacy-first video editor that feels ...
+
 [_back_](#table-of-contents)
 
 ---
