@@ -114,6 +114,10 @@ Powerful, precise, and free forever. Discover Affinity — the next generation o
 
 Canva is a free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more.
 
+> [**Microsoft Designer - Stunning designs in a flash**](https://designer.microsoft.com)
+
+A graphic design app that helps you create professional quality social media posts, invitations, digital postcards, graphics, and more.
+
 [_back_](#table-of-contents)
 
 ---
