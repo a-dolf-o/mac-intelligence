@@ -322,6 +322,10 @@ DaVinci Resolve is the world's only all in one solution for editing, color, VFX,
 
 A simple but powerful video editor that gets the job done. Works on any platform. Try early beta. OpenCut. The privacy-first video editor that feels ...
 
+> [**YouTube Create: Editing & Production Tools | YouTube for Creators**](https://www.youtube.com/creators/create/youtube-create-app)
+
+Edit videos easily with the free YouTube Create app. Discover features, production tools, and editing effects to make high-quality content right from your ...
+
 [_back_](#table-of-contents)
 
 ---
