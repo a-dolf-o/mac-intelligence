@@ -9,8 +9,9 @@
   <summary>Table of Contents</summary>
   <br>
 
+  - [**AI Assistant**](#ai-assistant)
   - [**Audio Edit**](#audio-edit)
-  - [**Automation**](#automation)
+  - [**Automate**](#automate)
   - [**Browser**](#browser)
   - [**Cloud Storage**](#cloud-storage)
   - [**Creative Suite**](#creative-suite)
@@ -24,14 +25,28 @@
   - [**Office Suite**](#office-suite)
   - [**Password Manage**](#password-manage)
   - [**Photo Edit**](#photo-edit)
-  - [**Presentation**](#presentation)
+  - [**Present**](#present)
   - [**System Setting**](#system-setting)
-  - [**User Interface Design**](#user-interface-design)
+  - [**UI Design**](#ui-design)
   - [**Video Edit**](#video-edit)
-  - [**Virtual Private Network**](#virtual-private-network)
+  - [**VPN**](#vpn)
   - [**3D Design**](#3d-design)
 
 </details>
+
+---
+
+## AI Assistant
+
+> [**ChatGPT: Chat, Work, Create & Code with AI**](https://chatgpt.com)
+
+Use ChatGPT to answer questions, write, create images, complete work, and code—all in one place. Get started for free or download the app.
+
+> [**Claude**](https://claude.ai)
+
+Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work. Create with ...
+
+[_back_](#table-of-contents)
 
 ---
 
@@ -45,7 +60,7 @@ Audacity is the world's most popular audio editing and recording app. Edit, mix,
 
 ---
 
-## Automation
+## Automate
 
 > [**n8n - AI Workflow Automation Platform**](https://n8n.io)
 
@@ -241,7 +256,7 @@ Photopea Online Photo Editor lets you edit photos, apply effects, filters, add t
 
 ---
 
-## Presentation
+## Present
 
 > [**draw.io | Security-first diagramming for teams**](https://www.drawio.com)
 
@@ -273,7 +288,7 @@ Move and resize windows in macOS using keyboard shortcuts or snap areas. The off
 
 ---
 
-## User Interface Design
+## UI Design
 
 > [**Figma: The collaborative canvas for design, code, and AI**](https://www.figma.com)
 
@@ -305,7 +320,7 @@ Edit videos easily with the free YouTube Create app. Discover features, producti
 
 ---
 
-## Virtual Private Network
+## VPN
 
 > [**hide.me | World's Fastest VPN and Privacy Protection**](https://hide.me)
 
