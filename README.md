@@ -57,25 +57,9 @@ n8n is a workflow automation platform that uniquely combines AI capabilities wit
 
 ## Browser
 
-> [**Arc from The Browser Company**](https://arc.net)
-
-Experience a calmer, more personal internet in this browser designed for you. Let go of the clicks, the clutter, the distractions with the Arc browser.
-
 > [**Brave: The browser that puts you first**](https://brave.com)
 
 The Brave browser is a fast, private and secure web browser for PC, Mac and mobile. Download now to enjoy a faster ad-free browsing experience that saves ...
-
-> [**Firefox: The fast, private browser that keeps you safe — Firefox.com**](https://www.firefox.com)
-
-The independent browser that has your back. Firefox blocks trackers, has a free built-in VPN, puts you in control of AI, and never sells your personal data.
-
-> [**Floorp Browser — Customization in everyone's hands.**](https://floorp.app)
-
-Floorp is an open source browser built on Firefox, with workspaces, split view, web panels, and more. Download FloorpExplore features. Floorp new tab page ...
-
-> [**Helium Browser**](https://helium.computer)
-
-Helium is a privacy-first browser that blocks ads and trackers by default, has a clean, minimal interface, and puts you in control. No bloat, no noise, ...
 
 > [**Orion Browser by Kagi**](https://orionbrowser.com)
 
@@ -84,10 +68,6 @@ The only browser supporting Safari, Chrome, and Firefox extensions. We've curate
 > [**Tor Project | Anonymity Online**](https://www.torproject.org)
 
 We believe everyone should be able to explore the internet with privacy. We are the Tor Project, a 501(c)(3) US nonprofit. We advance human rights and defend ...
-
-> [**Zen Browser**](https://zen-browser.app)
-
-welcome to a calmer internet. Beautifully designed, privacy-focused, and packed with features. We care about your experience, not your data.
 
 [_back_](#table-of-contents)
 
@@ -207,31 +187,15 @@ Modernize workflows with Zoom's trusted collaboration tools: including video mee
 
 ## Note
 
-> [**Anytype — A safe haven for digital collaboration**](https://anytype.io)
-
-Create notes, tasks, databases, and chats that only you can access. Your data stays on your device — fully owned, secure, and private. Free to start.
-
 > [**CollaNote – Free Note-Taking App | PDF Markup, AI Tools, Flashcards**](https://www.collanote.com)
 
 CollaNote is a free note-taking app for iPad, iPhone and Mac. Handwriting with Apple Pencil, PDF markup, digital planners, flashcards and AI study tools, ...
-
-> [**Notion: The AI workspace that works for you.**](https://www.notion.com)
-
-Notion is an AI-powered all-in-one workspace that helps individuals and teams write notes, manage tasks, organize projects, and collaborate in one place.
-
-> [**Obsidian - Sharpen your thinking**](https://obsidian.md)
-
-Spark ideas. From personal notes to journaling, knowledge bases, and project management, Obsidian gives you the tools to come up with ideas and organize them.
 
 [_back_](#table-of-contents)
 
 ---
 
 ## Office Suite
-
-> [**FreeOffice: The best free alternative to Microsoft Office**](https://www.freeoffice.com)
-
-FreeOffice is a complete Office suite with a word processor, a spreadsheet application and a presentation program – all seamlessly compatible with their ...
 
 > [**Google Workspace: Secure Online Productivity & Collaboration Tools**](https://workspace.google.com)
 
@@ -241,9 +205,9 @@ Learn how the suite of secure, online tools from Google Workspace empowers teams
 
 Draft in Word, analyze in Excel, and build decks in PowerPoint with AI that delivers finished work. Copilot is integrated into the Microsoft 365 ...
 
-> [**ONLYOFFICE - Secure Online Office**](https://www.onlyoffice.com)
+> [**Notion: The AI workspace that works for you.**](https://www.notion.com)
 
-ONLYOFFICE offers a secure online office suite highly compatible with MS Office formats. Connect it to your web platform for document editing and ...
+Notion is an AI-powered all-in-one workspace that helps individuals and teams write notes, manage tasks, organize projects, and collaborate in one place.
 
 [_back_](#table-of-contents)
 
