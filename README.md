@@ -172,6 +172,10 @@ Instantly share images, videos, PDFs, and links with people nearby. Peer2Peer an
 
 ## Image Generate
 
+> [**Comfy - Professional Control of Visual AI**](https://comfy.org)
+
+Comfy is the AI creation engine for visual professionals who demand control over every model, every parameter, and every output.
+
 > [**Leonardo.Ai - Generative AI Platform for Images, Art & Video**](https://leonardo.ai)
 
 Create images without limits. Generate high-quality visuals from simple prompts or custom models, tailored to your aesthetic and built to scale across concepts, ...
