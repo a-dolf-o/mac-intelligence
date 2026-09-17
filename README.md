@@ -46,6 +46,10 @@ Use ChatGPT to answer questions, write, create images, complete work, and codeâ€
 
 Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work. Create with ...
 
+> [**Ollama**](https://ollama.com)
+
+Run open models. Get more usage. Ollama lets you use open models with your coding agents so you can spend less while keeping your data private.
+
 [_back_](#table-of-contents)
 
 ---
