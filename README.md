@@ -341,10 +341,6 @@ Protect your privacy, stream global content, and mask your location with the bes
 
 Blender's comprehensive array of modeling tools make creating, transforming and editing your models a breeze.
 
-> [**Spline - 3D Design tool in the browser with real-time collaboration**](https://spline.design)
-
-Spline is a free 3D design software with real-time collaboration to create web interactive experiences in the browser. Easy 3d modeling, animation, ...
-
 [_back_](#table-of-contents)
 
 ---
