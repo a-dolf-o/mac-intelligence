@@ -218,6 +218,10 @@ Spark ideas. From personal notes to journaling, knowledge bases, and project man
 
 FreeOffice is a complete Office suite with a word processor, a spreadsheet application and a presentation program – all seamlessly compatible with their ...
 
+> [**Google Workspace: Secure Online Productivity & Collaboration Tools**](https://workspace.google.com)
+
+Learn how the suite of secure, online tools from Google Workspace empowers teams of all sizes to do their best work.
+
 > [**Microsoft 365 Copilot**](https://m365.cloud.microsoft)
 
 Draft in Word, analyze in Excel, and build decks in PowerPoint with AI that delivers finished work. Copilot is integrated into the Microsoft 365 ...
