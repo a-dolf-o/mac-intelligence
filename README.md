@@ -10,6 +10,7 @@
   <br>
 
   - [**Audio Edit**](#audio-edit)
+  - [**Automation**](#automation)
   - [**Browser**](#browser)
   - [**Cloud Storage**](#cloud-storage)
   - [**Creative Suite**](#creative-suite)
@@ -39,6 +40,16 @@
 > [**Audacity ® | Free Audio editor, recorder, music making and more!**](https://www.audacityteam.org)
 
 Audacity is the world's most popular audio editing and recording app. Edit, mix, and enhance your audio tracks with the power of Audacity.
+
+[_back_](#table-of-contents)
+
+---
+
+## Automation
+
+> [**n8n - AI Workflow Automation Platform**](https://n8n.io)
+
+n8n is a workflow automation platform that uniquely combines AI capabilities with business process automation, giving technical teams the flexibility of ...
 
 [_back_](#table-of-contents)
 
@@ -279,10 +290,6 @@ Free, open source diagramming application with 100M+ users. Store your data wher
 > [**Gamma | Best AI Presentation Maker & Website Builder**](https://gamma.app)
 
 Design stunning presentations, websites, and more with Gamma—your all-in-one AI-powered design partner. No code or design experience needed.
-
-> [**Napkin AI - Turn Text into AI Diagrams and Visuals**](https://www.napkin.ai)
-
-Just paste your text, and Napkin AI instantly turns it into flowcharts, mind maps, infographics, diagrams, data charts & slides. No design skills needed.
 
 [_back_](#table-of-contents)
 
