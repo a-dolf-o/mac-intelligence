@@ -280,6 +280,10 @@ Design stunning presentations, websites, and more with Gamma—your all-in-one A
 
 LaunchOS is the best Launchpad alternative for macOS 26 Tahoe and macOS 27 Golden Gate. Restore your familiar app grid, folders, and custom layout.
 
+> [**MangoDisk — Free Disk Cleaner for Windows & Mac**](https://mangodisk.app)
+
+Free up space on macOS and Windows with MangoDisk. Clean caches and privacy traces, optimize your system, and use optional AI explanations to understand ...
+
 > [**Raycast - Your shortcut to everything**](https://www.raycast.com)
 
 What else can Raycast do? It can take notes. Track your flights. Convert anything. Search files. Run scripts. Manage your windows. Plan your day. Remind you of ...
