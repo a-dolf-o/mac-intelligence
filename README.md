@@ -46,6 +46,10 @@ Use ChatGPT to answer questions, write, create images, complete work, and codeâ€
 
 Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work. Create with ...
 
+> [**Grok**](https://grok.com)
+
+Grok is an AI assistant built by SpaceXSI. Chat, create images, write code, and get real-time answers from the web and X.
+
 [_back_](#table-of-contents)
 
 ---
