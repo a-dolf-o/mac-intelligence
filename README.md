@@ -120,7 +120,7 @@ Enjoy the collection of professional creative software in Adobe Creative Cloud i
 
 Powerful, precise, and free forever. Discover Affinity — the next generation of professional photo, design, and layout software built for creative freedom.
 
-> [**Apple Creator Studio**](https://www.apple.com/apple-creator-studio)
+> [**Apple Creator Studio - Apple**](https://www.apple.com/apple-creator-studio)
 
 With an Apple Creator Studio subscription, get intelligent tools in Final Cut Pro, Logic Pro, and Pixelmator Pro, plus premium productivity content.
 
