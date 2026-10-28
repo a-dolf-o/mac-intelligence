@@ -232,9 +232,9 @@ CollaNote is a free note-taking app for iPad, iPhone and Mac. Handwriting with A
 
 Learn how the suite of secure, online tools from Google Workspace empowers teams of all sizes to do their best work.
 
-> [**Microsoft 365 Copilot**](https://m365.cloud.microsoft)
+> [**Microsoft 365 - Sign into Copilot**](https://m365.cloud.microsoft)
 
-Draft in Word, analyze in Excel, and build decks in PowerPoint with AI that delivers finished work. Copilot is integrated into the Microsoft 365 ...
+Microsoft 365 includes Word, Excel, PowerPoint, Outlook, Teams, and OneDrive, with Microsoft Copilot built in to help you create, communicate, and summarize ...
 
 > [**Notion: The AI workspace that works for you.**](https://www.notion.com)
 
