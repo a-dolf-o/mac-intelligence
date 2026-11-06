@@ -324,9 +324,9 @@ Figma is the canvas where design, code, and AI come together. From first idea to
 
 DaVinci Resolve is the world's only all in one solution for editing, color, VFX, motion graphics and audio! The free version works with virtually all 8-bit ...
 
-> [**Edits by Instagram: A video creation app for easy editing and sharing | Instagram for Creators**](https://creators.instagram.com/edits)
+> [**Edits by Instagram: Easy Video Creation & Editing | Edits App**](https://edits.instagram.com)
 
-Edits is the new video creation app by Instagram that helps creators make great videos on their phones. With easy ways to track your ideas, powerful editing ...
+Turn your ideas into stunning videos with Edits, a new video creation app from Instagram. Edit, create & share with ease using powerful tools.
 
 > [**OpenCut**](https://opencut.app)
 
